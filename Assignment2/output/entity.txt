@@ -1,0 +1,4238 @@
+PERSON0	Antoine Griezmann
+ORGANIZATION1	Real Sociedad
+LOCATION2	La Liga
+PERSON3	Griezmann
+ORGANIZATION4	UEFA
+LOCATION5	Mâcon
+ORGANIZATION6	UF Mâcon
+ORGANIZATION7	Montpellier
+LOCATION8	Paris Saint-Germain
+LOCATION9	Paris
+PERSON10	Juan Manuel Iturbe Arévalos
+ORGANIZATION11	FC Porto
+LOCATION12	Argentina
+PERSON13	Iturbe
+LOCATION14	Paraguay
+PERSON15	Cerro Porteño
+PERSON16	Libertad
+ORGANIZATION17	Argentine Primera División
+LOCATION18	Cerro Porteño
+LOCATION19	Porto
+PERSON20	Marcelo Leite Pereira
+ORGANIZATION21	Skoda Xanthi F.C
+PERSON22	Saúl Berjón Pérez
+LOCATION23	Oviedo
+LOCATION24	Asturias
+PERSON25	Alcorcón
+PERSON26	Adrián Colunga
+PERSON27	Recreativo de Huelva
+ORGANIZATION28	Real Zaragoza
+LOCATION29	Getafe
+PERSON30	Delfino Pescara
+ORGANIZATION31	Pescara
+ORGANIZATION32	Pescara Calcio
+LOCATION33	Pescara
+PERSON34	Abruzzo
+PERSON35	Giorgio Repetto
+PERSON36	Bruno Nobili
+PERSON37	Giovanni Galeone
+LOCATION38	Biancazzurri
+PERSON39	Júnior
+PERSON40	Ezequiel Matias Schelotto
+LOCATION41	Atalanta B.C
+LOCATION42	Italy
+PERSON43	Ezequiel Schelotto
+ORGANIZATION44	A.C. Cesena
+ORGANIZATION45	FIFA
+PERSON46	Schelotto
+ORGANIZATION47	Cesena
+ORGANIZATION48	Atalanta
+PERSON49	A.C. Cesena
+PERSON50	Jonathan
+PERSON51	Johnny '' Rossini
+LOCATION52	Sampdoria
+PERSON53	Rossini
+ORGANIZATION54	AC Bellinzona
+LOCATION55	Switzerland
+ORGANIZATION56	EU
+LOCATION57	Cittadella
+ORGANIZATION58	Udinese Calcio
+PERSON59	Fernando Tissone
+LOCATION60	Sassuolo
+ORGANIZATION61	Sampdoria
+PERSON62	Gianluigi Bianco
+ORGANIZATION63	Udinese
+LOCATION64	Greece
+PERSON65	Federico Casarini
+LOCATION66	Carpi
+ORGANIZATION67	Bologna
+LOCATION68	Catania
+PERSON69	Casarini
+PERSON70	Lorenzo Crisetig
+ORGANIZATION71	Internazionale
+PERSON72	Crisetig
+LOCATION73	Cividale del Friuli
+LOCATION74	Udine
+LOCATION75	Škrutovega
+LOCATION76	San Leonardo
+ORGANIZATION77	Donatello
+PERSON78	Giovanissimi Nazionali
+PERSON79	Allievi Nazionali
+PERSON80	José Mourinho
+PERSON81	Mourinho
+PERSON82	Rafael Tolói
+LOCATION83	Brazil
+LOCATION84	Glória
+PERSON85	Campeonato Goiano
+PERSON86	Fabrizio Cacciatore
+ORGANIZATION87	A.S.
+LOCATION88	U.C
+LOCATION89	Turin
+LOCATION90	Piedmont
+PERSON91	Cacciatore
+LOCATION92	Pro Vercelli
+LOCATION93	Vercelli
+LOCATION94	Lecce
+ORGANIZATION95	Coppa Italia
+PERSON96	Pedro Antonio Sánchez Moñino
+PERSON97	Pedro
+LOCATION98	Aspe
+LOCATION99	Alicante
+LOCATION100	Spanish
+ORGANIZATION101	Real Murcia
+PERSON102	Daniele Mori
+ORGANIZATION103	Empoli
+LOCATION104	Livorno
+LOCATION105	Tuscany
+PERSON106	Mori
+PERSON107	Andrea Cupi
+PERSON108	Gabriele Angella
+PERSON109	Lorenzo Stovini
+PERSON110	Lorenzo Tonelli
+PERSON111	Angella
+PERSON112	Diego Fabbrini
+LOCATION113	Empoli
+PERSON114	Daniele Ficagna
+PERSON115	Tonelli
+PERSON116	B. Mori
+ORGANIZATION117	Torneo Giovanile
+LOCATION118	Montaigu
+LOCATION119	Vendée
+LOCATION120	France
+ORGANIZATION121	Santo André
+PERSON122	Javier
+PERSON123	Varas Herrera
+ORGANIZATION124	Sevilla FC
+LOCATION125	Seville
+LOCATION126	Andalusia
+ORGANIZATION127	Sevilla
+PERSON128	Segunda División
+PERSON129	David Cobeño
+PERSON130	Rayo Vallecano
+PERSON131	Varas
+PERSON132	Andrés Palop
+ORGANIZATION133	Numancia
+PERSON134	Palop
+ORGANIZATION135	VfB Stuttgart
+LOCATION136	Palop
+ORGANIZATION137	UEFA Europa League
+PERSON138	Marcelino García Toral
+PERSON139	Gastón Alexis Silva Perdomo
+LOCATION140	Salto
+PERSON141	Gastón Silva
+ORGANIZATION142	Defensor Sporting
+PERSON143	Silva
+ORGANIZATION144	Montevideo Wanderers F.C..
+LOCATION145	Mexico
+LOCATION146	Ecuador
+LOCATION147	Uruguay
+PERSON148	Antonio Meola
+LOCATION149	Naples
+PERSON150	Meola
+LOCATION151	Lucca
+LOCATION152	Avellino
+PERSON153	Víctor Pérez Alonso
+LOCATION154	Albacete
+ORGANIZATION155	Castile-La Mancha
+ORGANIZATION156	Real Valladolid
+PERSON157	Federico Bonazzoli
+PERSON158	Mamadou Tounkara
+ORGANIZATION159	Lazio
+PERSON160	Borja Viguera Manzanares
+LOCATION161	Logroño
+LOCATION162	La Rioja
+ORGANIZATION163	Albacete Balompié
+PERSON164	Roberto Gagliardini
+LOCATION165	Spezia
+LOCATION166	Atalanta
+PERSON167	Mohammed Fatau
+LOCATION168	Granada CF
+PERSON169	Vasilios Karagounis
+LOCATION170	Greek
+ORGANIZATION171	Lega Pro
+LOCATION172	Reggina
+ORGANIZATION173	Olympiacos
+PERSON174	Rubén Rochina Naixes
+ORGANIZATION175	Blackburn Rovers
+LOCATION176	Sagunto
+LOCATION177	Valencian Community
+PERSON178	Rochina
+ORGANIZATION179	FC Barcelona
+ORGANIZATION180	Valencia CF
+ORGANIZATION181	Catalans
+PERSON182	Luis Enrique-led
+ORGANIZATION183	Barcelona
+ORGANIZATION184	Premier League
+ORGANIZATION185	Newcastle United
+ORGANIZATION186	Blackburn
+ORGANIZATION187	Everton
+ORGANIZATION188	Rovers
+ORGANIZATION189	Sheffield Wednesday
+ORGANIZATION190	Fulham
+LOCATION191	Castellón de la Plana
+ORGANIZATION192	Valencia
+PERSON193	Montañés
+PERSON194	Villarreal
+ORGANIZATION195	AD Alcorcón
+PERSON196	Silva Moreira
+PERSON197	Mohamed Salim Fares
+PERSON198	Hellas Verona
+PERSON199	Lorenzo Ferrari
+PERSON200	Pierluigi Cappelluzzo
+PERSON201	Philippe Sylvain Senderos
+LOCATION202	Geneva
+ORGANIZATION203	Servette
+ORGANIZATION204	Arsenal
+PERSON205	A.C. Milan
+PERSON206	Julián Senderos
+PERSON207	Zorica Novaković
+PERSON208	Philippe
+PERSON209	Senderos
+LOCATION210	Servette
+ORGANIZATION211	West Bromwich Albion
+ORGANIZATION212	Middlesbrough
+PERSON213	Arsène Wenger
+ORGANIZATION214	Milan
+PERSON215	Paolo Maldini
+PERSON216	Kakha Kaladze
+PERSON217	Simone Aresti
+PERSON218	Savona
+PERSON219	Aresti
+ORGANIZATION220	Estadio Mestalla
+LOCATION221	Valencia
+LOCATION222	Spain
+ORGANIZATION223	Valencia Club de Fútbol
+LOCATION224	Europe
+ORGANIZATION225	Levante UD
+LOCATION226	Primera División
+LOCATION227	Mestalla
+PERSON228	Óscar Díaz González
+LOCATION229	Madrid
+ORGANIZATION230	Girona FC
+PERSON231	Francisco Ochoa
+PERSON232	Alfreð Finnbogason
+ORGANIZATION233	Helsingborgs IF
+ORGANIZATION234	KSC Lokeren
+LOCATION235	Faroe Islands
+PERSON236	Alfreð
+ORGANIZATION237	Celtic F.C.
+ORGANIZATION238	Rangers F.C.
+ORGANIZATION239	Reading F.C.
+ORGANIZATION240	Southampton
+LOCATION241	Swansea City F.C
+LOCATION242	Reykjavík
+LOCATION243	Edinburgh
+PERSON244	Hutchison Vale
+LOCATION245	Hibernian
+PERSON246	Breiðablik
+LOCATION247	Breiðablik
+ORGANIZATION248	Blackpool
+PERSON249	Josef Alexander Martínez
+LOCATION250	Caracas
+ORGANIZATION251	BSC Young Boys
+PERSON252	Martinez
+ORGANIZATION253	Estudiantes de Merida
+ORGANIZATION254	Deportivo Petare
+ORGANIZATION255	El Salvador
+PERSON256	Antonino Ragusa
+LOCATION257	Messina
+LOCATION258	Sicily
+PERSON259	Ragusa
+LOCATION260	Veneto
+LOCATION261	Treviso
+LOCATION262	Rimini
+ORGANIZATION263	Genoa
+PERSON264	Thomas Bonotto
+PERSON265	Marco Bincoletto
+ORGANIZATION266	Salernitana
+LOCATION267	Verona
+PERSON268	Dino Fava
+PERSON269	Fabinho
+PERSON270	Francesco Acerbi
+PERSON271	Lorenzo Remedi
+PERSON272	Remedi
+PERSON273	Javier Ignacio Aquino Carmona
+LOCATION274	San Francisco Ixhuatán
+LOCATION275	Oaxaca
+ORGANIZATION276	Cruz Azul
+LOCATION277	Cruz Azul
+LOCATION278	Copa America
+PERSON279	Cruz Azul
+LOCATION280	Lagunas
+LOCATION281	Cruz Azul Lagunas
+LOCATION282	Mexico City
+ORGANIZATION283	Cruz Azul Reserves
+ORGANIZATION284	Primera División
+PERSON285	Aquino
+PERSON286	Leonardo Spinazzola
+ORGANIZATION287	Vicenza
+ORGANIZATION288	Juventus
+PERSON289	Hörður Björgvin Magnússon
+LOCATION290	Reykjavik
+PERSON291	Hörður
+PERSON292	Hlynur Atli Magnússon
+LOCATION293	Fram Reykjavik
+LOCATION294	Iceland
+PERSON295	Fram
+LOCATION296	Norway
+ORGANIZATION297	Sunderland
+LOCATION298	Lyon
+ORGANIZATION299	AZ Alkmaar
+PERSON300	Fabrizio Grillo
+LOCATION301	Rome
+PERSON302	Varese
+PERSON303	Emiliano Daniel Velázquez Maldonado
+PERSON304	Leandro Paredes
+PERSON305	Daniel 'Dani
+PERSON306	Nieto Vela
+LOCATION307	Palma Nova
+LOCATION308	Calvià
+LOCATION309	Balearic Islands
+PERSON310	Grega Sorcan
+PERSON311	Pedro Pablo Hernández
+LOCATION312	Tucumán
+ORGANIZATION313	Argentinos Juniors
+ORGANIZATION314	D.C. United
+PERSON315	Hernández
+PERSON316	Franco Zuculini
+PERSON317	Zuculini
+ORGANIZATION318	Belgrano de Cordoba
+ORGANIZATION319	Racing Club
+PERSON320	Hoffenheim
+LOCATION321	Zuculini
+LOCATION322	Venezuela
+PERSON323	Diego Maradona
+ORGANIZATION324	Argentina National Team
+LOCATION325	Panama
+PERSON326	Alejandro Pozuelo Melero
+ORGANIZATION327	Real Betis
+PERSON328	Ettore Gliozzi
+PERSON329	Samuele Massolo
+PERSON330	Raffaele Pucino
+PERSON331	Adam Masina
+PERSON332	Matteo Malagoli
+PERSON333	Masahudu Alhassan
+PERSON334	Alhassan
+ORGANIZATION335	Prampram Mighty Royals
+LOCATION336	Ghana
+LOCATION337	Sierra Leone
+LOCATION338	Gabon
+PERSON339	Edoardo Tognazzi
+PERSON340	Manuel Gullotta
+PERSON341	Óscar Alexandre Whalley Guardado
+PERSON342	Lorenzo Filippini
+LOCATION343	Reggio Calabria
+PERSON344	Oreste Granillo
+ORGANIZATION345	Unione Sportiva Reggio Calabria
+ORGANIZATION346	Società Calcistica Reggio
+ORGANIZATION347	Reggio Foot Ball Club
+ORGANIZATION348	Associazione Sportiva Reggina
+ORGANIZATION349	Società Sportiva La Dominante
+PERSON350	Verona
+LOCATION351	Estadio
+PERSON352	Estadio Villamarín
+PERSON353	Spain Carlos
+PERSON354	Prince Felipe de Borbon
+ORGANIZATION355	Betis
+LOCATION356	Baetis
+LOCATION357	Guadalquivir
+PERSON358	Alfonso
+ORGANIZATION359	Sevilla Football Club
+ORGANIZATION360	Málaga Club de Fútbol
+LOCATION361	Málaga
+PERSON362	Atlético Malagueño
+LOCATION363	Segunda División
+ORGANIZATION364	Tercera División
+ORGANIZATION365	Málaga CF
+ORGANIZATION366	Segunda División B
+LOCATION367	Tercera División
+PERSON368	Lorenzo Sanz
+ORGANIZATION369	Real Madrid
+PERSON370	Fernando Sanz
+PERSON371	Abdullah bin Nasser bin Abdullah Al Ahmed Al Thani
+ORGANIZATION372	Associazione Sportiva Roma
+ORGANIZATION373	ASR
+ORGANIZATION374	Roma
+ORGANIZATION375	Liverpool
+LOCATION376	Stadio Olimpico
+LOCATION377	San Siro
+PERSON378	Luca Belingheri
+PERSON379	Belingheri
+LOCATION380	Alzano
+LOCATION381	Siena
+PERSON382	Como Calcio
+LOCATION383	Ascoli
+PERSON384	Ascoli
+LOCATION385	Genoa
+PERSON386	AlbinoLeffe
+PERSON387	AlbinoLeffe Belingheri
+ORGANIZATION388	Torino
+PERSON389	Marco Moro
+PERSON390	Giuseppe Palma
+LOCATION391	Spyris Kaunas
+LOCATION392	Napoli
+PERSON393	Davide Zappacosta
+PERSON394	Zappacosta
+LOCATION395	Isola Liri
+LOCATION396	Berretti
+LOCATION397	Isola del Liri
+LOCATION398	Sora
+LOCATION399	Giovanissimi
+PERSON400	Federico Mattiello
+ORGANIZATION401	Chievo
+PERSON402	Alfred N'Diaye
+PERSON403	Alfred
+LOCATION404	US Vandœuvre
+LOCATION405	Vandœuvre-lès-Nancy
+PERSON406	Nancy
+PERSON407	N'Diaye
+PERSON408	Frédéric Biancalani
+ORGANIZATION409	Lens
+ORGANIZATION410	Lille
+PERSON411	Villarreal Club de Fútbol
+LOCATION412	Castellón
+ORGANIZATION413	Segunda División
+LOCATION414	El Madrigal
+LOCATION415	Amarillo
+PERSON416	Villarreal CF
+PERSON417	Cervantes
+PERSON418	Castellón
+PERSON419	Rayo Vallecano de Madrid
+PERSON420	Rayo
+LOCATION421	Vallecas
+PERSON422	Deportivo Alavés
+PERSON423	Míchel
+ORGANIZATION424	Getafe Club de Fútbol
+LOCATION425	Spanish La Liga
+PERSON426	Alfonso Pérez
+ORGANIZATION427	Royal Emirates Group
+PERSON428	Enrique Condes García
+PERSON429	Aurelio Miranda Olavaria
+PERSON430	Antonio Corridor Lozano
+PERSON431	Manuel Serrano Vergara
+PERSON432	Miguel Cubero Francés
+PERSON433	Club Getafe Deportivo
+LOCATION434	Campo
+LOCATION435	San Isidro
+PERSON436	Club Getafe
+ORGANIZATION437	CP Villarrobledo
+LOCATION438	Segunda
+PERSON439	Almería
+ORGANIZATION440	Club Atlético Osasuna
+ORGANIZATION441	Osasuna
+LOCATION442	Pamplona
+LOCATION443	Navarre
+ORGANIZATION444	Estadio Reyno de Navarra
+ORGANIZATION445	UEFA Champions League
+PERSON446	Alpi
+ORGANIZATION447	Juventus Football Club
+ORGANIZATION448	Torino Football Club
+LOCATION449	Alps
+ORGANIZATION450	Stadio Olimpico
+LOCATION451	Alpi
+PERSON452	Studio Hutter
+ORGANIZATION453	Stadio Comunale
+PERSON454	Stadio Olimpico
+PERSON455	Giacomo Bonaventura
+LOCATION456	San Severino Marche
+PERSON457	Bonaventura
+PERSON458	Pergocrema
+ORGANIZATION459	Padova
+PERSON460	Edenilson Andrade dos Santos
+ORGANIZATION461	Porto Alegre
+ORGANIZATION462	Corinthians
+PERSON463	Edenilson
+LOCATION464	Venancio Aires
+PERSON465	Veranópolis
+ORGANIZATION466	FGF
+PERSON467	Salvatore Andrea Molina
+ORGANIZATION468	Lega Pro Prima Divisione U.S. Foggia
+PERSON469	Molina
+ORGANIZATION470	Foggia
+ORGANIZATION471	Nocerina
+LOCATION472	Poland
+LOCATION473	U.S. Foggia
+PERSON474	Alessandro De Leidi
+PERSON475	Emanuele Suagher
+ORGANIZATION476	Lega Pro Prima Divisione S.S. Tritium
+PERSON477	Suagher
+PERSON478	Ternana
+PERSON479	Daniele Casiraghi
+PERSON480	Marcello Possenti
+PERSON481	Jurgen Pandiani
+PERSON482	Christian Monacizzo
+LOCATION483	Romania
+LOCATION484	Turkey
+LOCATION485	Macedonia
+LOCATION486	Denmark
+PERSON487	Rubén Daniel Bentancourt Morales
+PERSON488	Pierluigi Gollini
+PERSON489	Jozabed Sánchez Ruiz
+PERSON490	Matteo Cipriani
+PERSON491	Giacomo Ricci
+PERSON492	Federico Cirelli
+PERSON493	Luciano Vietto
+LOCATION494	Balnearia
+ORGANIZATION495	Racing Club de Avellaneda
+PERSON496	Claudio Vivas
+ORGANIZATION497	Estudiantes de La Plata
+PERSON498	Racing Club Avellaneda
+PERSON499	Diego Simeone
+PERSON500	Petar Golubović
+ORGANIZATION501	Novara
+ORGANIZATION502	A.S. Roma
+PERSON503	Eddy Silvestre Pascual Israfilov
+PERSON504	Eddy
+PERSON505	Eddy Pascual
+ORGANIZATION506	Granada CF
+PERSON507	Andrea Mancini
+PERSON508	Felice Mancini
+PERSON509	Felice
+PERSON510	Andrea
+PERSON511	Hélder Manuel Marques Postiga
+LOCATION512	Portuguese
+PERSON513	Postiga
+LOCATION514	England
+ORGANIZATION515	Tottenham
+LOCATION516	Vila
+LOCATION517	Conde
+ORGANIZATION518	Varzim SC
+ORGANIZATION519	Porto
+PERSON520	Octávio Machado
+PERSON521	Derlei
+PERSON522	Primeira Liga
+PERSON523	Ashley Cole
+ORGANIZATION524	Chelsea
+PERSON525	Cole
+LOCATION526	Stepney
+LOCATION527	London
+PERSON528	Chelsea
+PERSON529	Nabil Jaadi
+ORGANIZATION530	Real Club Deportivo Mallorca
+LOCATION531	Palma
+LOCATION532	Majorca
+LOCATION533	Mallorca
+PERSON534	Adolfo Vázquez
+ORGANIZATION535	republican
+PERSON536	Junta Directiva del Alfonso XIII
+LOCATION537	Buenos Aires
+ORGANIZATION538	Real Sociedad Alfonso
+PERSON539	Club Deportivo Mallorca
+PERSON540	Es Fortí
+ORGANIZATION541	La Liga
+PERSON542	Nicolò Cherubin
+PERSON543	Jasmin Kurtić
+LOCATION544	Palermo
+PERSON545	Kurtić
+ORGANIZATION546	ND Gorica
+PERSON547	Bela Krajina
+LOCATION548	Gorica
+ORGANIZATION549	Palermo
+LOCATION550	Palermo jersey
+ORGANIZATION551	Fiorentina
+PERSON552	Erik Friberg
+LOCATION553	Lindome
+PERSON554	Friberg
+ORGANIZATION555	KR Reykjavíkur
+ORGANIZATION556	Spartak Moscow
+ORGANIZATION557	Seattle Sounders FC of Major League Soccer
+ORGANIZATION558	Sounders
+ORGANIZATION559	Los Angeles Galaxy
+ORGANIZATION560	Seattle Sounders
+ORGANIZATION561	Malmö FF
+LOCATION562	Sweden
+PERSON563	Mathias Ranégie
+PERSON564	Ivo Pękalski
+PERSON565	José Ángel Gómez Campaña
+PERSON566	Campaña
+ORGANIZATION567	Hannover
+PERSON568	Piotr Trochowski
+PERSON569	Manu
+PERSON570	Liassine Cadamuro-Bentaïba
+LOCATION571	Algeria
+PERSON572	Cadamuro
+LOCATION573	Toulouse
+PERSON574	Bou Ismaïl
+ORGANIZATION575	FC Sochaux-Montbéliard
+PERSON576	Philippe Montanier
+PERSON577	Xabier Prieto
+PERSON578	Vahid Halilhodžić
+ORGANIZATION579	CA Osasuna
+PERSON580	Bernardo José Espinosa Zúñiga
+LOCATION581	Cali
+PERSON582	Bernardo
+ORGANIZATION583	Racing de Santander
+PERSON584	Nicolás Martín Gorobsov
+ORGANIZATION585	Politehnica Timişoara
+PERSON586	Gorobsov
+LOCATION587	San Pedro
+ORGANIZATION588	Vicenza Primavera
+LOCATION589	Cesena
+PERSON590	Politehnica Timişoara
+PERSON591	Simone Scuffet
+PERSON592	Navarro Jiménez
+PERSON593	Navarro
+ORGANIZATION594	Deportivo de La Coruña
+PERSON595	João Pedro Geraldino dos Santos Galvão
+PERSON596	João Pedro
+ORGANIZATION597	Peñarol
+ORGANIZATION598	Atlético Mineiro
+ORGANIZATION599	Atlético Paranaense
+PERSON600	Vanderlei Luxemburgo
+PERSON601	Palermo
+PERSON602	Maurizio Zamparini
+PERSON603	Walter Sabatini
+ORGANIZATION604	Sparta Prague
+PERSON605	Josip Iličić
+PERSON606	Samuel Llorca Ripoll
+PERSON607	Samuel
+LOCATION608	Hércules CF
+PERSON609	Elche CF Ilicitano
+PERSON610	David Vidal
+LOCATION611	Elche
+ORGANIZATION612	Sheffield United and Fulham
+PERSON613	Abdoulaye
+LOCATION614	Saint-Louis
+ORGANIZATION615	Académica de Coimbra
+PERSON616	Álvaro González Soberón
+LOCATION617	Santander
+LOCATION618	Cantabria
+PERSON619	Álvaro
+ORGANIZATION620	RCD Mallorca
+PERSON621	Mauro Javier dos Santos
+PERSON622	Mauro
+ORGANIZATION623	UD Almería
+PERSON624	Borja López Menéndez
+ORGANIZATION625	Monaco FC
+PERSON626	Nicolás Federico López Alonso
+LOCATION627	Montevideo
+PERSON628	López
+ORGANIZATION629	Nacional
+PERSON630	Juan Ramón Carrasco
+ORGANIZATION631	Central Español
+PERSON632	Nacional
+PERSON633	Leonardo Pavoletti
+PERSON634	Raúl Alonso Jiménez Rodríguez
+ORGANIZATION635	Club América
+LOCATION636	Primera División de Mexico
+PERSON637	América
+PERSON638	Alfredo Tena
+ORGANIZATION639	Monarcas Morelia
+ORGANIZATION640	Estadio Azteca
+PERSON641	Andrea Bovo
+ORGANIZATION642	Calcio Padova
+PERSON643	Mestre
+LOCATION644	Venice
+PERSON645	Venezia
+PERSON646	Bovo
+PERSON647	A.C. Venezia
+ORGANIZATION648	AC Venezia
+ORGANIZATION649	Bari
+PERSON650	Ivan Rajčić
+PERSON651	Stadio Moretti
+LOCATION652	Stadio Friuli
+LOCATION653	Salvador
+PERSON654	Sevilla López
+LOCATION655	Berja
+LOCATION656	Almería
+PERSON657	Sven Gustav Jansson
+LOCATION658	Arlöv
+LOCATION659	Allsvenskan
+PERSON660	Jansson
+PERSON661	Jasmin Sudić
+PERSON662	Rikard Norlings
+ORGANIZATION663	Unione Sportiva Città
+ORGANIZATION664	Anglo Panormitan Athletic and Football Club
+PERSON665	Matteo Bachini
+PERSON666	Simone Benedetti
+PERSON667	Benedetti
+ORGANIZATION668	Torino F.C
+PERSON669	Silvano Benedetti
+ORGANIZATION670	Torino FC
+ORGANIZATION671	Responsabile Tecnico Scuola Calcio
+ORGANIZATION672	Internazionale Milano
+PERSON673	Alen Stevanović
+ORGANIZATION674	Inter
+LOCATION675	Gubbio
+PERSON676	Fernando José Torres Sanz
+PERSON677	Torres
+ORGANIZATION678	Atlético Madrid
+ORGANIZATION679	Segunda División for Atlético Madrid
+LOCATION680	Anfield
+PERSON681	Robbie Fowler
+ORGANIZATION682	Aston Villa
+ORGANIZATION683	Unione Sportiva Lecce
+LOCATION684	U.S.
+ORGANIZATION685	U.S.
+LOCATION686	Apulia
+ORGANIZATION687	Lecce
+ORGANIZATION688	Sporting Club Lecce
+PERSON689	Francesco Marangi
+PERSON690	Luigi Lopez
+ORGANIZATION691	Cagliari Calcio
+LOCATION692	Cagliari
+LOCATION693	Sardinia
+PERSON694	Gigi Riva
+ORGANIZATION695	Cagliari
+PERSON696	Rossoblu
+PERSON697	Mario Martiradonna
+PERSON698	Pierluigi Cera
+PERSON699	Nené
+PERSON700	Ricciotti Greatti
+PERSON701	Luigi Riva
+PERSON702	Brescia Calcio
+LOCATION703	Brescia
+LOCATION704	Lombardy
+ORGANIZATION705	Notts County
+PERSON706	Ballon
+PERSON707	Roberto Baggio
+ORGANIZATION708	Brescia
+ORGANIZATION709	Paris Saint-Germain
+ORGANIZATION710	Divisione Nazionale
+PERSON711	Alessandro Rosina
+LOCATION712	St. Petersburg
+PERSON713	Belvedere Marittimo
+PERSON714	Rosina
+LOCATION715	Milan
+ORGANIZATION716	Parma
+ORGANIZATION717	Parma Primavera
+PERSON718	Hidetoshi Nakata
+PERSON719	B. Rosina
+PERSON720	Tommaso Berni
+LOCATION721	S.C. Braga
+PERSON722	Berni
+PERSON723	Primavera Team
+PERSON724	B. Berni
+LOCATION725	Ternana
+PERSON726	Angelo Peruzzi
+PERSON727	Marco Ballotta
+PERSON728	Fernando Muslera
+PERSON729	Juan Pablo Carrizo
+LOCATION730	Salernitana
+PERSON731	Salvatore Pinna
+ORGANIZATION732	SC Braga
+PERSON733	Yann M'Vila
+ORGANIZATION734	Rennes
+ORGANIZATION735	Ligue
+PERSON736	Yohan M'Vila
+PERSON737	M'Vila
+LOCATION738	Picardy
+ORGANIZATION739	Amiens SC
+PERSON740	Stade Rennais
+ORGANIZATION741	Nice
+PERSON742	Frédéric Antonetti
+PERSON743	Iriney Santos da Silva
+LOCATION744	Humaitá
+ORGANIZATION745	Amazonas
+PERSON746	Iriney
+PERSON747	Associação Desportiva São Caetano
+PERSON748	Celta de Vigo
+PERSON749	Associazione Calcio Siena
+LOCATION750	Stadio
+PERSON751	Stadio Franchi
+LOCATION752	Florence
+PERSON753	A.C. Siena
+LOCATION754	Isola d’Arbia
+ORGANIZATION755	Società Sportiva Robur
+ORGANIZATION756	Associazione Calcio Siena
+ORGANIZATION757	Associazione Sportiva Livorno Calcio
+PERSON758	Armando Picchi
+LOCATION759	U.S. Livorno
+LOCATION760	Pisa
+PERSON761	Edda Ciano Mussolini
+PERSON762	Benito Mussolini
+LOCATION763	Eccellenza
+PERSON764	Rene Krhin
+PERSON765	Vid Belec
+ORGANIZATION766	NK Maribor
+ORGANIZATION767	European Union
+PERSON768	Jose Mourinho
+LOCATION769	United States
+PERSON770	Wesley Sneijder
+PERSON771	Sulley Muntari
+ORGANIZATION772	Empoli Football Club
+LOCATION773	European
+LOCATION774	Udinese
+ORGANIZATION775	Associazione Sportiva Bari
+LOCATION776	Bari
+ORGANIZATION777	Liberty Bari
+ORGANIZATION778	US Ideale
+PERSON779	David Platt
+PERSON780	Igor Protti
+PERSON781	Antonio Cassano
+ORGANIZATION782	Associazione Calcio Cesena
+LOCATION783	Romagna
+PERSON784	Gianluigi Savoldi
+LOCATION785	Calcio Catania
+LOCATION786	San Raineri
+PERSON787	Messina
+ORGANIZATION788	Royal Yacht Catania
+PERSON789	Gaetano Ventimiglia
+PERSON790	Francesco Sturzo d'Aldobrando
+PERSON791	Ascoli Calcio
+PERSON792	Ascoli Piceno
+LOCATION793	Marche
+PERSON794	A. Ascoli
+PERSON795	Candido Augusto Vecchi
+ORGANIZATION796	Ascoli Vigor
+LOCATION797	U.S. Ascolana
+ORGANIZATION798	A.S. Ascoli
+PERSON799	Cino Del Duca
+PERSON800	Costantino Rozzi
+PERSON801	Carlo Mazzone
+PERSON802	Ahmed Apimah Barusso
+LOCATION803	Nocerina
+PERSON804	Barusso
+LOCATION805	Manfredonia
+PERSON806	Abedi Pele
+LOCATION807	Nania F.C
+LOCATION808	Accra
+PERSON809	Manfredonia
+PERSON810	Alfredo Cardinale
+LOCATION811	Crotone
+PERSON812	Rafael Márquez Álvarez
+LOCATION813	Zamora
+LOCATION814	Michoacán
+ORGANIZATION815	New York Red Bulls
+ORGANIZATION816	Monaco
+PERSON817	Hugo Sánchez
+PERSON818	Márquez
+ORGANIZATION819	Deportivo Toluca
+PERSON820	Pablo Contreras
+ORGANIZATION821	Società Sportiva Calcio Napoli
+ORGANIZATION822	Napoli
+LOCATION823	Southern Italy
+ORGANIZATION824	Associazione Calcio Napoli
+PERSON825	Aurelio De Laurentiis
+ORGANIZATION826	Napoli Soccer
+ORGANIZATION827	Naples Foot-Ball & Cricket Club
+PERSON828	William Poths
+PERSON829	Hector M. Bayon
+PERSON830	Conforti
+PERSON831	Catterina
+PERSON832	Amedeo Salsi
+PERSON833	Marco D'Alessandro
+ORGANIZATION834	Verona
+PERSON835	D'Alessandro
+LOCATION836	Grosseto
+PERSON837	Héctor Yuste Cantón
+LOCATION838	Cartagena
+PERSON839	Real Murcia
+PERSON840	Héctor
+ORGANIZATION841	FC Cartagena
+LOCATION842	Las Palas
+LOCATION843	Murcia
+PERSON844	Alejandro Arribas Garrido
+PERSON845	Arribas
+PERSON846	Rayo Majadahonda
+ORGANIZATION847	CDA Navalcarnero
+PERSON848	Michael Rabušic
+ORGANIZATION849	Gambrinus
+ORGANIZATION850	FC Slovan Liberec
+ORGANIZATION851	FC Náměšť
+PERSON852	Rabušic
+PERSON853	Vysočina Jihlava
+LOCATION854	Vysočina
+ORGANIZATION855	FC Brno
+PERSON856	Brno
+ORGANIZATION857	Zbrojovka Brno
+PERSON858	Josef Šural
+PERSON859	Dídac Vilà Rosselló
+ORGANIZATION860	A.C. Milan
+LOCATION861	Mataró
+LOCATION862	Barcelona
+LOCATION863	Catalonia
+PERSON864	Vilà
+ORGANIZATION865	RCD Espanyol
+PERSON866	Mauricio Pochettino
+ORGANIZATION867	Athletic Bilbao
+ORGANIZATION868	Pericos
+ORGANIZATION869	Espanyol
+PERSON870	David García
+PERSON871	Matteo Bianchetti
+PERSON872	Iván Rodrigo Piris
+LOCATION873	São Paulo
+PERSON874	Piris
+PERSON875	Cerro Porteno
+ORGANIZATION876	Manchester United
+ORGANIZATION877	Boca Juniors of Argentina
+ORGANIZATION878	Tottenham Hotspur
+ORGANIZATION879	Benfica
+ORGANIZATION880	Bologna FC
+ORGANIZATION881	São Paulo FC
+PERSON882	Víctor Ruiz Torre
+PERSON883	Ruiz
+PERSON884	Jesús Dátolo
+PERSON885	Adryan Oliveira Tavares
+LOCATION886	Rio de Janeiro
+ORGANIZATION887	Flamengo
+LOCATION888	Copa São Paulo
+ORGANIZATION889	Futebol Júnior
+LOCATION890	Londrina
+LOCATION891	Estádio
+ORGANIZATION892	Unione Calcio Sampdoria
+PERSON893	Sampierdarenese
+PERSON894	Andrea Doria
+ORGANIZATION895	Stadio Luigi Ferraris
+ORGANIZATION896	Genoa Cricket and Football Club
+PERSON897	Ishak Belfodil
+LOCATION898	Mostaganem
+PERSON899	Belfodil
+ORGANIZATION900	OSC Élancourt
+ORGANIZATION901	Trappes FC
+ORGANIZATION902	Clairefontaine
+ORGANIZATION903	AC Boulogne Billencourt
+PERSON904	Hatem Ben Arfa
+LOCATION905	Issiar Dia
+ORGANIZATION906	Clermont Foot
+LOCATION907	Clermont
+PERSON908	Alessio Cragno
+PERSON909	Godfred Donsah
+PERSON910	Maks Barisic
+PERSON911	Luís Carlos Pereira Carneiro
+LOCATION912	Lamelas
+ORGANIZATION913	Castro Daire Municipality
+PERSON914	G.D. Estoril Praia
+PERSON915	Licá
+PERSON916	Académica de Coimbra
+PERSON917	G.D. Tourizense
+PERSON918	Marítimo
+PERSON919	Dragan Lovric
+PERSON920	Gustavo Campanharo
+PERSON921	Alexandre Coeff
+LOCATION922	Brest
+ORGANIZATION923	RC Lens
+PERSON924	Coeff
+PERSON925	Gonzalo Escalante
+PERSON926	Gonzalo Piermateri
+PERSON927	Rúben Miguel Nunes Vezo
+PERSON928	Thomas Teye Partey
+PERSON929	Thomas
+PERSON930	Anaitz Arbilla Zabala
+PERSON931	Arbilla
+LOCATION932	Baskonia
+ORGANIZATION933	UD Salamanca
+LOCATION934	Castile
+PERSON935	León
+PERSON936	Jorge García Morcillo
+ORGANIZATION937	Valencian Community
+PERSON938	Alcoyano
+PERSON939	Ángel Martín Correa
+PERSON940	Raúl Rodríguez Navas
+PERSON941	Fredy Hinestroza Arias
+ORGANIZATION942	Getafe CF
+PERSON943	James David Rodríguez Rubio
+LOCATION944	Cúcuta
+PERSON945	Carlos Valderrama
+PERSON946	Carlos
+PERSON947	Cristiano Ronaldo
+PERSON948	Rodriguez
+ORGANIZATION949	Envigado FC
+PERSON950	Club Atlético Banfield
+PERSON951	Banfield
+PERSON952	Davide Cinaglia
+PERSON953	Ascoli Picchio
+PERSON954	Luca Rizzo
+PERSON955	Riccardo Pasi
+LOCATION956	Bologna
+PERSON957	Pasi
+LOCATION958	Bologna F.C
+PERSON959	Alessandro Elia
+PERSON960	Elia
+ORGANIZATION961	Parma F.C
+PERSON962	Luca Antonelli
+PERSON963	Nicholas Lentini
+PERSON964	Alex Meret
+PERSON965	Abraham Minero Fernández
+LOCATION966	Granollers
+PERSON967	Abraham
+PERSON968	Jami Rafati
+ORGANIZATION969	AS Livorno Calcio
+PERSON970	Zouhar Feddal
+PERSON971	Daniele Sommariva
+PERSON972	Giuseppe Panico
+ORGANIZATION973	Sporting Limited Association
+PERSON974	José Luis Gallegos Arnosa
+PERSON975	Ramón Sánchez Pizjuán
+LOCATION976	Nervión
+ORGANIZATION977	Generalisimo Cups
+PERSON978	Luca Giannone
+LOCATION979	Casalnuovo
+LOCATION980	Pro Patria
+PERSON981	Mirko Eramo
+ORGANIZATION982	Acquaviva delle Fonti
+PERSON983	Rolando Mandragora
+PERSON984	Estadio Santiago Bernabéu
+ORGANIZATION985	Real Madrid Club de Fútbol
+PERSON986	El Bernabéu
+PERSON987	Santiago Bernabéu Yeste
+LOCATION988	Bernabéu
+LOCATION989	Santiago Bernabéu
+LOCATION990	Paseo de la Castellana
+LOCATION991	Chamartín
+PERSON992	Concha Espina
+PERSON993	Padre Damián
+PERSON994	Rafael Salgado
+ORGANIZATION995	Banco Mercantil
+LOCATION996	Estadio Chamartín
+PERSON997	Manuel Muñoz Monasterio
+PERSON998	Luis Alemany Soler
+PERSON999	Giacomo Sciacca
+PERSON1000	Andrea Palazzi
+ORGANIZATION1001	Inter Milan
+PERSON1002	Zdravko Kuzmanović
+PERSON1003	Saint-Étienne
+PERSON1004	Davide Costa
+PERSON1005	Giovanni Tortora
+PERSON1006	Michele Somma
+PERSON1007	Mirko Esposito
+PERSON1008	Luca Pipoli
+PERSON1009	Lorenzo Capezzani
+PERSON1010	Adrian Marius Stoian
+LOCATION1011	Craiova
+ORGANIZATION1012	A.S. Bari
+ORGANIZATION1013	Juventus F.C
+PERSON1014	Mirko Vučinić
+PERSON1015	Alessandro Crescenzi
+PERSON1016	Simone Sini
+PERSON1017	Alberto Grassi
+PERSON1018	Rosseti Valerio Lorenzo
+PERSON1019	Davide Mordini
+PERSON1020	Andrea Gemignani
+PERSON1021	Matteo Biggeri
+PERSON1022	Luzayadio Andy Bangu
+PERSON1023	Nicolò Gigli
+PERSON1024	Jacopo Petriccione
+PERSON1025	Luca Anania
+ORGANIZATION1026	Delfino Pescara
+PERSON1027	Anania
+ORGANIZATION1028	Lecco
+PERSON1029	Marco D'Adda
+PERSON1030	Pro Sesto
+PERSON1031	D'Adda
+LOCATION1032	Sesto San Giovanni
+PERSON1033	Alonso Piola
+PERSON1034	Domenico Cecere
+PERSON1035	Vincenzo Sicignano
+PERSON1036	Sicignano
+PERSON1037	Federico Melchiorri
+LOCATION1038	Treia
+PERSON1039	Melchiorri
+ORGANIZATION1040	Empoli F.C
+PERSON1041	Cristian Molinaro
+PERSON1042	Sambenedettese
+LOCATION1043	New Field
+ORGANIZATION1044	Futbol Club Barcelona
+PERSON1045	Les Corts
+ORGANIZATION1046	Estadi del FC Barcelona
+PERSON1047	László Kubala
+PERSON1048	Felipe Acedo Colunga
+ORGANIZATION1049	Archbishop of Barcelona
+PERSON1050	Gregorio Modrego
+PERSON1051	Eugenio Lamanna
+ORGANIZATION1052	Como
+PERSON1053	Agustín Sebastián Cousillas
+PERSON1054	Daniele Bartolini
+PERSON1055	Andrea Molinelli
+PERSON1056	Elia Bruzzi
+PERSON1057	Atalanta Bergamasca Calcio
+LOCATION1058	Atalanta Bergamo
+ORGANIZATION1059	Atalanta BC
+LOCATION1060	Bergamo
+ORGANIZATION1061	Atleti Azzurri
+PERSON1062	Regina
+PERSON1063	Doni
+ORGANIZATION1064	Cardiff City
+LOCATION1065	Swiss
+ORGANIZATION1066	FC Bergamo
+PERSON1067	Arnaldo Antonio Sanabria Ayala
+PERSON1068	Tonny Sanabria
+PERSON1069	Miguel Alfonso Herrero Javaloyas
+LOCATION1070	Burjassot
+PERSON1071	Rubén Baraja
+PERSON1072	Edu
+PERSON1073	Manuel Fernandes
+PERSON1074	Unai Emery
+PERSON1075	Club Portugalete
+PERSON1076	Emery
+PERSON1077	Michael Agazzi
+LOCATION1078	Ponte San Pietro
+PERSON1079	Agazzi
+PERSON1080	Generoso Rossi
+PERSON1081	Cagliari Calcio
+ORGANIZATION1082	Triestina
+PERSON1083	Triestina
+PERSON1084	Alex Calderoni
+PERSON1085	Federico Marchetti
+PERSON1086	Ivan Pelizzoli
+LOCATION1087	Agazzi
+PERSON1088	Marchetti
+LOCATION1089	San Giuliano Terme
+ORGANIZATION1090	Piacenza
+PERSON1091	Fabbrini
+PERSON1092	Ricardo Chará
+PERSON1093	Flavio Lazzari
+PERSON1094	Giampiero Pinzi
+PERSON1095	Luca Ceppitelli
+LOCATION1096	Castiglione del Lago
+ORGANIZATION1097	Perugia
+LOCATION1098	Umbria
+PERSON1099	Ceppitelli
+ORGANIZATION1100	A.S. Andria BAT
+LOCATION1101	Barletta-Andria-Trani
+PERSON1102	Giampaolo Giuliacci
+PERSON1103	Andria
+ORGANIZATION1104	Lega Pro Prima Divisione
+LOCATION1105	Ceppitelli
+PERSON1106	Nicola Bellomo
+PERSON1107	Bellomo
+LOCATION1108	Modena
+PERSON1109	Daniele De Vezze
+PERSON1110	Alessandro Marotta
+LOCATION1111	Barletta
+PERSON1112	Alessio Lanotte
+LOCATION1113	Ukraine
+ORGANIZATION1114	Royal Sporting Club
+LOCATION1115	Coruña
+LOCATION1116	Galicia
+PERSON1117	Depor
+PERSON1118	Jose María Abalo
+PERSON1119	Emanuele Rovini
+PERSON1120	Tomislav Gomelt
+PERSON1121	Joel Chukwuma Obi
+LOCATION1122	Lagos
+PERSON1123	Joel Obi
+PERSON1124	A. Obi
+ORGANIZATION1125	Werder Bremen
+PERSON1126	Dejan Stanković
+PERSON1127	Obi
+PERSON1128	Philippe Coutinho
+PERSON1129	Samuel Eto'o
+ORGANIZATION1130	Milan Derby
+PERSON1131	Coutinho
+PERSON1132	Nwankwo Obiora
+LOCATION1133	Nigeria
+PERSON1134	Guilherme dos Santos Torres
+PERSON1135	Guilherme
+ORGANIZATION1136	Valladolid Club de Fútbol
+LOCATION1137	Valladolid
+LOCATION1138	León
+PERSON1139	Pucela
+ORGANIZATION1140	Estadio Nuevo José Zorrilla
+LOCATION1141	All-Time La Liga
+ORGANIZATION1142	Real Unión Deportiva de Valladolid
+ORGANIZATION1143	Club Deportivo Español
+ORGANIZATION1144	Valladolid
+ORGANIZATION1145	Terrassa FC
+PERSON1146	José Luis Saso
+PERSON1147	Mateus Ribeiro Dos Santoa
+PERSON1148	Marco Benassi
+PERSON1149	Gabriele Morelli
+PERSON1150	Levante Unión Deportiva
+LOCATION1151	Estadi Ciutat de València
+ORGANIZATION1152	Levante Fútbol Club
+LOCATION1153	La Malvarrosa
+ORGANIZATION1154	Cabanyal FC
+LOCATION1155	La Platjeta
+LOCATION1156	Algirós
+ORGANIZATION1157	Levante FC
+ORGANIZATION1158	Gimnástico Fútbol Club
+ORGANIZATION1159	Juventud Obrera
+ORGANIZATION1160	Universitario Fútbol Club
+PERSON1161	Lorenzo Simonetti
+PERSON1162	Marco Stoppini
+PERSON1163	Tommaso Borselli
+PERSON1164	Caio Rangel da Silva
+PERSON1165	Marijan Coric
+PERSON1166	Isaac Cofie
+PERSON1167	Alberto Zapater
+PERSON1168	Giuseppe Scalera
+PERSON1169	Gaetano Castrovilli
+PERSON1170	Ángel Luis Rodríguez Díaz
+LOCATION1171	Santa Cruz de Tenerife
+PERSON1172	Ángel
+ORGANIZATION1173	Tenerife
+ORGANIZATION1174	Real Madrid Castilla
+LOCATION1175	Canary Islands
+PERSON1176	Marco Capuano
+PERSON1177	Capuano
+PERSON1178	Zdeněk Zeman
+PERSON1179	Michele Camporese
+PERSON1180	Camporese
+PERSON1181	Alessandro Gamberini
+PERSON1182	Cesare Natali
+PERSON1183	Per Krøldrup
+PERSON1184	La Viola
+PERSON1185	Denis Dmitriyevich Cheryshev
+ORGANIZATION1186	Villarreal CF
+PERSON1187	Douglas Pereira dos Santos
+PERSON1188	Douglas
+PERSON1189	Borja Gómez Pérez
+ORGANIZATION1190	FC Karpaty Lviv
+PERSON1191	Gómez
+PERSON1192	AD Alcorcón
+PERSON1193	Pérez
+ORGANIZATION1194	Ukrainian Premier League
+PERSON1195	Konstantinos
+PERSON1196	Manolas
+ORGANIZATION1197	AEK Athens
+PERSON1198	Kostas Manolas
+ORGANIZATION1199	AEK
+PERSON1200	Stelios Manolas
+LOCATION1201	Naxos
+LOCATION1202	Athens
+PERSON1203	Kostas
+LOCATION1204	Thrasyvoulos F.C
+PERSON1205	Dusan Bajevic
+ORGANIZATION1206	AO Kavala
+PERSON1207	Jaime Romero Gómez
+LOCATION1208	Valdeganga
+ORGANIZATION1209	Albacete
+PERSON1210	Romero
+PERSON1211	Albacete Balompié
+ORGANIZATION1212	Campionato Nazionale Primavera
+PERSON1213	Andrea Coda
+PERSON1214	Cristiano Biraghi
+ORGANIZATION1215	Internazionale Born
+LOCATION1216	Cernusco
+PERSON1217	Naviglio
+PERSON1218	Biraghi
+ORGANIZATION1219	Pirelli
+LOCATION1220	Manchester City
+ORGANIZATION1221	Twente
+PERSON1222	Goran Pandev
+PERSON1223	Davide Santon
+PERSON1224	Cristian Chivu
+ORGANIZATION1225	Juve Stabia
+LOCATION1226	Indonesia
+PERSON1227	Vincenzo Fiorillo
+PERSON1228	Fiorillo
+PERSON1229	Gianluigi Buffon
+LOCATION1230	Oregina
+ORGANIZATION1231	Sampdoria Primavera
+PERSON1232	Blucerchiati
+PERSON1233	Mario Cassano
+LOCATION1234	Liguria
+PERSON1235	José Rodríguez Martínez
+PERSON1236	Rodrigo Javier De Paul
+ORGANIZATION1237	Unione Sportiva Sassuolo Calcio
+LOCATION1238	Emilia-Romagna
+PERSON1239	Sansovino
+PERSON1240	Gian Marco Remondina
+LOCATION1241	Monza
+PERSON1242	Remondina
+PERSON1243	Massimiliano Allegri
+PERSON1244	Allegri
+PERSON1245	Fayçal Fajr
+ORGANIZATION1246	Caen in Ligue
+PERSON1247	Fajr
+LOCATION1248	Rouen
+PERSON1249	Le Havre
+LOCATION1250	Oissel
+PERSON1251	Étoile Fréjus Saint-Raphaël
+ORGANIZATION1252	Direction Nationale
+ORGANIZATION1253	National Directorate of Management Control
+ORGANIZATION1254	DNCG
+PERSON1255	Diego Farias da Silva
+PERSON1256	Diego Farias
+LOCATION1257	Sorocaba
+PERSON1258	A.C. ChievoVerona
+PERSON1259	Molla Wague
+LOCATION1260	Verdon
+PERSON1261	Wague
+ORGANIZATION1262	Ajaccio
+PERSON1263	Estadio Ramón Sánchez Pizjuán
+ORGANIZATION1264	Sevilla Fútbol Club
+ORGANIZATION1265	Steaua Bucureşti
+LOCATION1266	Germany
+ORGANIZATION1267	CSKA Moskva
+ORGANIZATION1268	Estadio Nervion
+PERSON1269	Estadio Alberto J. Armando
+ORGANIZATION1270	Boca Juniors
+PERSON1271	Saphir Sliti Taïder
+LOCATION1272	Castres
+PERSON1273	Sliti Taïder
+LOCATION1274	Tunisian
+LOCATION1275	Kabyle
+PERSON1276	Nabil Taïder
+PERSON1277	Taïder
+LOCATION1278	Grenoble
+ORGANIZATION1279	Marseille
+PERSON1280	Dane Frederik Sorensen
+PERSON1281	Nemanja Radoja
+PERSON1282	Rubén Salvador Pérez del Mármol
+LOCATION1283	Écija
+LOCATION1284	Atlético Madrid
+PERSON1285	Borja
+PERSON1286	Filipe Luís
+PERSON1287	Borja Fernández
+PERSON1288	James Richardson Spensley
+PERSON1289	Gianni Brera
+LOCATION1290	Brera
+PERSON1291	Souleymane Coulibaly
+PERSON1292	Coulibaly
+ORGANIZATION1293	Tottenham Hotspur XI
+LOCATION1294	Brighton
+ORGANIZATION1295	Hove Albion
+ORGANIZATION1296	PSV
+LOCATION1297	Stevenage
+ORGANIZATION1298	FAYC
+PERSON1299	Rafał Wolski
+LOCATION1300	Kozienice
+ORGANIZATION1301	Legia Warsaw
+PERSON1302	Wolski
+PERSON1303	Franciszek Smuda
+LOCATION1304	Latvia
+PERSON1305	Jonathan Alexander de Guzmán
+PERSON1306	De Guzman
+LOCATION1307	Canada
+LOCATION1308	Netherlands
+LOCATION1309	Beijing
+ORGANIZATION1310	Feyenoord Academy
+LOCATION1311	Rotterdam
+LOCATION1312	Scarborough
+LOCATION1313	Ontario
+PERSON1314	Bobby
+LOCATION1315	Philippines
+PERSON1316	Pauline
+LOCATION1317	Jamaica
+PERSON1318	Jenelle
+PERSON1319	Julian
+PERSON1320	Julian De Guzman
+ORGANIZATION1321	Toronto FC
+PERSON1322	Nemanja Vidić
+LOCATION1323	Serbia
+LOCATION1324	Red Star Belgrade
+PERSON1325	Vidić
+LOCATION1326	Spartak Moscow
+PERSON1327	Rio Ferdinand
+ORGANIZATION1328	United
+ORGANIZATION1329	FIFA World Club Cup
+ORGANIZATION1330	PFA
+PERSON1331	Racine Coly
+PERSON1332	André Filipe Tavares Gomes
+PERSON1333	Matija Širok
+PERSON1334	Luka Đorđević
+LOCATION1335	Montenegrin
+ORGANIZATION1336	FC Zenit Saint Petersburg
+LOCATION1337	Montenegro
+PERSON1338	Bernardo Víctor Cruz Torres
+LOCATION1339	Córdoba CF
+PERSON1340	Ransford Selasi
+PERSON1341	Stefan Šćepović
+LOCATION1342	Belgrade
+ORGANIZATION1343	FK Partizan
+PERSON1344	Šćepović
+ORGANIZATION1345	OFK Beograd
+LOCATION1346	Sopot
+ORGANIZATION1347	Club Brugge
+LOCATION1348	Kortrijk
+PERSON1349	Stefan
+PERSON1350	Marko Šćepović
+ORGANIZATION1351	Partizan
+PERSON1352	Slađan Šćepović
+PERSON1353	Rubén Alejandro Botta Montero
+PERSON1354	Botta
+ORGANIZATION1355	Tigre
+ORGANIZATION1356	FK Ventspils
+LOCATION1357	Tigre
+ORGANIZATION1358	Estudiantes de la Plata
+PERSON1359	Patrice Latyr Evra
+ORGANIZATION1360	Evra
+PERSON1361	Alex Ferguson
+PERSON1362	Evra
+LOCATION1363	Senegal
+ORGANIZATION1364	CO Les Ulis
+PERSON1365	Francisco Manuel Vélez Jiménez
+LOCATION1366	Tarragona
+LOCATION1367	Catalunya
+ORGANIZATION1368	UD Logroñés
+LOCATION1369	Gimnàstic de Tarragona
+PERSON1370	Vélez
+LOCATION1371	Sarrià
+LOCATION1372	Sarria
+PERSON1373	Matías Colmenares
+ORGANIZATION1374	UE Sants
+PERSON1375	Vicenç Tonijuan
+PERSON1376	Prats
+PERSON1377	Ricardo Zamora
+PERSON1378	Paweł Bochniewicz
+PERSON1379	Lucas Pérez Martínez
+ORGANIZATION1380	FC Chornomorets Odesa
+PERSON1381	Stadio Marc'Antonio Bentegodi
+ORGANIZATION1382	Chievo Verona
+ORGANIZATION1383	FIFA World Cup
+ORGANIZATION1384	Verona Nord
+ORGANIZATION1385	First Solar Inc.
+ORGANIZATION1386	ISCOM SpA
+ORGANIZATION1387	SMA Solar Technology AG
+PERSON1388	Stadio Benito Mussolini
+ORGANIZATION1389	Stadio Comunale Vittorio Pozzo
+LOCATION1390	Santa Rita district
+PERSON1391	Duce
+PERSON1392	Saverio Parisi Rome
+PERSON1393	Fagnoni
+PERSON1394	Bianchini
+LOCATION1395	Ortensi
+PERSON1396	Vannacci
+PERSON1397	Lucherini
+PERSON1398	Del Giudice
+PERSON1399	Joseph Marie Minala
+PERSON1400	Shkodran Mustafi
+PERSON1401	Mustafi
+LOCATION1402	Hamburg
+PERSON1403	BATE Borisov
+PERSON1404	Tony Hibbert
+PERSON1405	Marco Parolo
+LOCATION1406	Gallarate
+PERSON1407	Parolo
+ORGANIZATION1408	Pistoiese
+LOCATION1409	Foligno
+LOCATION1410	Chievo
+PERSON1411	Leonardo Moracci
+PERSON1412	Domenico Girardi
+PERSON1413	Pierpaolo Bisoli
+PERSON1414	Lorenzo Minotti
+PERSON1415	Resto del Carlino
+PERSON1416	Mattia Valoti
+PERSON1417	Valoti
+LOCATION1418	Vicenza
+PERSON1419	Aladino Valoti
+LOCATION1420	Albinoleffe
+PERSON1421	Mattia
+PERSON1422	Cosenza
+PERSON1423	Martina Franca
+PERSON1424	Dalmine Futura
+PERSON1425	Novara
+PERSON1426	Seydou Keita
+LOCATION1427	Bamako
+LOCATION1428	Mali
+PERSON1429	Keita
+ORGANIZATION1430	Olympique de Marseille
+ORGANIZATION1431	Troyes AC
+ORGANIZATION1432	FC Lorient
+ORGANIZATION1433	Coupe de France
+ORGANIZATION1434	SC Bastia
+PERSON1435	Les Sang
+PERSON1436	Maximiliano Gastón López
+PERSON1437	Talleres de Córdoba
+PERSON1438	Lopez
+PERSON1439	Henrik Larsson
+ORGANIZATION1440	RCD
+LOCATION1441	RCD
+LOCATION1442	Estadio de La Romareda
+LOCATION1443	Zaragoza
+LOCATION1444	La Romareda
+LOCATION1445	Jaca
+PERSON1446	Luis Gómez Laguna
+PERSON1447	Ilyos Zeytulayev
+LOCATION1448	Uzbek
+PERSON1449	Lanciano
+PERSON1450	Zeytulayev
+PERSON1451	Zeytulaev
+PERSON1452	Serhiy Kovalenko
+PERSON1453	Viktor Budyanskiy
+ORGANIZATION1454	Juve
+PERSON1455	Kovalenko
+LOCATION1456	Sportakademklub Moscow
+LOCATION1457	US
+ORGANIZATION1458	FIGC
+PERSON1459	Joan Isaac Cuenca López
+LOCATION1460	Reus
+PERSON1461	Cuenca
+LOCATION1462	La Masia
+ORGANIZATION1463	CF Reus Deportiu
+PERSON1464	Damm
+ORGANIZATION1465	CE Sabadell FC
+ORGANIZATION1466	Arlequinats
+PERSON1467	Martí Riverola
+PERSON1468	Josep Guardiola
+ORGANIZATION1469	Hajduk Split
+PERSON1470	Louis Noé Pamarot
+PERSON1471	Granada
+PERSON1472	Pamarot
+LOCATION1473	Portsmouth
+ORGANIZATION1474	Martigues
+LOCATION1475	Birmingham City
+LOCATION1476	St Andrew
+ORGANIZATION1477	Nottingham Forest
+PERSON1478	Sean Davis
+PERSON1479	Pedro Mendes
+PERSON1480	Matthew Taylor
+PERSON1481	David Thompson
+LOCATION1482	Pamarot
+ORGANIZATION1483	Associazione Calcio Torino
+ORGANIZATION1484	Torino Calcio
+LOCATION1485	Via Pietro Micca
+PERSON1486	Alfredo Dick
+PERSON1487	Rubén Ariel Olivera da Rosa
+ORGANIZATION1488	Juventus F.C.
+PERSON1489	Peñarol
+PERSON1490	Enis Nadarević
+LOCATION1491	Bihać
+LOCATION1492	Yugoslavia
+PERSON1493	Nadarević
+PERSON1494	A.S. Varese
+PERSON1495	Javier Espinosa González
+LOCATION1496	Talavera de la Reina
+LOCATION1497	Toledo
+ORGANIZATION1498	FC Barcelona B
+PERSON1499	Stadio Cino
+ORGANIZATION1500	Lillo Del Duca
+PERSON1501	Stadio Mario Rigamonti
+ORGANIZATION1502	Brescia Calcio
+PERSON1503	Mario Rigamonti
+PERSON1504	Stadio Carlo Castellani
+PERSON1505	Olimpiadi
+PERSON1506	Carlo Castellani
+PERSON1507	Montelupo Fiorentino
+LOCATION1508	Mauthausen
+ORGANIZATION1509	Banca di Credito Cooperativo
+PERSON1510	Cambiano
+PERSON1511	Stadio Angelo Massimino
+LOCATION1512	Stadio Cibali
+PERSON1513	Angelo Massimino
+PERSON1514	Stadio Artemio Franchi
+ORGANIZATION1515	ACF Fiorentina
+PERSON1516	Luigi Nervi
+PERSON1517	Nervi Hall
+LOCATION1518	Vatican
+PERSON1519	Artemio Franchi
+PERSON1520	Stadio Renato Dall'Ara
+ORGANIZATION1521	Bologna F.C
+PERSON1522	Stadio Littoriale
+PERSON1523	Davide Gualtieri
+LOCATION1524	San Marino
+ORGANIZATION1525	All Blacks
+LOCATION1526	Friuli
+LOCATION1527	Rizzi
+LOCATION1528	Georgia
+LOCATION1529	South Africa
+PERSON1530	Metallica
+PERSON1531	Stadio Ennio Tardini
+LOCATION1532	Tardini
+LOCATION1533	Parma
+PERSON1534	Ennio Tardini
+ORGANIZATION1535	Parmalat
+ORGANIZATION1536	Stadio Comunale Luigi Ferraris
+LOCATION1537	Marassi
+PERSON1538	Luigi Ferraris
+LOCATION1539	Reggina Calcio
+PERSON1540	Stadio Michele Bianchi
+LOCATION1541	Then-Reggina
+PERSON1542	Giuseppe Vilardi
+ORGANIZATION1543	Curva Nord
+PERSON1544	Stadio Oreste Granillo
+PERSON1545	Michele Bianchi
+ORGANIZATION1546	Italian Football Federation
+LOCATION1547	Montepaschi Arena
+ORGANIZATION1548	Monte dei Paschi di Siena
+LOCATION1549	Isola
+ORGANIZATION1550	Stadio Adriatico
+PERSON1551	Giovanni Cornacchia
+LOCATION1552	Abruzzo
+PERSON1553	Luigi Piccinato
+PERSON1554	Pescara Calcio
+PERSON1555	Stadio Dino Manuzzi
+PERSON1556	Stadio Renzo Barbera
+ORGANIZATION1557	Stadio La Favorita
+LOCATION1558	U.S. Città di Palermo
+PERSON1559	Stadio Littorio
+PERSON1560	Stadio Michele Marrone
+LOCATION1561	Stadio La Favorita
+PERSON1562	Frederick II
+PERSON1563	Stadio Armando Picchi
+ORGANIZATION1564	A.S. Livorno Calcio
+LOCATION1565	U.S. Lecce
+ORGANIZATION1566	Stadio Carlo Pranzo
+ORGANIZATION1567	Taranto
+PERSON1568	Santos
+PERSON1569	Curva Nord
+ORGANIZATION1570	Ultrà Lecce
+LOCATION1571	Curva Sud
+PERSON1572	Micah Lincoln Richards
+PERSON1573	Richards
+LOCATION1574	Leeds
+LOCATION1575	Birmingham
+LOCATION1576	Chapeltown
+PERSON1577	Cranmer
+ORGANIZATION1578	Primary School
+ORGANIZATION1579	Wetherby High School
+ORGANIZATION1580	Leeds United
+ORGANIZATION1581	Leeds Schools FA
+ORGANIZATION1582	Leeds City Boys
+ORGANIZATION1583	Oldham Athletic
+PERSON1584	Oldham
+PERSON1585	Lincoln
+PERSON1586	Nana Addo Welbeck Maseko
+ORGANIZATION1587	Krka
+PERSON1588	Piotr Zielinski
+PERSON1589	Zaglebie Lubin
+PERSON1590	Johan Walem
+PERSON1591	Francesco Guidolin
+PERSON1592	Kwadwo Asamoah
+PERSON1593	Badu
+PERSON1594	Barreto
+LOCATION1595	Stadio San Nicola
+PERSON1596	Renzo Piano
+ORGANIZATION1597	Red Star Belgrade
+LOCATION1598	Soviet Union
+LOCATION1599	Cameroon
+LOCATION1600	Czechoslovakia
+LOCATION1601	Costa Rica
+LOCATION1602	Scotland
+LOCATION1603	Anoeta
+LOCATION1604	Donostia-San Sebastián
+LOCATION1605	Biarritz
+ORGANIZATION1606	Biarritz Olympique
+PERSON1607	Aviron Bayonnais
+PERSON1608	José Luis Astiazarán
+PERSON1609	Gipuzkoarena
+LOCATION1610	Badiola
+PERSON1611	Badiola
+PERSON1612	Francesco Dettori
+PERSON1613	Roberto Inglese
+PERSON1614	Luca Ariatti
+PERSON1615	Rômulo Souza Orestes Caldeira
+PERSON1616	Pelotas
+PERSON1617	Rômulo
+ORGANIZATION1618	Fluminense
+LOCATION1619	Cruzeiro
+LOCATION1620	Cruzerio
+PERSON1621	Cristian Pasquato
+LOCATION1622	Padua
+LOCATION1623	Primavera
+ORGANIZATION1624	Supercoppa Primavera
+PERSON1625	Pasquato
+PERSON1626	Ismael 'Isma
+PERSON1627	López Blanco
+ORGANIZATION1628	Sporting de Gijón
+PERSON1629	Claude Babin
+ORGANIZATION1630	Essonne
+PERSON1631	Lucas Vázquez Iglesias
+LOCATION1632	Curtis
+PERSON1633	Lucas
+ORGANIZATION1634	Sporting de Gijón B
+PERSON1635	Marco Davide Faraoni
+LOCATION1636	Bracciano
+PERSON1637	Faraoni
+ORGANIZATION1638	S.S. Lazio
+PERSON1639	Alibec
+PERSON1640	Carlsen
+ORGANIZATION1641	Torneo di Viareggio
+PERSON1642	Leonardo
+PERSON1643	Fulvio Pea
+LOCATION1644	Faraoni
+PERSON1645	Luis Alberto Romero Alconchel
+LOCATION1646	San José del Valle
+LOCATION1647	Cádiz
+PERSON1648	Luis Alberto
+PERSON1649	Rodri
+PERSON1650	Vinícius Vasconcelos Araújo
+ORGANIZATION1651	Standard Liège
+PERSON1652	Filip Janković
+PERSON1653	Филип Јанковић
+LOCATION1654	Ventspils
+ORGANIZATION1655	Red Star
+PERSON1656	Alberto Gómez Fernández
+PERSON1657	Nagore
+PERSON1658	Gianluca Caprari
+PERSON1659	Caprari
+ORGANIZATION1660	Atletico
+ORGANIZATION1661	Torneo Città di Arco
+PERSON1662	Simone Perrotta
+ORGANIZATION1663	Shakhtar Donetsk
+LOCATION1664	Bratislava
+PERSON1665	Totti
+PERSON1666	David López Silva
+PERSON1667	Marco van Ginkel
+ORGANIZATION1668	Vitesse
+PERSON1669	Papa Babacar 'Baba ' Diawara
+LOCATION1670	Dakar
+PERSON1671	Diawara
+ORGANIZATION1672	Senegal Premier League
+ORGANIZATION1673	ASC Jeanne d'Arc
+LOCATION1674	Madeira
+LOCATION1675	Portugal
+LOCATION1676	Amadora
+ORGANIZATION1677	Sporting Clube de Portugal
+ORGANIZATION1678	Olympiacos F.C
+LOCATION1679	Midlothian
+ORGANIZATION1680	Scottish Premier League
+ORGANIZATION1681	Celtic
+PERSON1682	Tomás Eduardo Rincón Hernández
+LOCATION1683	San Cristobal
+LOCATION1684	Táchira
+PERSON1685	Rincón
+LOCATION1686	UA Maracaibo
+ORGANIZATION1687	Zamora FC
+PERSON1688	Deportivo Táchira
+ORGANIZATION1689	SV Wehen Wiesbaden
+LOCATION1690	Sudamericana
+ORGANIZATION1691	Adidas
+PERSON1692	Víctor Rodríguez Romero
+PERSON1693	Stefano Chuka Okaka
+LOCATION1694	Roma
+PERSON1695	Okaka
+PERSON1696	Aris
+LOCATION1697	midfield
+ORGANIZATION1698	Modena
+PERSON1699	Julián Cuesta Díaz
+PERSON1700	Julián
+PERSON1701	Unión Deportiva Almería
+ORGANIZATION1702	Almería Club de Fútbol
+ORGANIZATION1703	Estadio de los Juegos Mediterráneos
+PERSON1704	Almería Club de Fútbol
+PERSON1705	Álvaro Negredo
+PERSON1706	Gonzalo Arconada
+ORGANIZATION1707	Elche Club de Fútbol
+ORGANIZATION1708	Estadio Manuel Martínez Valero
+PERSON1709	Stefan Mitrović
+ORGANIZATION1710	SC Freiburg
+PERSON1711	Antonio Adán Garrido
+PERSON1712	Adán
+ORGANIZATION1713	Juvenil
+PERSON1714	Jordi Codina
+PERSON1715	Codina
+PERSON1716	Iker Casillas
+PERSON1717	Jerzy Dudek
+PERSON1718	Dudek
+ORGANIZATION1719	AJ Auxerre
+PERSON1720	Mohamed Lamine Sissoko Gillan
+ORGANIZATION1721	French Ligue
+PERSON1722	Sissoko
+PERSON1723	Rafael Benítez
+PERSON1724	AJ Auxerre
+PERSON1725	Guilherme Madalena Siqueira
+PERSON1726	Siqueira
+LOCATION1727	Ipatinga
+PERSON1728	César
+PERSON1729	Ancona
+PERSON1730	Ancona Siqueira
+PERSON1731	Diego Mariño Villar
+LOCATION1732	Vigo
+PERSON1733	Giuseppe Biava
+PERSON1734	Biava
+PERSON1735	Albinese
+PERSON1736	Pietro Accardi
+PERSON1737	Steve Leo Beleck A'Beka
+LOCATION1738	Yaoundé
+PERSON1739	Thomas Libiih
+PERSON1740	Panthrakikos
+PERSON1741	Beleck
+LOCATION1742	Panathinaikos
+PERSON1743	Steve
+ORGANIZATION1744	Greek Superleague
+PERSON1745	Tiago Abiola Delfim Almeida Ilori
+PERSON1746	Ilori
+ORGANIZATION1747	Sporting Clube
+ORGANIZATION1748	Imortal Desportivo Clube
+LOCATION1749	Lisbon
+ORGANIZATION1750	Lions
+PERSON1751	Leiria
+PERSON1752	Paolo Parente
+PERSON1753	Giorgi Chanturia
+PERSON1754	Chanturia
+ORGANIZATION1755	ADO Den Haag
+ORGANIZATION1756	Arnhem
+PERSON1757	Matteo Rubin
+ORGANIZATION1758	Torino F.C.. Matteo
+PERSON1759	Matteo
+PERSON1760	Marco Bernacci
+PERSON1761	Marco Pisano
+PERSON1762	Massimo Gobbi
+PERSON1763	Francesco Modesto
+PERSON1764	Rubin
+PERSON1765	Marcel Büchel
+PERSON1766	Büchel
+ORGANIZATION1767	St.
+ORGANIZATION1768	Red Bull Salzburg
+ORGANIZATION1769	UEFA Europe League
+ORGANIZATION1770	Manchester City
+PERSON1771	Danilo D'Ambrosio
+LOCATION1772	Campania
+PERSON1773	Danilo
+PERSON1774	Dario
+ORGANIZATION1775	Fiorentina Primavera
+ORGANIZATION1776	Potenza
+PERSON1777	Juve Stabia
+PERSON1778	D'Ambrosio
+PERSON1779	José Holebas
+PERSON1780	Iosif Cholevas
+LOCATION1781	Aschaffenburg
+PERSON1782	Holebas
+LOCATION1783	Trikala
+LOCATION1784	Munich
+ORGANIZATION1785	1860 Munich Ewald Lienen
+PERSON1786	Ewald Lienen
+PERSON1787	Cholevas
+ORGANIZATION1788	Besa
+ORGANIZATION1789	Europa League
+PERSON1790	Lienen
+PERSON1791	Ernesto Valverde
+PERSON1792	Wellington Alves da Silva
+PERSON1793	Wellington Silva
+ORGANIZATION1794	Manchester United Reserves
+LOCATION1795	Wellington
+LOCATION1796	Dagenham
+ORGANIZATION1797	Redbridge
+ORGANIZATION1798	FA
+ORGANIZATION1799	Levante
+PERSON1800	Juan Antonio
+LOCATION1801	Trelew
+LOCATION1802	Chubut
+PERSON1803	Panagiotis Tachtsidis
+PERSON1804	Tachtsidis
+PERSON1805	Thrasyvoulos
+ORGANIZATION1806	Genoa C.F.C.
+PERSON1807	Henrique Adriano Buss
+PERSON1808	Henrique
+ORGANIZATION1809	Palmeiras
+ORGANIZATION1810	Ajax
+LOCATION1811	Palmeiras
+ORGANIZATION1812	Bayer Leverkusen
+ORGANIZATION1813	Leverkusen
+PERSON1814	Juan
+PERSON1815	Antonio Rukavina
+PERSON1816	Антонио Рукавина
+PERSON1817	Rukavina
+PERSON1818	FK Bežanija
+ORGANIZATION1819	Borussia Dortmund
+ORGANIZATION1820	Dortmund
+PERSON1821	Sven Bender
+LOCATION1822	Helsinki
+LOCATION1823	Finland
+PERSON1824	Diego Ribas da Cunha
+LOCATION1825	Wolfsburg
+PERSON1826	Diego
+ORGANIZATION1827	Comercial FC
+LOCATION1828	Ribeirao Preto
+PERSON1829	São Carlos
+LOCATION1830	Rio-São Paulo Championship
+LOCATION1831	Robinho
+PERSON1832	Elano
+PERSON1833	Alex
+PERSON1834	Deco
+LOCATION1835	Deco
+PERSON1836	Daniel Sartori Bessa
+PERSON1837	Yohan Benalouane
+LOCATION1838	Bagnols-sur-Cèze
+PERSON1839	Benalouane
+LOCATION1840	Chad
+LOCATION1841	Tunisia
+LOCATION1842	Togo
+PERSON1843	David Cortés Caballero
+LOCATION1844	Llerena
+LOCATION1845	Badajoz
+PERSON1846	Cortés
+ORGANIZATION1847	CF Extremadura
+LOCATION1848	Poli
+ORGANIZATION1849	Contra
+PERSON1850	Miguel Torres
+PERSON1851	Manuel
+LOCATION1852	Jaén
+ORGANIZATION1853	Atlético de Madrid
+PERSON1854	Braulio
+PERSON1855	Daniel Güiza
+PERSON1856	Juan Albín
+PERSON1857	Roberto Soldado
+PERSON1858	Kingsley Coman
+PERSON1859	Hassan Yebda
+PERSON1860	Yebda
+LOCATION1861	Saint-Maurice
+PERSON1862	Stade Lavallois
+PERSON1863	Kepa Arrizabalaga Revuelta
+PERSON1864	Íñigo Ruiz de Galarreta
+PERSON1865	Alberto Lopo García
+LOCATION1866	Espanyol
+PERSON1867	Lopo
+ORGANIZATION1868	Zaragoza
+PERSON1869	Juande Ramos
+PERSON1870	Javier Clemente
+PERSON1871	Luis Fernández
+PERSON1872	Miguel Ángel Lotina
+PERSON1873	Franco Brienza
+LOCATION1874	Cantù
+LOCATION1875	Ischia
+PERSON1876	Attilio Nicodemo
+PERSON1877	Giuseppe Di Masi
+PERSON1878	Brienza
+PERSON1879	Nicodemo
+PERSON1880	Luca Ferri
+PERSON1881	Franco Sensi
+PERSON1882	Di Masi
+PERSON1883	Davide Bombardini
+PERSON1884	Sensi
+PERSON1885	Zamparini
+PERSON1886	Iago Falque Silva
+PERSON1887	Antonio Manuel Luna Rodríguez
+LOCATION1888	Son Servera
+PERSON1889	Edson René Braafheid
+PERSON1890	Braafheid
+ORGANIZATION1891	Utrecht
+ORGANIZATION1892	FC Twente
+ORGANIZATION1893	Bayern Munich
+PERSON1894	Holland
+ORGANIZATION1895	Bayern
+PERSON1896	Hoffenheim Braafheid
+ORGANIZATION1897	FC Utrecht
+PERSON1898	Kris Jogan
+PERSON1899	Sergi Gómez Solà
+PERSON1900	Andreu Fontàs
+PERSON1901	Barça
+PERSON1902	Martí Riverola Bataller
+PERSON1903	Riverola
+ORGANIZATION1904	RCD Espanyol B
+ORGANIZATION1905	Eredivisie
+PERSON1906	Albert Ferrer
+PERSON1907	Isaac
+PERSON1908	Sergi Roberto
+PERSON1909	Álvaro Borja Morata Martín
+PERSON1910	Morata
+LOCATION1911	Getafe CF
+ORGANIZATION1912	Real Madrid C
+PERSON1913	Castilla
+ORGANIZATION1914	Coruxo FC
+PERSON1915	María
+PERSON1916	Enrique
+PERSON1917	Lucas Martínez
+PERSON1918	de Lucas
+ORGANIZATION1919	Chelsea FC
+ORGANIZATION1920	Viking FK
+ORGANIZATION1921	Deportivo Alavés
+ORGANIZATION1922	Estadio José Rico Pérez
+PERSON1923	Hércules
+PERSON1924	Tercera División
+ORGANIZATION1925	Alicante CF
+PERSON1926	Éver Maximiliano David Banega
+LOCATION1927	Rosario
+LOCATION1928	Santa Fe Province
+PERSON1929	Banega
+PERSON1930	Fernando Gago
+ORGANIZATION1931	Club Atlético Banfield
+LOCATION1932	Atlético de Madrid
+ORGANIZATION1933	PSV Eindhoven
+PERSON1934	Daniel Campos Toro
+ORGANIZATION1935	Spanish La Liga
+PERSON1936	Jaime Gavilán Martínez
+PERSON1937	Gavilán
+PERSON1938	Vicente
+PERSON1939	Ronald Koeman
+PERSON1940	Kevin Mathieu Vinetot
+LOCATION1941	Villiers-le-Bel
+PERSON1942	Vinetot
+LOCATION1943	Guingamp
+PERSON1944	Giulianova
+PERSON1945	Francesco Migliore
+PERSON1946	Fabio Gubinelli
+PERSON1947	Leonardo Terigi
+PERSON1948	Frederik Hillesborg Sørensen
+PERSON1949	Sørensen
+ORGANIZATION1950	Roskilde KFUM
+ORGANIZATION1951	FC Roskilde
+ORGANIZATION1952	Lyngby
+PERSON1953	Leandro Rinaudo
+PERSON1954	Zdeněk Grygera
+PERSON1955	Giorgio Chiellini
+PERSON1956	Nicola Legrottaglie
+PERSON1957	Leonardo Bonucci
+PERSON1958	Marco Motta
+PERSON1959	Simone Salviato
+LOCATION1960	Mantova
+PERSON1961	Salviato
+PERSON1962	Emanuele Calaiò
+ORGANIZATION1963	Siena
+PERSON1964	Calaiò
+LOCATION1965	Torino
+PERSON1966	Alessandro Cibocchi
+PERSON1967	Cibocchi
+ORGANIZATION1968	Estadio Municipal de Balaídos
+PERSON1969	Celta Vigo
+LOCATION1970	Balaídos
+LOCATION1971	Avenida Balaídos
+PERSON1972	Coia
+PERSON1973	Avenida Balaídos
+PERSON1974	Rua Val Minor
+PERSON1975	Avenida Alcalde Portanet
+PERSON1976	Rua dos Olimpicos Galegos
+PERSON1977	Tribuna
+PERSON1978	Gol
+PERSON1979	Marcador
+LOCATION1980	Celta
+ORGANIZATION1981	Tribuna
+LOCATION1982	Preferencia
+LOCATION1983	River
+LOCATION1984	Lagares
+ORGANIZATION1985	Estadio Municipal de Riazor
+LOCATION1986	Deportivo
+PERSON1987	Deportivo
+PERSON1988	Estadio Benito Villamarín
+PERSON1989	Sevilla Balompié
+ORGANIZATION1990	Real Betis Balompié
+LOCATION1991	Prado de San Sebastian
+LOCATION1992	El Porvenir
+LOCATION1993	Heliopolis
+LOCATION1994	North
+LOCATION1995	Malta
+LOCATION1996	Estadio San Mamés
+ORGANIZATION1997	AKA La Catedral
+LOCATION1998	Bilbao
+LOCATION1999	Basque Country
+LOCATION2000	San Mamés
+PERSON2001	Mammes
+LOCATION2002	San Mamés Barria
+PERSON2003	Estadio La Rosaleda
+LOCATION2004	Málaga CF
+ORGANIZATION2005	Club Deportivo Málaga
+PERSON2006	Malagua
+ORGANIZATION2007	Málaga Football Club
+PERSON2008	Baños del Carmen
+ORGANIZATION2009	AD Ferroviaria
+PERSON2010	Giuseppe Sculli
+LOCATION2011	Locri
+LOCATION2012	Calabria
+PERSON2013	Sculli
+PERSON2014	Paro
+PERSON2015	Gastaldello
+PERSON2016	Lazio
+PERSON2017	Jonathan López Pérez
+PERSON2018	Sociedad Deportiva Eibar
+LOCATION2019	Eibar
+PERSON2020	Gipuzkoa
+ORGANIZATION2021	Estadio Municipal de Ipurua
+PERSON2022	Deportivo Gallo
+ORGANIZATION2023	Unión Deportiva Eibarresa
+ORGANIZATION2024	Eibar Fútbol Club
+ORGANIZATION2025	Sociedad Deportiva Eibar
+PERSON2026	Eibar
+PERSON2027	Segunda B
+PERSON2028	Amauri Carvalho de Oliveira
+PERSON2029	Amauri
+LOCATION2030	Bellinzona
+LOCATION2031	Carapicuíba
+LOCATION2032	Santa Catarina
+ORGANIZATION2033	Santa Catarina State League
+PERSON2034	Santa Catarina Clube
+LOCATION2035	Torneo
+PERSON2036	Roberto Insigne
+PERSON2037	Lorenzo Insigne
+PERSON2038	Cyril Théréau
+ORGANIZATION2039	Anderlecht
+PERSON2040	Théréau
+LOCATION2041	US Orléans
+ORGANIZATION2042	Angers SCO
+LOCATION2043	R. Charleroi S.C.
+LOCATION2044	Belgium
+LOCATION2045	Steaua Bucureşti
+PERSON2046	Standard Liège
+PERSON2047	Victoraş Iacob
+ORGANIZATION2048	Steaua
+ORGANIZATION2049	FC Naţional
+ORGANIZATION2050	Romanian First League
+PERSON2051	Valentin Badea
+LOCATION2052	Ghencea
+PERSON2053	Tomas Švedkauskas
+PERSON2054	Leonardo Carrilho Baptistão
+ORGANIZATION2055	Estadio El Molinón
+LOCATION2056	Gijón
+ORGANIZATION2057	Real Sporting de Gijón
+PERSON2058	El Molinón
+ORGANIZATION2059	Real Sporting and Arenas Club
+PERSON2060	Real Sporting and Arenas Club Getxo
+ORGANIZATION2061	Real Sporting
+ORGANIZATION2062	Sporting
+LOCATION2063	El Molinón
+LOCATION2064	Calderón Stadium
+LOCATION2065	Arganzuela
+ORGANIZATION2066	Vicente Calderón Stadium
+PERSON2067	Atlético
+PERSON2068	Vicente Calderón
+ORGANIZATION2069	Star UEFA
+PERSON2070	Javier Barroso
+ORGANIZATION2071	Estadio Metropolitano de Madrid
+PERSON2072	José Cañas Ruiz-Herrera
+LOCATION2073	Jerez de la Frontera
+PERSON2074	Cañas
+PERSON2075	Juan José
+PERSON2076	Andrea Petagna
+ORGANIZATION2077	Vicenza Calcio
+PERSON2078	Karim Laribi
+PERSON2079	Laribi
+LOCATION2080	Fulham
+PERSON2081	Boukary Dramé
+LOCATION2082	Villepinte
+ORGANIZATION2083	CSL
+ORGANIZATION2084	PSG
+ORGANIZATION2085	Verneuil
+LOCATION2086	Strasbourg
+ORGANIZATION2087	PSG Drame
+PERSON2088	Eric Abidal
+PERSON2089	Drame
+PERSON2090	Dramé
+PERSON2091	Ledian Memushaj
+PERSON2092	Portogruaro
+PERSON2093	Memushaj
+LOCATION2094	Sarzanese
+ORGANIZATION2095	Eccellenza Liguria
+ORGANIZATION2096	Valle d'Aosta
+LOCATION2097	Portogruaro
+PERSON2098	Maurizio Pugliesi
+PERSON2099	Matías Nahuel Leiva Esquivel
+PERSON2100	Albinoleffe
+ORGANIZATION2101	Nou Estadi
+PERSON2102	Rambla Nova
+PERSON2103	Nicolás Andrés Burdisso
+ORGANIZATION2104	Intercontinental Cups
+PERSON2105	Giacinto Facchetti
+PERSON2106	Burdisso
+PERSON2107	Facchetti
+PERSON2108	Daniel 'Dani ' Abalo Paulos
+LOCATION2109	Vilagarcía de Arousa
+LOCATION2110	Pontevedra
+PERSON2111	Filip Đorđević
+ORGANIZATION2112	FC Nantes
+PERSON2113	Filip
+LOCATION2114	Rad Belgrade
+ORGANIZATION2115	Nantes
+LOCATION2116	Kazakhstan
+PERSON2117	Lucas Alfonso Orban
+LOCATION2118	Zürich
+PERSON2119	Alen
+LOCATION2120	Bečmen
+PERSON2121	Stevanović
+LOCATION2122	Radnički Obrenovac
+PERSON2123	Giulio Donati
+LOCATION2124	Abu Dhabi
+ORGANIZATION2125	UAE
+LOCATION2126	Saudi Arabia
+ORGANIZATION2127	Saudi Arabian
+PERSON2128	Al-Hilal
+PERSON2129	Esteban Cambiasso
+PERSON2130	Roberto Maximiliano Pereyra
+PERSON2131	Pereyra
+PERSON2132	Huracán
+LOCATION2133	North Korea
+LOCATION2134	Egypt
+ORGANIZATION2135	Argentina
+PERSON2136	Enej Jelenič
+PERSON2137	Dejan Lekić
+LOCATION2138	Kraljevo
+LOCATION2139	Serbian
+PERSON2140	Lekic
+ORGANIZATION2141	Dinamo Tbilisi
+PERSON2142	Lekić
+PERSON2143	Slavko Perović
+PERSON2144	Cadú
+LOCATION2145	Marakana
+PERSON2146	Leonardo Capezzi
+PERSON2147	João Pedro Cavaco Cancelo
+LOCATION2148	Sinj
+LOCATION2149	Hajduk Split
+PERSON2150	Vukušić
+PERSON2151	Junak Sinj
+ORGANIZATION2152	Hajduk
+LOCATION2153	Croatia
+ORGANIZATION2154	Prva HNL
+ORGANIZATION2155	Dinamo Zagreb
+PERSON2156	Ante
+PERSON2157	Belec
+ORGANIZATION2158	Internazionale Milano Primavera
+PERSON2159	Paolo Tornaghi
+PERSON2160	Enrico Alfonso
+PERSON2161	Emanuele Concetti
+PERSON2162	Jordi Masip López
+LOCATION2163	Sabadell
+PERSON2164	Masip
+PERSON2165	Ivaylo Chochev
+PERSON2166	Aleix Vidal Parreu
+LOCATION2167	Valls
+PERSON2168	Vidal
+PERSON2169	Gimnàstic de Tarragona
+PERSON2170	UD Almería B. Vidal
+PERSON2171	Albert Crusat
+ORGANIZATION2172	Wigan Athletic
+PERSON2173	Jan Oblak
+LOCATION2174	Škofja Loka
+PERSON2175	Oblak
+ORGANIZATION2176	NK Olimpija Ljubljana
+LOCATION2177	Empoli F.C
+ORGANIZATION2178	Olimpija
+PERSON2179	S.C. Beira-Mar
+PERSON2180	S.C. Olhanense
+LOCATION2181	Slovenia
+PERSON2182	Jan Koprivec
+PERSON2183	Matías Vecino Falero
+PERSON2184	Matteo Brighi
+PERSON2185	Brighi
+ORGANIZATION2186	A.C. Parma
+PERSON2187	Marco
+ORGANIZATION2188	Emerson
+LOCATION2189	Brighi
+PERSON2190	Diego López Rodríguez
+LOCATION2191	Paradela
+PERSON2192	Lugo
+PERSON2193	Casillas
+PERSON2194	Racing de Santander
+ORGANIZATION2195	Olympiakos FC
+PERSON2196	Sebastián Viera
+LOCATION2197	Foro Italico
+PERSON2198	Foro Mussolini
+ORGANIZATION2199	Mussolini Forum
+PERSON2200	Angelo Frisa
+PERSON2201	Enrico Del Debbio
+PERSON2202	Franco Mussis
+PERSON2203	Gennaro Troianiello
+PERSON2204	Calangianus
+PERSON2205	Nuorese
+LOCATION2206	Frosinone
+PERSON2207	Alfredo Cariello
+PERSON2208	Massimo Zappino
+ORGANIZATION2209	Foggia of Lega Pro Prima Divisione
+PERSON2210	Nunzio Di Roberto
+LOCATION2211	Foggia
+PERSON2212	Angelo Antonazzo
+PERSON2213	Troianiello
+PERSON2214	Damjan Đoković
+PERSON2215	Đoković
+ORGANIZATION2216	HNK Gorica
+PERSON2217	Denis Suárez Fernández
+PERSON2218	Suárez
+ORGANIZATION2219	Celta Vigo.He
+PERSON2220	David Silva Denis Suárez
+PERSON2221	Edin Dzeko
+PERSON2222	Samir Nasri
+ORGANIZATION2223	Wolverhampton Wanderers
+PERSON2224	John Guidetti
+ORGANIZATION2225	Feyenoord
+PERSON2226	Suarez
+PERSON2227	Antonio Balzano
+LOCATION2228	Bitonto
+LOCATION2229	Stadio San Paolo
+LOCATION2230	Fuorigrotta
+LOCATION2231	San Paolo
+PERSON2232	Maradona
+PERSON2233	Michael Kojo Essien
+PERSON2234	Mickaël Essien
+PERSON2235	Essien
+ORGANIZATION2236	Olympique Lyonnais
+LOCATION2237	Chelsea
+PERSON2238	Gianvito Plasmati
+LOCATION2239	Matera
+PERSON2240	Plasmati
+LOCATION2241	Ferrandina Calcio
+PERSON2242	Matera
+PERSON2243	Virtus Locorotondo
+LOCATION2244	Calcio Chieti
+LOCATION2245	Brindisi
+ORGANIZATION2246	Ragusa
+PERSON2247	Ciro Polito
+LOCATION2248	Salerno
+ORGANIZATION2249	Salernitana Sport
+PERSON2250	Polito
+PERSON2251	Lucchese
+PERSON2252	Lorenzo Squizzi
+PERSON2253	A.C. Mantova
+LOCATION2254	Salernitnana
+PERSON2255	Johan Andrés Mojica Palacio
+PERSON2256	Tiberio Guarente
+ORGANIZATION2257	Toulon Tournament
+PERSON2258	Nico Pulzetti
+PERSON2259	Pulzetti
+PERSON2260	Riccardo Regno
+PERSON2261	Pablo Javier Pérez
+PERSON2262	Newell
+PERSON2263	Godoy Cruz
+ORGANIZATION2264	Estudiantes
+ORGANIZATION2265	Emelec
+PERSON2266	Perez
+PERSON2267	André Filipe Ribeiro Leão
+PERSON2268	Paços de Ferreira
+PERSON2269	Leão
+LOCATION2270	S.C.
+PERSON2271	Ferreira
+ORGANIZATION2272	Swansea City of the Football League Championship
+PERSON2273	Toni Kroos
+PERSON2274	Felix Kroos
+PERSON2275	Kroos
+LOCATION2276	Greifswald
+ORGANIZATION2277	Greifswalder SC
+ORGANIZATION2278	Hansa Rostock
+PERSON2279	Uli Hoeneß
+PERSON2280	Toni
+ORGANIZATION2281	Energie Cottbus
+PERSON2282	Miroslav Klose
+PERSON2283	Federico Peluso
+PERSON2284	Enric Saborit Teixidor
+PERSON2285	Antonio Donnarumma
+LOCATION2286	Stabia
+PERSON2287	Donnarumma
+ORGANIZATION2288	Campionato Nazionale Allievi
+ORGANIZATION2289	Coppa Italia Primavera
+ORGANIZATION2290	Milan Youth Department
+PERSON2291	Filippo Galli
+PERSON2292	Anderson Hernanes de Carvalho Andrade Lima
+PERSON2293	Hernanes
+LOCATION2294	Recife
+PERSON2295	Santo André
+ORGANIZATION2296	São Paulo
+PERSON2297	Brasileirão
+ORGANIZATION2298	The Times
+ORGANIZATION2299	Traffic Group
+ORGANIZATION2300	Deportivo La Coruña
+PERSON2301	Sergio Floccari
+PERSON2302	Gary Alexis Medel Soto
+LOCATION2303	Conchalí
+LOCATION2304	Santiago
+PERSON2305	Gary Medel
+PERSON2306	Gennaro Ivan Gattuso
+PERSON2307	Medel
+PERSON2308	Lucas Barrios
+LOCATION2309	Chile
+ORGANIZATION2310	Universidad Católica
+ORGANIZATION2311	Universidad de Chile
+ORGANIZATION2312	Deportes La Serena
+ORGANIZATION2313	Estadio Nacional
+PERSON2314	Católica
+PERSON2315	Aniello Cutolo
+LOCATION2316	Calcio Padova
+PERSON2317	Victor Matheus da Silva
+PERSON2318	Fabio Salvatore Aveni
+PERSON2319	Lazaros Christodoulopoulos
+LOCATION2320	Thessaloniki
+ORGANIZATION2321	Panathinaikos
+PERSON2322	Christodoulopoulos
+ORGANIZATION2323	PAOK
+PERSON2324	Omonoia Sindos
+PERSON2325	Neapoli
+ORGANIZATION2326	Liverpool F.C
+PERSON2327	Alessandro Bastrini
+LOCATION2328	Domodossola
+PERSON2329	Cristian Darío Álvarez
+LOCATION2330	Santa Fe
+PERSON2331	Álvarez
+PERSON2332	Rosario Central
+ORGANIZATION2333	Cerro Porteño
+PERSON2334	Carlos Kameni
+PERSON2335	Kameni
+PERSON2336	Márquez Moreno
+PERSON2337	Ben Sahar
+PERSON2338	Raúl Baena
+PERSON2339	Kalidou Koulibaly
+ORGANIZATION2340	Metz in Ligue
+PERSON2341	Koulibaly
+ORGANIZATION2342	Metz
+PERSON2343	Gambardella
+ORGANIZATION2344	Sochaux
+PERSON2345	Metz
+PERSON2346	Dominique Bijotat
+LOCATION2347	Vannes
+PERSON2348	Davide Brivio
+PERSON2349	Brivio
+PERSON2350	Simone Padoin
+PERSON2351	Alain Baclet
+PERSON2352	Raffaele Schiavi
+PERSON2353	Carles Planas Antolínez
+PERSON2354	Sant Celoni
+PERSON2355	Planas
+PERSON2356	Gonzalo Rubén Bergessio
+LOCATION2357	Córdoba
+LOCATION2358	Córdoba Province
+PERSON2359	Bergessio
+ORGANIZATION2360	Instituto Atlético Central Córdoba
+PERSON2361	Avellaneda
+ORGANIZATION2362	Estadio
+PERSON2363	Estadio Domingo Perón
+ORGANIZATION2364	Club Atlético River Plate
+ORGANIZATION2365	Sport Lisboa
+PERSON2366	Club Atlético San Lorenzo de Almagro
+PERSON2367	Iván Alexis Pillud
+LOCATION2368	Capitán Bermúdez
+PERSON2369	Pillud
+PERSON2370	Raphael Martinho Alves de Lima
+PERSON2371	Raphael Martinho
+PERSON2372	A. Martinho
+ORGANIZATION2373	Paulista
+LOCATION2374	Monte Alegre
+LOCATION2375	Paulista
+ORGANIZATION2376	Paulista FC
+ORGANIZATION2377	Monte Alegre FC
+PERSON2378	Rafael Serrano
+PERSON2379	Martinho
+ORGANIZATION2380	Campeonato Paulista
+PERSON2381	Calcio Catania
+PERSON2382	Paulista
+PERSON2383	Guido Marilungo
+PERSON2384	Alessandro
+LOCATION2385	Montegranaro
+LOCATION2386	Fermo
+PERSON2387	Marche
+PERSON2388	Silvio Pagliari
+PERSON2389	Campionato Primavera
+PERSON2390	Marilungo
+PERSON2391	Javier 'Javi
+PERSON2392	Lara Grande
+LOCATION2393	Montoro
+ORGANIZATION2394	Lucena CF
+PERSON2395	Emerson Palmieri dos Santos
+LOCATION2396	Santos
+PERSON2397	Emerson Palmieri
+ORGANIZATION2398	Santos FC
+ORGANIZATION2399	XV de Piracicaba
+PERSON2400	Riccardo Cazzola
+LOCATION2401	Sambenedettese
+ORGANIZATION2402	Perugia Calcio
+PERSON2403	Pro Vastese
+PERSON2404	Arezzo Calcio
+LOCATION2405	Olbia Calcio
+PERSON2406	Juan Manuel Sanchez Miño
+ORGANIZATION2407	Boca Juniors of the Argentine Primera División
+PERSON2408	Sanchez Miño
+PERSON2409	Boca Juniors
+LOCATION2410	San Lorenzo
+ORGANIZATION2411	Arsenal de Sarandí
+PERSON2412	Antonio García Aranda
+LOCATION2413	Alcalá de Henares
+PERSON2414	Villarreal CF B
+PERSON2415	Radja Nainggolan
+PERSON2416	Nainggolan
+LOCATION2417	Antwerp
+LOCATION2418	Indonesian
+LOCATION2419	Batak
+PERSON2420	Radja
+ORGANIZATION2421	Piacenza Calcio
+ORGANIZATION2422	Sardinians
+PERSON2423	Bartosz Salamon
+PERSON2424	B. Salamon
+LOCATION2425	Ravenna
+PERSON2426	Salamon
+PERSON2427	Jaime Jiménez Merlo
+PERSON2428	Jaime
+LOCATION2429	Valdepeñas
+ORGANIZATION2430	Ciudad Real
+PERSON2431	José Eduardo de Araújo
+PERSON2432	Zé Eduardo
+LOCATION2433	Uberaba
+PERSON2434	Ze Eduardo
+PERSON2435	Cruzeiro Esporte Clube Zé Eduardo
+PERSON2436	Eduardo
+ORGANIZATION2437	Associação Maga Esporte Clube
+PERSON2438	Maga
+ORGANIZATION2439	Cruzeiro
+ORGANIZATION2440	AFC Ajax
+PERSON2441	Associação Maga Esporte Clube
+LOCATION2442	Viareggio
+PERSON2443	Daniele Cacia
+LOCATION2444	Cacia
+ORGANIZATION2445	U.S. Lecce
+PERSON2446	Júlio César Jacobi
+PERSON2447	Júlio César
+LOCATION2448	Guaramirim
+LOCATION2449	Botafogo
+ORGANIZATION2450	Sport Club Corinthians Paulista
+PERSON2451	Weldon
+PERSON2452	Paulo Costinha
+PERSON2453	Jorge Jesus
+PERSON2454	Quim
+PERSON2455	José Moreira
+LOCATION2456	Liverpool
+PERSON2457	Sergio Canales Madrazo
+PERSON2458	Canales
+PERSON2459	Deportivo de La Coruña
+PERSON2460	Pedro Munitis
+PERSON2461	Dudu Aouate
+PERSON2462	Antonio Tomás
+ORGANIZATION2463	FC Honka
+ORGANIZATION2464	Estadio Ramón Sánchez Pizjuán
+LOCATION2465	San Mames Barria
+LOCATION2466	New San Mames
+ORGANIZATION2467	Bilbao International Trade Fair
+PERSON2468	Patxi López
+LOCATION2469	Biscay
+PERSON2470	José Luis Bilbao
+PERSON2471	Iñaki Azkuna
+PERSON2472	Bilbao Bizkaia Kutxa
+PERSON2473	Mario Fernández
+ORGANIZATION2474	Royal Spanish Football Federation
+PERSON2475	Ángel María Villar
+ORGANIZATION2476	Athletic Club
+PERSON2477	Fernando García Macua
+ORGANIZATION2478	Los Rojiblancos
+ORGANIZATION2479	Sporting Gijonés
+PERSON2480	Anselmo López
+PERSON2481	Alfonso XIII
+ORGANIZATION2482	Real Sporting Club Gijonés
+PERSON2483	Cristian Bustos Costa
+PERSON2484	Mapou Yanga-Mbiwa
+LOCATION2485	Montpellier
+PERSON2486	Yanga-Mbiwa
+LOCATION2487	Bangui
+LOCATION2488	Central African Republic
+LOCATION2489	Port-de-Bouc
+LOCATION2490	Marseille
+ORGANIZATION2491	Bastia
+PERSON2492	Rolland Courbis
+PERSON2493	Simon Makienok Christoffersen
+ORGANIZATION2494	Centre Foward for Danish Superliga
+PERSON2495	Makienok
+PERSON2496	Brøndby
+ORGANIZATION2497	Brøndby IF
+ORGANIZATION2498	FC Nordsjælland
+ORGANIZATION2499	Silkeborg IF
+PERSON2500	Mike Jensen
+PERSON2501	Sidnei Rechel da Silva Junior
+PERSON2502	Sidnei
+LOCATION2503	Rio Grande
+ORGANIZATION2504	Sport Club Internacional
+ORGANIZATION2505	Reds
+PERSON2506	David Luiz
+ORGANIZATION2507	Bologna Football Club
+ORGANIZATION2508	Football League
+PERSON2509	Emilio Arnstein
+LOCATION2510	Vienna
+LOCATION2511	Prague
+ORGANIZATION2512	Black Star
+LOCATION2513	Austria
+PERSON2514	Carlo Sandoni
+PERSON2515	Swissman Louis Rauch
+PERSON2516	Guido Della Valle
+PERSON2517	Enrico Penaglia
+PERSON2518	Sergio Lampronti
+PERSON2519	Leone Vincenzi
+ORGANIZATION2520	Primera División of La Liga
+ORGANIZATION2521	Athletic
+ORGANIZATION2522	Los Leones
+ORGANIZATION2523	The Lions
+PERSON2524	Joseba Etxeberria
+PERSON2525	Javi Martínez
+PERSON2526	Biscay
+LOCATION2527	Guipúzcoa
+LOCATION2528	Aragon
+ORGANIZATION2529	Iberia SC
+LOCATION2530	El Torrero
+ORGANIZATION2531	Club Atlético de Madrid
+PERSON2532	La Liga
+ORGANIZATION2533	Vicente Calderón
+ORGANIZATION2534	Estadio La Peineta
+PERSON2535	Atleti
+ORGANIZATION2536	Nike
+ORGANIZATION2537	Kyocera
+PERSON2538	Los Colchoneros
+ORGANIZATION2539	Los Indios
+PERSON2540	Raúl Fernández-Cavada Mateos
+PERSON2541	Rául
+PERSON2542	Lezama
+ORGANIZATION2543	UB Conquense
+PERSON2544	Raúl
+PERSON2545	Armando
+PERSON2546	Gorka Iraizoz
+LOCATION2547	Barça
+PERSON2548	Joan Gamper
+PERSON2549	Jaume Picas
+PERSON2550	Josep Maria Espinàs
+ORGANIZATION2551	Supercopa de España
+PERSON2552	Eva Duarte
+ORGANIZATION2553	Copa de la Liga
+ORGANIZATION2554	Parma Football Club
+ORGANIZATION2555	Parma Associazione Calcio
+ORGANIZATION2556	Verdi Foot Ball Club
+ORGANIZATION2557	Stadio Ennio Tardini
+PERSON2558	Calisto Tanzi
+PERSON2559	Mario Angel Paglialunga
+PERSON2560	A. Paglialunga
+PERSON2561	Paglialunga
+PERSON2562	Velez Sarsfield
+PERSON2563	Mario
+PERSON2564	Borja Ekiza Imaz
+PERSON2565	Ekiza
+PERSON2566	CD Baskonia
+PERSON2567	Fernando Amorebieta
+PERSON2568	Aitor Ocio
+PERSON2569	Ustaritz
+PERSON2570	Iago Aspas Juncal
+LOCATION2571	Moaña
+PERSON2572	Aspas
+PERSON2573	Leonardo Ulloa
+PERSON2574	Dany Achille Nounkeu Tchounkeu
+ORGANIZATION2575	Galatasaray
+PERSON2576	Nounkeu
+LOCATION2577	Collège Vogt Atletic
+PERSON2578	Yaoundé
+ORGANIZATION2579	FC Metz
+ORGANIZATION2580	CSO Amnéville
+LOCATION2581	Pau
+ORGANIZATION2582	Toulouse FC
+LOCATION2583	Galatasaray
+ORGANIZATION2584	Lions Indomptables
+PERSON2585	Winfried Schäfer
+ORGANIZATION2586	Stadio Filadelfia
+PERSON2587	Giancarlo González
+LOCATION2588	Alajuelense
+ORGANIZATION2589	Vålerenga Fotball
+PERSON2590	Nicolás Hernán Gonzalo Otamendi
+LOCATION2591	Portuguese Liga
+PERSON2592	Otamendi
+PERSON2593	Vélez Sársfield
+ORGANIZATION2594	Rosario Central
+PERSON2595	Hugo Tocalli
+PERSON2596	Tocalli
+PERSON2597	Mariano Uglessich
+PERSON2598	Waldo Ponce
+PERSON2599	Fernando Tobio
+PERSON2600	Marco Torsiglieri
+PERSON2601	Ricardo Gareca
+PERSON2602	Sebastián Domínguez
+LOCATION2603	Vélez
+PERSON2604	Ciprian Tătăruşanu
+ORGANIZATION2605	Società Sportiva Lazio
+LOCATION2606	Derby
+ORGANIZATION2607	Valencia Club
+ORGANIZATION2608	València Club de Futbol
+ORGANIZATION2609	Los Che
+ORGANIZATION2610	Real Madrid C.F.
+ORGANIZATION2611	Juventus Football Club S.p.A.
+ORGANIZATION2612	JUVE
+ORGANIZATION2613	Sport Club Juventus
+PERSON2614	Eugenio Canfari
+PERSON2615	Enrico
+PERSON2616	Agnelli
+PERSON2617	Javier Pedro Saviola Fernández
+PERSON2618	Saviola
+PERSON2619	Buenos Aires-born Saviola
+ORGANIZATION2620	Union
+ORGANIZATION2621	Hellas Verona Football Club
+PERSON2622	Mastini
+PERSON2623	Scaligeri
+ORGANIZATION2624	Della Scala
+PERSON2625	Veronese
+PERSON2626	Chievo Verona
+PERSON2627	Scala
+LOCATION2628	Cangrande della Scala
+ORGANIZATION2629	Stadio Marcantonio Bentegodi
+ORGANIZATION2630	Football Club Internazionale Milano S.p.A.
+PERSON2631	Stadio Giuseppe Meazza
+PERSON2632	Madonnina
+PERSON2633	Gerard Deulofeu Lázaro
+LOCATION2634	Riudarenes
+LOCATION2635	Girona
+PERSON2636	Deulofeu
+PERSON2637	Eduard Oriol
+LOCATION2638	Guadalajara
+PERSON2639	Club América
+PERSON2640	David Villa
+PERSON2641	Alessandro Micai
+PERSON2642	Associazione Calcio Chievo Verona
+PERSON2643	Paluani
+PERSON2644	Paluani Chievo
+PERSON2645	Gialloblu
+PERSON2646	Mussi
+LOCATION2647	Bentegodi
+PERSON2648	Luigi Carillo
+PERSON2649	Francesco Bardi
+PERSON2650	Bardi
+PERSON2651	Raffaele Di Gennaro
+PERSON2652	Simone
+PERSON2653	Luca Siligardi
+PERSON2654	Diego Perotti
+LOCATION2655	Moreno
+ORGANIZATION2656	Sevilla FC in La Liga
+PERSON2657	Perotti
+PERSON2658	Diego Capel
+PERSON2659	Capel
+ORGANIZATION2660	PFC CSKA Moscow
+ORGANIZATION2661	Stadio Artemio Franchi
+PERSON2662	Viola
+ORGANIZATION2663	Associazione Calcio Fiorentina
+ORGANIZATION2664	National Fascist Party
+PERSON2665	Luigi Ridolfi
+ORGANIZATION2666	Associazione Calcio Milan
+PERSON2667	Herbert Kilpin
+PERSON2668	Alfred Edwards
+PERSON2669	Gabriele Moncini
+PERSON2670	Mario Mandžukić
+PERSON2671	Mandžukić
+LOCATION2672	Ditzingen
+LOCATION2673	Stuttgart
+LOCATION2674	Marsonia
+LOCATION2675	Zagreb
+PERSON2676	Miroslav Blažević
+PERSON2677	Eduardo da Silva
+ORGANIZATION2678	Dinamo
+PERSON2679	Alan Arario
+PERSON2680	Guillermo Daniel Rodríguez Pérez
+PERSON2681	Rodríguez
+PERSON2682	Danubio
+LOCATION2683	Lens of France
+ORGANIZATION2684	Independiente
+PERSON2685	Dario Del Fabro
+PERSON2686	Carlos Mario Carbonero Mancilla
+LOCATION2687	Bogotá Colombia
+LOCATION2688	Estudiantes de La Plata
+LOCATION2689	Colombia
+PERSON2690	Achille Coser
+PERSON2691	Novara Calcio
+PERSON2692	Coser
+PERSON2693	Paolo Acerbis
+PERSON2694	Acerbis
+PERSON2695	Paolo Ginestra
+LOCATION2696	Triestina
+PERSON2697	Antonio Narciso
+ORGANIZATION2698	Lega Pro Seconda Divisione
+PERSON2699	Antonio Amaya Carazo
+PERSON2700	Amaya
+LOCATION2701	San Cristóbal
+ORGANIZATION2702	UD
+PERSON2703	Reyes
+PERSON2704	Mohamed Diamé
+LOCATION2705	Blackpool
+ORGANIZATION2706	Wigan
+PERSON2707	Gabriele Perico
+PERSON2708	Perico
+PERSON2709	Prato
+LOCATION2710	Prato
+PERSON2711	Mauro Belotti
+PERSON2712	Alessandro Diamanti
+ORGANIZATION2713	Primavera
+PERSON2714	Joelson
+PERSON2715	Mauro Minelli
+PERSON2716	Simon Laner
+PERSON2717	Andrea Cocco
+PERSON2718	Stefano Lucchini
+PERSON2719	Lucchini
+LOCATION2720	Cremonese
+PERSON2721	Daniele Gastaldello
+PERSON2722	Massimo Volta
+PERSON2723	Volta
+PERSON2724	Hugo Fraile Martínez
+PERSON2725	Alessio Romagnoli
+PERSON2726	Bruno Zuculini
+ORGANIZATION2727	Córdoba CF
+PERSON2728	Luis Fariña
+PERSON2729	Gerónimo Rulli
+PERSON2730	Marc-André ter Stegen
+PERSON2731	Borussia Mönchengladbach
+PERSON2732	Stegen
+ORGANIZATION2733	Borussia Mönchengladbach
+PERSON2734	Mönchengladbach
+PERSON2735	Michael Frontzeck
+PERSON2736	Lucien Favre
+PERSON2737	Logan Bailly
+PERSON2738	Roger Martí Salvador
+PERSON2739	Roger
+PERSON2740	Juanlu
+PERSON2741	Xavi Torres
+PERSON2742	José Ángel Alonso Martín
+PERSON2743	José Ángel
+ORGANIZATION2744	Elche CF
+PERSON2745	Lorenzo Saporetti
+PERSON2746	Jorge Luiz Frello
+PERSON2747	Jorginho
+PERSON2748	Álvaro Negredo Sánchez
+PERSON2749	Negredo
+PERSON2750	Fabio Capello
+PERSON2751	Pedro Mosquera Parada
+PERSON2752	Mosquera
+LOCATION2753	Santa María
+PERSON2754	Xabi Alonso
+ORGANIZATION2755	VFL Osnabrück
+PERSON2756	Luis García
+LOCATION2757	Cornellà
+LOCATION2758	Dublin
+ORGANIZATION2759	Estadi Cornellà-El Prat
+PERSON2760	Daniel Jarque
+ORGANIZATION2761	The Black Eyed Peas
+PERSON2762	Adrián González Morales
+PERSON2763	Adrián
+PERSON2764	Víctor Muñoz
+PERSON2765	Gamberini
+PERSON2766	Alex Pederzoli
+PERSON2767	Giacomo Cipriani
+PERSON2768	Jonatan Binotto
+PERSON2769	Michał Chrapek
+LOCATION2770	Jaworzno
+PERSON2771	Kolejarz Stróże
+PERSON2772	Chrapek
+LOCATION2773	Młoda Ekstraklasa
+LOCATION2774	Wisła Kraków
+PERSON2775	Marios Oikonomou
+PERSON2776	Estadio Teresa Rivero
+PERSON2777	Ivan Ricardo Neves Abreu Cavaleiro
+PERSON2778	Alfred Duncan
+PERSON2779	Antonio Rozzi
+PERSON2780	Rozzi
+PERSON2781	Casal Monastero
+PERSON2782	Lodigiani
+LOCATION2783	Lodigiani
+PERSON2784	Tommaso Rocchi
+PERSON2785	Carlos Javier Acuña Caballero
+LOCATION2786	Encarnación
+PERSON2787	Acuña
+PERSON2788	Cádiz CF
+PERSON2789	Cádiz
+LOCATION2790	UD Salamanca
+PERSON2791	Ânderson Miguel da Silva
+PERSON2792	Nenê
+ORGANIZATION2793	Cruzeiro Esporte Clube
+ORGANIZATION2794	Calcio Catania
+PERSON2795	David Ferreiro Quiroga
+PERSON2796	Enrique González Casín
+PERSON2797	Ibrahima Mbaye
+PERSON2798	Adel Taarabt
+ORGANIZATION2799	Queens Park Rangers
+ORGANIZATION2800	QPR
+PERSON2801	Harry Redknapp
+LOCATION2802	Loftus Road
+PERSON2803	Neil Warnock
+LOCATION2804	Morocco
+PERSON2805	Taarabt
+PERSON2806	Bouches-du-Rhône
+PERSON2807	Oleksandr Pavlovych Yakovenko
+LOCATION2808	Kiev
+LOCATION2809	Ukrainian
+ORGANIZATION2810	Belgian Jupiler Pro League
+LOCATION2811	Leuven
+ORGANIZATION2812	FC Metalist Kharkiv
+ORGANIZATION2813	SK Lierse
+PERSON2814	Alexander Yakovenko
+PERSON2815	Oleksandr Iakovenko
+LOCATION2816	Anderlecht
+LOCATION2817	Westerlo
+PERSON2818	Iakovenko
+LOCATION2819	Oud-Heverlee Leuven
+PERSON2820	Pavlo Yakovenko
+PERSON2821	Yuriy Yakovenko
+PERSON2822	Vrsaljko
+PERSON2823	Luka Modrić
+LOCATION2824	Zadar
+ORGANIZATION2825	HNK Rijeka
+PERSON2826	Juan Surraco
+PERSON2827	Surraco
+ORGANIZATION2828	Uruguayan National Football Team
+LOCATION2829	Jordan
+LOCATION2830	Zambia
+LOCATION2831	United States of America
+PERSON2832	Cavani
+PERSON2833	Andrea Pisanu
+PERSON2834	Pisanu
+PERSON2835	Hellas Verona F.C
+PERSON2836	Marco Fanna
+PERSON2837	Francesco Valiani
+PERSON2838	Valiani
+PERSON2839	Luigi Sepe
+PERSON2840	Torre del Greco
+PERSON2841	Sepe
+PERSON2842	Gianello
+PERSON2843	Gennaro Iezzo
+PERSON2844	Nicolás Navarro
+PERSON2845	Matteo Gianello
+ORGANIZATION2846	Morgan De Sanctis
+PERSON2847	Iezzo
+PERSON2848	Simone Colombi
+PERSON2849	Colombi
+PERSON2850	Adama Touré
+PERSON2851	Motta
+LOCATION2852	Merate
+PERSON2853	Riccardo Montolivo
+PERSON2854	Damiano Zenoni
+PERSON2855	Massimo Gotti
+PERSON2856	Piermario Morosini
+PERSON2857	Fausto Rossini
+PERSON2858	Michele Rinaldi
+PERSON2859	Thomas Manfredini
+PERSON2860	Antonino D'Agostino
+PERSON2861	Udinese Calcio
+PERSON2862	Davide Astori
+LOCATION2863	Pizzighettone
+PERSON2864	Astori
+PERSON2865	Pizzighettone
+ORGANIZATION2866	Cremonese
+PERSON2867	Marco Marchionni
+PERSON2868	Monterotondo
+PERSON2869	Cesare Prandelli
+PERSON2870	Marchionni
+PERSON2871	Marco Silvestri
+LOCATION2872	Castelnovo
+PERSON2873	Monti
+ORGANIZATION2874	Reggio Emilia
+PERSON2875	Silvestri
+ORGANIZATION2876	Emilia
+PERSON2877	Stefano Sorrentino
+ORGANIZATION2878	Reggiana
+PERSON2879	Niccolò Manfredini
+PERSON2880	Niccolò Bellucci
+PERSON2881	Francesco Rocca
+PERSON2882	Antonio Piccolo
+PERSON2883	Cristiano Piccini
+PERSON2884	Manuel Pasqual
+PERSON2885	Alessandro Ligi
+PERSON2886	Víctor Camarasa Ferrando
+PERSON2887	Roberto Guana
+PERSON2888	Roberto
+LOCATION2889	Brescia Calcio
+PERSON2890	Daniele Adani
+PERSON2891	Guana
+PERSON2892	Francesco Parravicini
+PERSON2893	Alberto Fontana
+PERSON2894	Davide Ballardini
+PERSON2895	Andrea Raggi
+LOCATION2896	Quartu Sant'Elena
+LOCATION2897	Stadio Sant'Elia
+PERSON2898	Mariano Julio Izco
+PERSON2899	Izco
+ORGANIZATION2900	Club Atlético San Telmo
+PERSON2901	Club Almagro
+PERSON2902	Almagro
+ORGANIZATION2903	Club Atlético Tigre
+PERSON2904	Pablo Daniel Osvaldo
+PERSON2905	Osvaldo
+ORGANIZATION2906	Club Atlético Huracán
+PERSON2907	Juan Carlos Paredes Reasco
+LOCATION2908	Esmeraldas
+LOCATION2909	Deportivo Quito
+PERSON2910	Paredes
+LOCATION2911	Deportivo Cuenca
+ORGANIZATION2912	Rocafuerte FC of Ecuador
+LOCATION2913	Cuenca
+PERSON2914	Javier Hernández Balcázar
+LOCATION2915	Jalisco
+PERSON2916	Javier Hernández Gutiérrez
+PERSON2917	Haris Medunjanin
+ORGANIZATION2918	Tel Aviv F.C
+LOCATION2919	Israel
+PERSON2920	Medunjanin
+LOCATION2921	Sarajevo
+LOCATION2922	Sparta Rotterdam
+LOCATION2923	Maccabi Tel Aviv F.C
+PERSON2924	FK Mogren
+PERSON2925	Romano Perticone
+LOCATION2926	Melzo
+LOCATION2927	Modena F.C
+PERSON2928	Perticone
+PERSON2929	Marcus Diniz
+PERSON2930	Diniz
+PERSON2931	Mauricio Ricardo Pinilla Ferrera
+LOCATION2932	Universidad de Chile
+PERSON2933	Pinilla
+ORGANIZATION2934	Sporting Clube de Braga
+PERSON2935	Souleymane
+PERSON2936	Bamba
+LOCATION2937	Leicester City
+LOCATION2938	Ivory Coast
+ORGANIZATION2939	Dunfermline Athletic
+PERSON2940	Jim Leishman
+PERSON2941	Lucas Evangelista Santana de Oliveira
+LOCATION2942	Vallo
+PERSON2943	Lucania
+PERSON2944	Emilio
+PERSON2945	Franca
+LOCATION2946	Moio della Civitella
+PERSON2947	Cristian
+PERSON2948	Bartolomeo
+PERSON2949	Angelo
+PERSON2950	Molinaro
+PERSON2951	Salernitana
+PERSON2952	Salih Uçan
+LOCATION2953	Marmaris
+PERSON2954	Salih
+ORGANIZATION2955	Besiktas
+ORGANIZATION2956	Fenerbahce
+PERSON2957	Fenerbahçe
+LOCATION2958	Uçan
+PERSON2959	Pedro Henrique de Castro Silva
+LOCATION2960	Volta Redonda
+PERSON2961	Copa São Paulo Futebol Júnior
+PERSON2962	Alessio Sestu
+PERSON2963	Sestu
+ORGANIZATION2964	A.C. Siena
+PERSON2965	Domenico Maietta
+PERSON2966	Ervin Zukanović
+LOCATION2967	Bosnian
+PERSON2968	Zukanović
+ORGANIZATION2969	FK Željezničar
+LOCATION2970	Bosnia
+LOCATION2971	Herzegovina
+PERSON2972	Dender
+PERSON2973	Emiliano Adrián Insúa Zapata
+PERSON2974	Insúa
+PERSON2975	Pinocho
+LOCATION2976	Buenos Aires-based
+LOCATION2977	La Bombonera
+PERSON2978	Frank Mc Parland
+PERSON2979	Paddy Murphy
+LOCATION2980	Boca
+ORGANIZATION2981	Merseyside
+PERSON2982	Gabriel Paletta
+PERSON2983	Fernando Pacheco Flores
+ORGANIZATION2984	Extremadura
+PERSON2985	Pacheco
+PERSON2986	Antonio Adán
+ORGANIZATION2987	SD Ponferradina
+PERSON2988	Enzo Pablo Andía Roco
+PERSON2989	Primera División
+PERSON2990	Daniele Vantaggiato
+LOCATION2991	Padova
+PERSON2992	Vantaggiato
+PERSON2993	Davide Moscardelli
+PERSON2994	Jeda
+PERSON2995	Francesco Lunardini
+PERSON2996	Davide Matteini
+PERSON2997	Daniele Paponi
+PERSON2998	Blerim Džemaili
+PERSON2999	Albano Benjamín Bizzarri
+LOCATION3000	Villa María
+PERSON3001	Bizzarri
+ORGANIZATION3002	La Liga powerhouse Real Madrid
+PERSON3003	Bodo Illgner
+PERSON3004	Walter Zenga
+PERSON3005	Alessandro Iacobucci
+PERSON3006	Iacobucci
+PERSON3007	Renato Curi Angolana
+PERSON3008	Curi Angolana
+PERSON3009	Alberto Creati
+PERSON3010	Ferdinando Coppola
+PERSON3011	Richard Marcone
+PERSON3012	Simone Farelli
+ORGANIZATION3013	South Tyrol
+PERSON3014	Michał Miśkiewicz
+LOCATION3015	South Tyrol
+PERSON3016	Davide Zomer
+PERSON3017	Massimo Piscedda
+PERSON3018	Antonio Rocca
+PERSON3019	Roberto Canella Suárez
+LOCATION3020	Laviana
+PERSON3021	Canella
+PERSON3022	Cristian Daniel Ansaldi
+PERSON3023	Rubin Kazan
+PERSON3024	Ansaldi
+PERSON3025	Lionel Messi
+PERSON3026	Adrián Daniel Calello
+LOCATION3027	Independiente
+PERSON3028	Calello
+PERSON3029	Gastón Machín
+PERSON3030	Riccardo Meggiorini
+PERSON3031	Meggio
+PERSON3032	Meggiorini
+LOCATION3033	Bovolone
+ORGANIZATION3034	Verona Province
+PERSON3035	Hernán Paolo Dellafiore
+LOCATION3036	Pavia
+PERSON3037	Cittadella
+PERSON3038	Diego Milito
+PERSON3039	Thiago Motta
+PERSON3040	Robert Acquafresca
+PERSON3041	Francesco Bolzoni
+PERSON3042	Ivan Fatic
+PERSON3043	Keisuke Honda
+PERSON3044	Honda Keisuke
+ORGANIZATION3045	CSKA Moscow
+LOCATION3046	Japan
+ORGANIZATION3047	Honda
+LOCATION3048	Settsu
+LOCATION3049	Osaka Prefecture
+ORGANIZATION3050	Settsu FC
+ORGANIZATION3051	Seiryo High School
+LOCATION3052	Ishikawa Prefecture
+ORGANIZATION3053	All Japan High School Soccer Tournament
+ORGANIZATION3054	JFA
+ORGANIZATION3055	Nagoya Grampus
+LOCATION3056	Nagoya
+PERSON3057	Aritz López Garai
+LOCATION3058	Barakaldo
+PERSON3059	López Garai
+ORGANIZATION3060	Bilbao
+ORGANIZATION3061	Gernika Club
+PERSON3062	Stefan de Vrij
+LOCATION3063	Ouderkerk
+PERSON3064	De Vrij
+LOCATION3065	South Holland
+PERSON3066	Jan de Vrij
+PERSON3067	Niels
+PERSON3068	Eric
+ORGANIZATION3069	ARC
+PERSON3070	Maxime Lestienne
+LOCATION3071	Mouscron
+PERSON3072	Mouscron Lestienne
+PERSON3073	Asanda Sishuba
+ORGANIZATION3074	Everton F.C
+PERSON3075	Lestienne
+PERSON3076	Mateus Alberto Contreiras Gonçalves
+LOCATION3077	Luanda
+PERSON3078	Manucho
+ORGANIZATION3079	Petro Atletico
+LOCATION3080	UK
+LOCATION3081	Old Trafford
+ORGANIZATION3082	Hull City
+LOCATION3083	Flamenguinhos
+LOCATION3084	Terra Nova
+PERSON3085	Alberto Gonçalves
+LOCATION3086	Vibo Valentia
+PERSON3087	Floccari
+PERSON3088	Nicotera
+LOCATION3089	Catanzaro
+PERSON3090	Avezzano
+PERSON3091	Promozione
+LOCATION3092	Montebelluna
+PERSON3093	Faenza
+LOCATION3094	Faenza
+PERSON3095	Carlo Regno
+PERSON3096	B. Floccari
+PERSON3097	Welliton Soares de Morais
+LOCATION3098	Conceição
+LOCATION3099	Araguaia
+PERSON3100	Welliton
+LOCATION3101	Russia
+PERSON3102	Aleksandr Mostovoi
+ORGANIZATION3103	Rubin
+LOCATION3104	Spartak
+LOCATION3105	Spartak Nalchik
+PERSON3106	Antonio Mazzotta
+PERSON3107	Mazzotta
+LOCATION3108	Eccellenza Sicily
+LOCATION3109	Kamarat
+PERSON3110	B. Mazzotta
+LOCATION3111	Hungary
+PERSON3112	Manuel Pamić
+ORGANIZATION3113	AC Sparta Prague
+PERSON3114	Pamić
+ORGANIZATION3115	NK Žminj
+ORGANIZATION3116	NK Rijeka
+ORGANIZATION3117	FC Red Bull Salzburg
+ORGANIZATION3118	Sparta
+PERSON3119	Teerasil Dangda
+ORGANIZATION3120	Thai Premier League
+ORGANIZATION3121	Muangthong United
+LOCATION3122	Thailand
+LOCATION3123	Bangkok
+PERSON3124	Teerasil
+ORGANIZATION3125	Assumption Thonburi College
+ORGANIZATION3126	Royal Thai Air Force
+ORGANIZATION3127	RTAF
+PERSON3128	Raj Pracha
+PERSON3129	Davide De Mitri
+PERSON3130	Nicola Leali
+ORGANIZATION3131	Juventus FC
+PERSON3132	Leali
+PERSON3133	Matteo Sereni
+LOCATION3134	Bresica
+PERSON3135	Andrea Caroppo
+PERSON3136	Michele Arcari
+PERSON3137	Sergio Viotti
+PERSON3138	Michal Hrivnak
+LOCATION3139	Clinica Fornaca
+ORGANIZATION3140	Istituto di Medicina
+PERSON3141	Rodrigo Sebastián Aguirre Soto
+PERSON3142	Rodrigo Aguirre
+PERSON3143	Cubero
+PERSON3144	Milan Badelj
+LOCATION3145	NK Zagreb
+PERSON3146	Badelj
+PERSON3147	Thomas Mangani
+LOCATION3148	Carpentras
+LOCATION3149	Vaucluse
+PERSON3150	Jesús Gámez Duarte
+LOCATION3151	Fuengirola
+PERSON3152	Málaga
+PERSON3153	Gámez
+PERSON3154	Gerardo
+PERSON3155	Francesc Arnau
+PERSON3156	Abdoulwahid Sissoko
+LOCATION3157	Troyes
+ORGANIZATION3158	Paris St-Germain
+PERSON3159	Mohamed Sissoko
+ORGANIZATION3160	Stade Brest
+PERSON3161	Alessandro Carrozza
+LOCATION3162	Gallipoli
+PERSON3163	A. Carrozza
+LOCATION3164	Gallipoli Calcio
+PERSON3165	Giuseppe De Luca
+PERSON3166	De Luca
+PERSON3167	Simone Dell'Agnello
+PERSON3168	Ciro Ferrara
+LOCATION3169	Pau López Sabata
+PERSON3170	Ali Sowe
+PERSON3171	Timothée Kolodziejczak
+PERSON3172	Kolodziejczak
+LOCATION3173	Pas-de-Calais
+ORGANIZATION3174	US Saint-Maurice Loos
+ORGANIZATION3175	CS Avion
+PERSON3176	Gaël Kakuta
+LOCATION3177	Liévin
+PERSON3178	Andrea Consigli
+PERSON3179	Consigli
+PERSON3180	Pierluigi Casiraghi
+PERSON3181	Emiliano Viviano
+PERSON3182	Derek Owusu Boateng
+ORGANIZATION3183	Dnipro Dnipropetrovsk
+PERSON3184	Boateng
+LOCATION3185	Greater Accra
+ORGANIZATION3186	Liberty Professionals
+ORGANIZATION3187	Greek Super League
+ORGANIZATION3188	OFI Crete
+ORGANIZATION3189	AIK
+LOCATION3190	Beitar Jerusalem
+PERSON3191	Beitar Jerusalem
+PERSON3192	Thievy Guivane Bifouma Koulossa
+LOCATION3193	Saint-Denis
+PERSON3194	Thievy
+PERSON3195	Joan Verdú
+LOCATION3196	Copa Catalunya
+PERSON3197	Albert Riera Ortega
+ORGANIZATION3198	Galatasaray SK
+PERSON3199	Riera
+LOCATION3200	Manacor
+ORGANIZATION3201	FC Girondins de Bordeaux
+PERSON3202	Felipe Salvador Caicedo Corozo
+LOCATION3203	Guayaquil
+ORGANIZATION3204	Lokomotiv Moscow
+PERSON3205	Caicedo
+ORGANIZATION3206	Swiss Super League
+ORGANIZATION3207	FC Basel
+LOCATION3208	Rocafuerte
+LOCATION3209	Basel
+PERSON3210	Adriano
+PERSON3211	Alejandro Darío Gómez
+PERSON3212	A. Gómez
+PERSON3213	San Lorenzo de Almagro
+PERSON3214	Gastón Sauro
+PERSON3215	Hachim Mastour
+PERSON3216	Ibrahim Sissoko
+ORGANIZATION3217	VfL Wolfsburg
+LOCATION3218	Portuguese Primeira Liga
+PERSON3219	Campos de Sport de El Sardinero
+LOCATION3220	Estadio El Sardinero
+PERSON3221	Estadio José Rico Pérez
+PERSON3222	Estadio José Zorrilla
+PERSON3223	José Zorrilla
+PERSON3224	Jorge Alonso
+PERSON3225	Estadio Zorilla
+ORGANIZATION3226	Valladolid Arena
+ORGANIZATION3227	Estadio El Madrigal
+ORGANIZATION3228	Villarreal CF of La Liga
+PERSON3229	Campo del Villarreal
+ORGANIZATION3230	Feudo Amarillo
+LOCATION3231	Plaza Labrador
+LOCATION3232	Mediterranean Sea
+ORGANIZATION3233	ONO Estadi
+ORGANIZATION3234	Valero
+LOCATION3235	Palma de Mallorca Airport
+PERSON3236	David Emilio Mainz Navarro
+LOCATION3237	Huesca
+ORGANIZATION3238	Estadio Manuel Martinez Valero
+LOCATION3239	Liga Adelante
+PERSON3240	Manuel Martinez Valero
+PERSON3241	Juan Boix Matarredona
+ORGANIZATION3242	Mexican National Team
+PERSON3243	Finarolli
+PERSON3244	Orellana
+PERSON3245	Gomez Voglino
+PERSON3246	Jorge Sammir Cruz Campos
+PERSON3247	Sammir
+LOCATION3248	Rijeka
+PERSON3249	Slaven Belupo
+PERSON3250	Jhon Córdoba
+PERSON3251	Didier Drogba
+PERSON3252	Filipe Augusto Carvalho Souza
+PERSON3253	Gabriel Appelt Pires
+PERSON3254	Gabriel
+PERSON3255	Bruno da Silva Peres
+PERSON3256	Bruno Peres
+PERSON3257	Urby Vitorrio Diego Emanuelson
+LOCATION3258	Amsterdam
+PERSON3259	Martin Jol
+PERSON3260	Johan Cruijff-schaal
+ORGANIZATION3261	KNVB
+PERSON3262	Gai Yigaal Assulin
+PERSON3263	Assulin
+LOCATION3264	Nahariya
+LOCATION3265	Hapoel Haifa
+PERSON3266	Shlomo Scharf
+ORGANIZATION3267	Barcelona B
+PERSON3268	Sant Andreu
+PERSON3269	Răzvan Dincă Raţ
+ORGANIZATION3270	Shakhtar
+PERSON3271	Raţ
+LOCATION3272	Piatra-Olt
+ORGANIZATION3273	Rapid Piatra-Olt
+PERSON3274	Vlada Avramov
+LOCATION3275	Novi Sad
+PERSON3276	Avramov
+ORGANIZATION3277	First League of FR Yugoslavia
+LOCATION3278	Azerbaijan
+PERSON3279	Vladimir Stojković
+PERSON3280	Nicola Belmonte
+PERSON3281	Belmonte
+PERSON3282	Andrea Ranocchia
+PERSON3283	Marco Rossi
+PERSON3284	Andrea Masiello
+PERSON3285	Kamil Glik
+PERSON3286	Glik
+PERSON3287	Siena
+PERSON3288	Pedro Kamata
+PERSON3289	Filippo Carobbio
+PERSON3290	Kevin Mercado
+PERSON3291	Marco Antonio de Mattos Filho
+PERSON3292	Marquinho
+LOCATION3293	Gaúcho
+PERSON3294	Vasco da Gama
+LOCATION3295	Campeonato Paulista
+LOCATION3296	Brasileirão
+ORGANIZATION3297	Figueirense
+ORGANIZATION3298	Coritiba
+PERSON3299	Roberto José Rosales Altuve
+PERSON3300	Rosales
+ORGANIZATION3301	Caracas FC
+PERSON3302	Jefferson Andrade Siqueira
+PERSON3303	Jefferson
+LOCATION3304	Guarulhos
+LOCATION3305	Juniores
+LOCATION3306	Paraná Clube
+PERSON3307	Joaquín Oscar Larrivey
+PERSON3308	Bati
+PERSON3309	Gabriel Batistuta
+PERSON3310	Larrivey
+ORGANIZATION3311	Club Atlético Colón
+PERSON3312	Joaquin Larrivey
+PERSON3313	Alessandro Matri
+PERSON3314	Birkir Bjarnason
+LOCATION3315	Akureyri
+PERSON3316	Birkir
+ORGANIZATION3317	Sandved Elementary
+PERSON3318	Sigbjørn
+LOCATION3319	Figgjo
+PERSON3320	Hamarkameratene
+PERSON3321	Miguel Ángel Moyà Rumbo
+LOCATION3322	Binissalem
+PERSON3323	Moyà
+PERSON3324	Toni Prats
+PERSON3325	César Sánchez
+PERSON3326	Daniel Parejo
+ORGANIZATION3327	Granada Club de Fútbol
+LOCATION3328	Granada
+ORGANIZATION3329	Estadio Nuevo Los Cármenes
+PERSON3330	Recreativo de Granada
+PERSON3331	Julio López Fernández
+PERSON3332	Deportivo Jaén
+PERSON3333	Antonio Bombillar
+ORGANIZATION3334	Tercera Regional
+PERSON3335	Miguel Torres Gómez
+PERSON3336	Écija Balompié
+PERSON3337	Fabio Cannavaro
+PERSON3338	Cicinho
+PERSON3339	Míchel Salgado
+PERSON3340	Sergio Ramos
+PERSON3341	Thomas Vermaelen
+PERSON3342	Robin van Persie
+ORGANIZATION3343	Germinal Ekeren
+PERSON3344	Germinal Beerschot
+PERSON3345	Vermaelen
+ORGANIZATION3346	Volendam
+ORGANIZATION3347	RKC Waalwijk
+ORGANIZATION3348	RKC
+ORGANIZATION3349	Real Club Celta de Vigo
+ORGANIZATION3350	Real Vigo Sporting
+ORGANIZATION3351	Real Fortuna Foot-ball Club
+ORGANIZATION3352	Aberdeen
+PERSON3353	Vigo
+ORGANIZATION3354	Real Racing Club de Santander
+ORGANIZATION3355	Santander Racing Club
+PERSON3356	Luis Redonet
+ORGANIZATION3357	Northern Federation
+ORGANIZATION3358	Santander Foot-ball Club
+ORGANIZATION3359	Real Santander
+PERSON3360	Carlos Tornero López de Lerma
+LOCATION3361	San Vicente de Alcántara
+PERSON3362	Ivan Rakitić
+LOCATION3363	Möhlin
+ORGANIZATION3364	Schalke
+PERSON3365	Rakitić
+PERSON3366	Luka
+LOCATION3367	Sikirevci
+LOCATION3368	Žepče
+PERSON3369	José Manuel Jiménez Ortiz
+ORGANIZATION3370	Getafe CF in La Liga
+LOCATION3371	Tarifa
+PERSON3372	Mané
+PERSON3373	Balompédica Linense
+PERSON3374	Díter Zafra
+LOCATION3375	Ciudad de Murcia
+PERSON3376	Guillem Balagué
+PERSON3377	Ivan Martić
+ORGANIZATION3378	FC St.
+PERSON3379	Abdoul Karim Yoda
+ORGANIZATION3380	FC Sion
+PERSON3381	Joshua Brillante
+LOCATION3382	Bundaberg
+ORGANIZATION3383	Newcastle Jets
+ORGANIZATION3384	National Youth League
+PERSON3385	Brillante
+ORGANIZATION3386	Gold Coast
+PERSON3387	Federico Serraiocco
+PERSON3388	Rubén Iván Martínez Andrade
+PERSON3389	Rubén
+LOCATION3390	Coristanco
+PERSON3391	Víctor Valdés
+PERSON3392	Albert Jorquera
+PERSON3393	Xavi Hernández
+PERSON3394	Valdés
+ORGANIZATION3395	Racing de Ferrol
+PERSON3396	Mariano Damián Barbosa
+LOCATION3397	Lanús
+ORGANIZATION3398	UD Las Palmas
+PERSON3399	Barbosa
+PERSON3400	Viera
+PERSON3401	Diego López
+PERSON3402	Ezequiel Rescaldani
+LOCATION3403	Vélez Sársfield
+PERSON3404	Rescaldani
+PERSON3405	Sarmiento
+LOCATION3406	Instituto
+LOCATION3407	Olimpo
+PERSON3408	Nicolò Barella
+PERSON3409	Adilson Tavares Varela
+LOCATION3410	Praia
+PERSON3411	Cabral
+ORGANIZATION3412	Sevilla Atlético
+PERSON3413	Christian Gross
+PERSON3414	Thorsten Fink
+PERSON3415	Bogdan Lobonţ
+PERSON3416	Antonio Vutov
+LOCATION3417	Mezdra
+ORGANIZATION3418	Levski Sofia
+PERSON3419	Vutov
+PERSON3420	Lokomotiv Mezdra
+ORGANIZATION3421	Levski Sofia Academy
+PERSON3422	Levski
+ORGANIZATION3423	Lokomotiv Sofia
+PERSON3424	Carlo Crialese
+PERSON3425	Juan Francisco Moreno Fuertes
+PERSON3426	Juanfran
+PERSON3427	Jaime Gavilán
+PERSON3428	Melker Hallberg
+ORGANIZATION3429	Kalmar FF
+PERSON3430	Antonio Rodríguez Martínez
+PERSON3431	Toño
+ORGANIZATION3432	Recreativo de Huelva
+LOCATION3433	Huelva
+PERSON3434	José Antonio Luque
+PERSON3435	Recre
+PERSON3436	Francesco Zampano
+PERSON3437	Modibo Diakité
+LOCATION3438	Bourg-la-Reine
+ORGANIZATION3439	Hauts-de-Seine
+PERSON3440	Diakité
+PERSON3441	Massimo Mutarelli
+PERSON3442	Andrea Belotti
+PERSON3443	Antonio Romano
+PERSON3444	Vallette
+ORGANIZATION3445	Stadio delle Alpi
+LOCATION3446	Stadio Delle Alpi
+LOCATION3447	Notts County
+PERSON3448	Luca Toni
+PERSON3449	Fabio Quagliarella
+PERSON3450	Stephan Lichtsteiner
+PERSON3451	Francelino Matuzalém da Silva
+PERSON3452	Matuzalém
+ORGANIZATION3453	Esporte Clube Vitória
+LOCATION3454	Vitória
+LOCATION3455	Piacenza
+LOCATION3456	Amauri
+ORGANIZATION3457	Matteo Guardalben
+PERSON3458	Federico Agliardi
+PERSON3459	Agliardi
+PERSON3460	Nicola Santoni
+PERSON3461	Santoni
+LOCATION3462	Agliardi
+PERSON3463	David Di Michele
+PERSON3464	Rosanero
+PERSON3465	Cristian Ledesma
+PERSON3466	Stefano Mauri
+PERSON3467	Christian Manfredini
+PERSON3468	Manfredini
+PERSON3469	Massimo Oddo
+PERSON3470	Di Michele
+PERSON3471	Alexandre 'Álex
+PERSON3472	Moreno Lopera
+PERSON3473	Mathias Fassou Pogba
+LOCATION3474	Guinea
+LOCATION3475	Crawley Town
+PERSON3476	Paul Pogba
+PERSON3477	Grzegorz Krychowiak
+LOCATION3478	Gryfice
+ORGANIZATION3479	Stade de Reims
+PERSON3480	Krychowiak
+LOCATION3481	Reims
+LOCATION3482	Bordeaux
+PERSON3483	Mattia Muroni
+PERSON3484	André Campos Moreira
+ORGANIZATION3485	Moreirense F.C.
+PERSON3486	Nicola Lancini
+PERSON3487	Riccardo Improta
+PERSON3488	Umberto
+PERSON3489	Giancarlo Improta
+PERSON3490	Aleandro Rosi
+PERSON3491	Rosi
+PERSON3492	José Verdú Nicolás
+LOCATION3493	Santomera
+ORGANIZATION3494	Panathinaikos FC
+PERSON3495	Toché
+LOCATION3496	Numancia
+LOCATION3497	Soria
+PERSON3498	Agostino Camigliano
+PERSON3499	Gabriele Rocchi
+PERSON3500	Andrea Razzitti
+PERSON3501	Peter Dubovský
+LOCATION3502	Armenia
+PERSON3503	Óscar
+PERSON3504	Morales
+PERSON3505	Granada CF
+LOCATION3506	Zaidín
+LOCATION3507	Circunvalación
+PERSON3508	Camino de Ronda
+ORGANIZATION3509	Palacio Municipal de Deportes de Granada
+LOCATION3510	Los Cármenes
+LOCATION3511	Nuevo Los Cármenes
+PERSON3512	Leonardo Morosini
+PERSON3513	Ismail H'Maidat
+PERSON3514	Mario Gargiulo
+PERSON3515	Michel Fernandes Bastos
+PERSON3516	Bastos
+LOCATION3517	Doha
+LOCATION3518	Qatar
+ORGANIZATION3519	Pelotas
+LOCATION3520	Excelsior
+PERSON3521	Grêmio
+LOCATION3522	Pelotas
+ORGANIZATION3523	Esporte Clube Pelotas
+ORGANIZATION3524	Feyenoord Rotterdam
+ORGANIZATION3525	Jong Feyenoord
+LOCATION3526	Excelsior Rotterdam
+ORGANIZATION3527	Lille OSC
+PERSON3528	Deian Boldor
+PERSON3529	Francesco Karkalis
+PERSON3530	Andrea Scrugli
+PERSON3531	Santiago Juan Gentiletti
+ORGANIZATION3532	Stade Brestois
+PERSON3533	Gentiletti
+LOCATION3534	Gimnasia de La Plata
+PERSON3535	Claudio Borghi
+PERSON3536	Walter Bressan
+PERSON3537	Dembel Sall
+PERSON3538	Emanuele Gatto
+PERSON3539	Riccardo Barbuti
+PERSON3540	Przemysław Tytoń
+LOCATION3541	Zamość
+PERSON3542	Tytoń
+PERSON3543	Górnik Łęczna
+ORGANIZATION3544	PZPN
+ORGANIZATION3545	Roda JC
+ORGANIZATION3546	Heracles Almelo
+PERSON3547	Bram Castro
+PERSON3548	Maarten Stekelenburg
+ORGANIZATION3549	KRC Genk
+PERSON3550	Jeffrén Isaac Suárez Bermúdez
+PERSON3551	Jeffrén
+LOCATION3552	Ciudad Bolívar
+LOCATION3553	Tenerife
+ORGANIZATION3554	CD Tenerife
+PERSON3555	Guillermo Hoyos
+ORGANIZATION3556	CF Badalona
+PERSON3557	Javier Saviola
+PERSON3558	Eduardo Jesús Vargas Rojas
+PERSON3559	Vargas
+LOCATION3560	Renca
+LOCATION3561	Puerto Montt
+PERSON3562	Osvaldo Hurtado
+PERSON3563	Jorge Aravena
+LOCATION3564	Cobreloa
+PERSON3565	Universidad Arturo Prat
+LOCATION3566	San Marcos de Arica
+ORGANIZATION3567	Club Universidad de Chile
+PERSON3568	Claudio Ranieri
+PERSON3569	Antonio Rosati
+LOCATION3570	Tivoli
+ORGANIZATION3571	Cisco Calcio Roma
+PERSON3572	Rosati
+PERSON3573	Francesco Benussi
+PERSON3574	Benussi
+LOCATION3575	Venezia
+PERSON3576	Lumezzane
+PERSON3577	Giovanni Indiveri
+PERSON3578	Salvatore Soviero
+LOCATION3579	Arezzo
+PERSON3580	Soviero
+PERSON3581	Nicola Pavarini
+PERSON3582	Alex Manninger
+PERSON3583	Gianmarco Gerevini
+PERSON3584	Luis Alberto Suárez Díaz
+ORGANIZATION3585	Groningen
+PERSON3586	Johan Cruyff
+PERSON3587	Marco van Basten
+PERSON3588	Dennis Bergkamp
+PERSON3589	Lorenzo Paramatti
+PERSON3590	Paolo De Ceglie
+LOCATION3591	Aosta
+PERSON3592	De Ceglie
+PERSON3593	Pavel Nedvěd
+ORGANIZATION3594	Campionato Primavera
+LOCATION3595	Calciopoli
+PERSON3596	Claudio Marchisio
+PERSON3597	Sebastian Giovinco
+PERSON3598	Tomasch Calore
+PERSON3599	Jérémy Ménez
+PERSON3600	Ménez
+LOCATION3601	Monaco
+PERSON3602	Ricardo Gomes
+ORGANIZATION3603	Reial Club Deportiu Espanyol de Barcelona
+ORGANIZATION3604	Royal Spanish Sports Club of Barcelona
+LOCATION3605	Estadi Cornellà-El Prat
+ORGANIZATION3606	Estadi Olímpic Lluís Companys
+LOCATION3607	Estadi de Sarrià
+PERSON3608	Ángel Rodríguez
+ORGANIZATION3609	University of Barcelona
+ORGANIZATION3610	Club Español
+PERSON3611	Robin Quaison
+PERSON3612	Jonathan Pereira Rodríguez
+PERSON3613	Pereira
+PERSON3614	Keylor Navas
+LOCATION3615	San Isidro de El General
+ORGANIZATION3616	Saprissa
+ORGANIZATION3617	CONCACAF
+PERSON3618	Navas
+PERSON3619	Carmelita
+ORGANIZATION3620	São Paulo Futebol Clube
+PERSON3621	Albacete Balompie
+PERSON3622	Lazzari
+PERSON3623	Riccardo Nardini
+PERSON3624	Nardini
+PERSON3625	Salvatore Foti
+PERSON3626	Munir El Haddadi Mohamed
+PERSON3627	Munir
+ORGANIZATION3628	UEFA Youth League
+PERSON3629	Vicente Guaita Panadero
+LOCATION3630	Torrente
+PERSON3631	Horta Oest
+PERSON3632	Guaita
+PERSON3633	Santiago Cañizares
+PERSON3634	Timo Hildebrand
+PERSON3635	Renan
+PERSON3636	Sánchez
+PERSON3637	Miguel Ángel Moyà
+PERSON3638	Zamora
+PERSON3639	Leandro Greco
+PERSON3640	Greco
+PERSON3641	Alessio Cerci
+PERSON3642	Henry
+PERSON3643	Daniele Corvia
+PERSON3644	Giulio Falcone
+PERSON3645	Pisa Calcio
+PERSON3646	Giampiero Ventura
+PERSON3647	Matteo Contini
+ORGANIZATION3648	AC Milan
+LOCATION3649	L'Aquila
+PERSON3650	Contini
+PERSON3651	Jherson Vergara Amú
+LOCATION3652	South America
+PERSON3653	Antonio Nocerino
+PERSON3654	Gennaro Gattuso
+PERSON3655	Catanzaro
+ORGANIZATION3656	Stadio Città del Tricolore
+LOCATION3657	Reggio Emilia
+PERSON3658	Stadio Giglio
+PERSON3659	Stadio Mirabello
+ORGANIZATION3660	A.C. Reggiana
+ORGANIZATION3661	Magners League
+PERSON3662	Aironi
+PERSON3663	Facundo Sebastián Roncaglia
+LOCATION3664	Chajarí
+PERSON3665	Roncaglia
+PERSON3666	Juan Forlín
+LOCATION3667	Estudiantes
+LOCATION3668	Mediterráneo Stadium
+PERSON3669	Ipurua
+ORGANIZATION3670	SD Eibar
+LOCATION3671	Elgoibar
+PERSON3672	Anderson Luís de Abreu Oliveira
+PERSON3673	Anderson
+PERSON3674	Náutico
+PERSON3675	Estadi Ciutat de València
+LOCATION3676	Estadio Ciudad de Valencia
+LOCATION3677	Valencia Stadium
+PERSON3678	Victor Nsofor Obinna
+LOCATION3679	Jos
+LOCATION3680	Nigerian
+ORGANIZATION3681	FC Lokomotiv Moscow
+PERSON3682	Obinna
+ORGANIZATION3683	Plateau United
+ORGANIZATION3684	Kwara United
+PERSON3685	Marcelo Houseman
+ORGANIZATION3686	Internacional
+LOCATION3687	Enyimba
+ORGANIZATION3688	CAF Champions League
+PERSON3689	Diogo Ferreira Salomão
+LOCATION3690	Lisbon District
+PERSON3691	Salomão
+LOCATION3692	Casa Pia AC
+ORGANIZATION3693	Real Sport Clube
+ORGANIZATION3694	PFC Levski Sofia
+PERSON3695	Pedro Filipe Teodósio Mendes
+LOCATION3696	Neuchâtel
+PERSON3697	Mendes
+ORGANIZATION3698	Servette FC
+PERSON3699	Álvaro Arbeloa
+PERSON3700	Gianpaolo Bellini
+ORGANIZATION3701	Corte di Giustizia Federale
+PERSON3702	Etienne Arthur Boka
+LOCATION3703	Abidjan
+ORGANIZATION3704	ASEC Abidjan
+PERSON3705	Kolo Touré
+PERSON3706	Emmanuel Eboué
+PERSON3707	Aruna Dindane
+PERSON3708	Roberto Carlos
+PERSON3709	Boka
+PERSON3710	Matías Agustín Silvestre
+PERSON3711	Silvestre
+PERSON3712	Silvio Baldini
+PERSON3713	Baldini
+PERSON3714	Dušan Basta
+PERSON3715	Basta
+ORGANIZATION3716	PKB
+LOCATION3717	Padinska Skela
+LOCATION3718	Sutjeska
+LOCATION3719	Nikšić
+LOCATION3720	Jedinstvo Paraćin
+PERSON3721	Aleksandar Luković
+PERSON3722	Simone Bentivoglio
+LOCATION3723	Pinerolo
+PERSON3724	Tommaso Chiecchi
+PERSON3725	Bentivoglio
+LOCATION3726	Luxembourg
+PERSON3727	Michele Canini
+PERSON3728	Viviano
+PERSON3729	Stefano Pedrelli
+PERSON3730	Marco Donadel
+LOCATION3731	Conegliano
+PERSON3732	Donadel
+LOCATION3733	Donadel
+PERSON3734	Marko Vešović
+PERSON3735	Mapкo Вешовић
+LOCATION3736	Titograd
+LOCATION3737	Podgorica
+LOCATION3738	Lučani
+ORGANIZATION3739	FK Mladost Lučani
+ORGANIZATION3740	Montenegrin First League
+PERSON3741	Vešović
+ORGANIZATION3742	FC Koper
+PERSON3743	Roberto Vitiello
+PERSON3744	A. Vitiello
+PERSON3745	Joaquín José Marín Ruiz
+PERSON3746	Vincenzo
+PERSON3747	Maresca
+LOCATION3748	Pontecagnano Faiano
+ORGANIZATION3749	Albion
+PERSON3750	Fabrizio Miccoli
+PERSON3751	Estadio El Sadar
+PERSON3752	Reyno
+LOCATION3753	Navarra
+LOCATION3754	Osasuna
+LOCATION3755	El Sadar
+LOCATION3756	San Juan
+ORGANIZATION3757	Vitoria
+PERSON3758	Osaba
+PERSON3759	Bon Jovi
+PERSON3760	Giuseppe Meazza
+PERSON3761	Piero Pirelli
+PERSON3762	José Ernesto Sosa
+LOCATION3763	Kharkiv
+PERSON3764	Sosa
+PERSON3765	Carlos Bilardo
+PERSON3766	Marcelo Carrusca
+PERSON3767	Estudiantes
+PERSON3768	Gimnasia
+PERSON3769	Davide Biondini
+LOCATION3770	Longiano
+PERSON3771	Reggina Calcio
+PERSON3772	Biondini
+PERSON3773	Oier Olazábal Paredes
+LOCATION3774	Irun
+LOCATION3775	Gipuzkoa
+PERSON3776	Olazábal
+PERSON3777	Oier
+PERSON3778	Mariano Gonzalo Andújar
+PERSON3779	Andújar
+PERSON3780	Club Atlético Huracán
+PERSON3781	Andujar
+PERSON3782	Matteo Guardalben
+PERSON3783	Pablo Estifer Armero
+LOCATION3784	América de Cali
+LOCATION3785	Armero
+ORGANIZATION3786	América de Cali
+PERSON3787	Poços de Caldas
+PERSON3788	Alex Rodrigo Dias da Costa
+LOCATION3789	Niterói
+ORGANIZATION3790	Vasco da Gama
+PERSON3791	Friuli-Venezia Giulia
+ORGANIZATION3792	Udinese Channel
+LOCATION3793	Friuli-Venezia Giulia
+ORGANIZATION3794	Società Udinese
+PERSON3795	Ginnastica
+PERSON3796	Scherma
+ORGANIZATION3797	Udinese Society of Gymnastics
+ORGANIZATION3798	Torneo FNGI
+PERSON3799	Ferrara
+PERSON3800	Luigi Dal Dan
+ORGANIZATION3801	A.C. Udinese
+ORGANIZATION3802	Juventus Palmanova
+LOCATION3803	San Sebastián
+ORGANIZATION3804	Donostia Football Club
+ORGANIZATION3805	Royal Society of Football
+LOCATION3806	San Sebastian
+LOCATION3807	Britain
+ORGANIZATION3808	San Sebastian Recreation Club
+ORGANIZATION3809	San Sebastian Football Club
+PERSON3810	Paolo Castellini
+PERSON3811	Castellini
+LOCATION3812	U.S. Cremonese
+PERSON3813	Toro
+ORGANIZATION3814	Parma FC
+PERSON3815	Constantin Nica
+LOCATION3816	Bucharest
+ORGANIZATION3817	Dinamo Bucureşti
+PERSON3818	Nica
+PERSON3819	Adil Rami
+PERSON3820	Rami
+LOCATION3821	Lille
+PERSON3822	Edgar Çani
+LOCATION3823	Tirana
+LOCATION3824	Polonia Warsaw
+LOCATION3825	Albania
+LOCATION3826	Città della Pieve
+LOCATION3827	Perugia
+PERSON3828	Çani
+PERSON3829	Luca Di Matteo
+PERSON3830	Rolando Bianchi
+LOCATION3831	Lovere
+PERSON3832	Bianchi
+PERSON3833	Samuele Longo
+LOCATION3834	Valdobbiadene
+PERSON3835	Longo
+PERSON3836	Baba Thiam
+PERSON3837	Denis Alibec
+PERSON3838	Mattia Destro
+PERSON3839	Thiam
+PERSON3840	Giuseppe Angarano
+PERSON3841	Luca Stocchi
+PERSON3842	Rafael
+PERSON3843	Páez Cardona
+PERSON3844	Lorenzo Venuti
+PERSON3845	Tomer Hemed
+PERSON3846	Maccabi Haifa
+PERSON3847	Hemed
+LOCATION3848	Bnei Yehuda Tel Aviv
+LOCATION3849	Haifa
+ORGANIZATION3850	Maccabi Herzilya
+LOCATION3851	Maccabi Ahi Nazareth
+PERSON3852	John Gregory
+PERSON3853	Gregory
+ORGANIZATION3854	Daily Mail
+LOCATION3855	Nazareth
+PERSON3856	Andrea Costa
+PERSON3857	Mamadou Samassa
+LOCATION3858	Montfermeil
+ORGANIZATION3859	Valenciennes
+PERSON3860	Seine-Saint-Denis
+PERSON3861	Samassa
+ORGANIZATION3862	Red Star Paris
+ORGANIZATION3863	Le Mans Union Club
+PERSON3864	Le Mans
+PERSON3865	Rodrigo Moreno Machado
+PERSON3866	Rodrigo
+ORGANIZATION3867	Bolton Wanderers of the Premier League
+LOCATION3868	Burnley
+ORGANIZATION3869	Bolton Wanderers
+PERSON3870	Djamel Eddine Mesbah
+LOCATION3871	Zighoud Youcef
+PERSON3872	Mesbah
+ORGANIZATION3873	US Annecy-le-Vieux
+ORGANIZATION3874	FC Aarau
+ORGANIZATION3875	FC Luzern
+PERSON3876	Luca Ceccarelli
+LOCATION3877	Gambettola
+PERSON3878	Forlì-Cesena
+PERSON3879	Ceccarelli
+PERSON3880	Pavia
+LOCATION3881	San Marino Calcio
+PERSON3882	Cesena
+PERSON3883	Martin Petráš
+PERSON3884	A. Ceccarelli
+PERSON3885	Yuto Nagatomo
+PERSON3886	Maurizio Lauro
+PERSON3887	Nagatomo
+PERSON3888	Lorenzo Ariaudo
+PERSON3889	Ariaudo
+ORGANIZATION3890	Artmedia Petržalka
+PERSON3891	José Rodolfo Pires Ribeiro
+LOCATION3892	Carrington
+LOCATION3893	Bahia
+PERSON3894	Karim Ansarifard
+ORGANIZATION3895	Iran Pro League
+LOCATION3896	Iran
+PERSON3897	Ali Daei
+PERSON3898	Daei
+PERSON3899	Ansarifard
+PERSON3900	Javier Hernandez
+PERSON3901	Jack Wilshere
+LOCATION3902	FIFA.com
+ORGANIZATION3903	Saipa
+LOCATION3904	Ardabil
+PERSON3905	Karim
+PERSON3906	Mohsen Khalili
+PERSON3907	Jonathas Cristian de Jesus
+PERSON3908	Jonathas
+PERSON3909	Villa Nova
+LOCATION3910	AZ Alkmaar
+PERSON3911	Spakenburg
+LOCATION3912	Alkmaar
+PERSON3913	Limburgian
+PERSON3914	Richmond Yiadom Boakye
+LOCATION3915	Agogo
+PERSON3916	Boakye
+ORGANIZATION3917	Bechem United
+ORGANIZATION3918	Youth League
+PERSON3919	David Suazo
+PERSON3920	Richmond Boakye-Yiadom
+PERSON3921	Diego Sebastián Laxalt Suárez
+PERSON3922	Rafael Alcántara
+PERSON3923	Rafinha
+ORGANIZATION3924	FC Barcelona B in Segunda División
+LOCATION3925	Sao Paulo
+PERSON3926	Alcántara
+PERSON3927	Jonathan dos Santos
+ORGANIZATION3928	Mazinho
+PERSON3929	Valéria
+PERSON3930	Thiago
+PERSON3931	Giuseppe Rizzo
+PERSON3932	Rizzo
+LOCATION3933	Stadio Bruno Recchioni
+PERSON3934	Miguel Pérez Cuesta
+PERSON3935	Michu
+PERSON3936	Celta
+ORGANIZATION3937	Celta
+PERSON3938	Doblas Santana
+LOCATION3939	Bellavista
+PERSON3940	Doblas
+LOCATION3941	Andalusian
+PERSON3942	Pedro Contreras
+PERSON3943	Alexis Zapata
+PERSON3944	Jérémy Mathieu
+LOCATION3945	Luxeuil-les-Bains
+PERSON3946	Mathieu
+LOCATION3947	Franche-Comté
+ORGANIZATION3948	CS Sedan
+LOCATION3949	Sant'Angelo Lodigiano
+PERSON3950	Matri
+PERSON3951	Michele Piccolo
+PERSON3952	Roberto Bortolotto
+PERSON3953	Ricchiuti
+PERSON3954	Moscardelli
+PERSON3955	Octávio Merlo Manteca
+PERSON3956	Gabriel Eduardo Corozo Vásquez
+ORGANIZATION3957	Granada B
+PERSON3958	Claudio Andrés Bravo Muñoz
+LOCATION3959	Viluco
+LOCATION3960	Maipo Province
+PERSON3961	Bravo
+ORGANIZATION3962	Colo-Colo
+PERSON3963	Condor Chico
+PERSON3964	Roberto Rojas
+PERSON3965	Eduardo Lobos
+PERSON3966	Jaime Pizarro
+PERSON3967	Jonny Walker
+PERSON3968	Lobos
+PERSON3969	Colo-Colo
+PERSON3970	Francesco Fedato
+PERSON3971	Unione Venezia
+PERSON3972	José María Basanta
+LOCATION3973	Tres Sargentos
+LOCATION3974	Monterrey
+PERSON3975	Basanta
+PERSON3976	Olimpo de Bahía Blanca
+PERSON3977	Olimpo
+PERSON3978	Ricardo La Volpe
+PERSON3979	Mariano
+PERSON3980	Gonzalo Pavone
+PERSON3981	Marko Marin
+LOCATION3982	Bosanska Gradiška
+LOCATION3983	Marin
+PERSON3984	Marin
+PERSON3985	Borka
+PERSON3986	Ranko
+LOCATION3987	Frankfurt
+PERSON3988	Marko
+PERSON3989	Dejan Savićević
+ORGANIZATION3990	SG
+ORGANIZATION3991	Hoechst
+ORGANIZATION3992	Eintracht
+LOCATION3993	Eintracht
+PERSON3994	McDonald Mariga Wanyama
+PERSON3995	Mariga
+ORGANIZATION3996	Ulinzi Stars
+ORGANIZATION3997	Tusker FC
+ORGANIZATION3998	Pipeline FC
+ORGANIZATION3999	Kamukunji High School
+PERSON4000	Dennis Oliech
+ORGANIZATION4001	Auxerre
+ORGANIZATION4002	Enköpings SK
+LOCATION4003	Helsingborgs
+PERSON4004	Luca Castellazzi
+PERSON4005	Vincenzo Mazzeo
+PERSON4006	Castellazzi
+PERSON4007	Luigi Turci
+PERSON4008	Francesco Antonioli
+PERSON4009	Antonioli
+PERSON4010	Coppola
+PERSON4011	Giuseppe Taglialatela
+PERSON4012	Luca Mondini
+PERSON4013	Alessio Bandieri
+PERSON4014	Gianluca Pagliuca
+ORGANIZATION4015	Reggina Calcio
+PERSON4016	Valerio Fiori
+PERSON4017	Željko Kalac
+PERSON4018	Fiori
+PERSON4019	Quagliarella
+PERSON4020	Florentia Viola
+LOCATION4021	Chieti
+PERSON4022	Jonathan dos Santos Ramírez
+PERSON4023	Zizinho
+LOCATION4024	Brazilian
+PERSON4025	Giovani dos Santos
+PERSON4026	Luis Enrique
+PERSON4027	Blaugrana
+PERSON4028	dos Santos
+PERSON4029	Federico Piovaccari
+PERSON4030	Caso Genoa
+ORGANIZATION4031	Ravenna of Prima Divisione
+PERSON4032	Francesco Zizzari
+PERSON4033	Luca Gerbino Polo
+PERSON4034	Stefano Scappini
+PERSON4035	Matteo Ardemagni
+PERSON4036	Paolo Rossi
+PERSON4037	Piovaccari
+PERSON4038	Ricardo Jorge da Luz Horta
+PERSON4039	Mario Pašalić
+PERSON4040	Unai López Cabrera
+PERSON4041	Massimo Donati
+LOCATION4042	Sedegliano
+PERSON4043	Donati
+PERSON4044	Cristian Zenoni
+PERSON4045	Neil Lennon
+ORGANIZATION4046	Kilmarnock
+PERSON4047	Marcelo Alejandro Estigarribia Balmori
+LOCATION4048	Fernando de la Mora
+PERSON4049	Deportivo Maldonado
+PERSON4050	Estigarribia
+PERSON4051	Chelo
+PERSON4052	Marcelo
+PERSON4053	Fernando de la Mora
+LOCATION4054	Asunción
+PERSON4055	Catholic
+LOCATION4056	Sport Colombia
+PERSON4057	Luís Carlos Ramos Martins
+LOCATION4058	Lamego
+LOCATION4059	Viseu District
+PERSON4060	Martins
+PERSON4061	Miguel Vítor
+PERSON4062	Ilídio Vale
+PERSON4063	João Pedro Pereira Silva
+ORGANIZATION4064	Santo Tirso Municipality
+ORGANIZATION4065	Toffees
+LOCATION4066	Leiria
+LOCATION4067	Benfica
+PERSON4068	Vitória de Setúbal
+PERSON4069	Yoel Rodríguez Oterino
+PERSON4070	Yoel
+PERSON4071	Juan Ramón López Caro
+PERSON4072	Nicola Pozzi
+LOCATION4073	Santarcangelo di Romagna
+PERSON4074	Luca Antonini
+PERSON4075	Lino Marzoratti
+PERSON4076	Ignazio Abate
+ORGANIZATION4077	Pozzi
+PERSON4078	Antonini
+PERSON4079	Abate
+PERSON4080	Pozzi
+PERSON4081	Luca Rigoni
+PERSON4082	Nicola Rigoni
+LOCATION4083	Schio
+PERSON4084	Rigoni
+PERSON4085	Vincenzo Italiano
+PERSON4086	Panagiotis Giorgios Kone
+PERSON4087	Kone
+LOCATION4088	Rivaldo
+LOCATION4089	Iraklis
+PERSON4090	Ibson Barreto da Silva
+PERSON4091	Ibson
+LOCATION4092	Flamengo
+PERSON4093	Laís Souza
+PERSON4094	Abel Braga
+LOCATION4095	Zinho
+PERSON4096	Felipe
+PERSON4097	Jean
+ORGANIZATION4098	Rio de Janeiro State League
+LOCATION4099	Brasil
+LOCATION4100	Ibson
+PERSON4101	Flamengo
+PERSON4102	Juan Carlos Pérez López
+PERSON4103	Juan Carlos
+PERSON4104	El Galgo de Boadilla
+LOCATION4105	Boadilla
+PERSON4106	Gimnástica de Torrelavega
+PERSON4107	Emanuele Pesoli
+LOCATION4108	Anagni
+PERSON4109	Andrea Tabanelli
+PERSON4110	Valter Birsa
+LOCATION4111	Šempeter pri Gorici
+LOCATION4112	Nova Gorica
+PERSON4113	Birsa
+ORGANIZATION4114	NK Bilje
+LOCATION4115	Bilje
+ORGANIZATION4116	NK Primorje
+ORGANIZATION4117	Ligue de Football Professionnel
+PERSON4118	Clecildo Rafael Martins de Souza Ladislau
+PERSON4119	Rafael Martins
+ORGANIZATION4120	ABC Futebol Clube
+PERSON4121	Luigi Giorgi
+PERSON4122	Giorgi
+PERSON4123	Mounir Obbadi
+LOCATION4124	Pontoise
+LOCATION4125	Yvelines
+PERSON4126	Obbadi
+ORGANIZATION4127	SCO
+ORGANIZATION4128	National to Ligue
+PERSON4129	Hrvoje Miličević
+LOCATION4130	Mostar
+PERSON4131	Francesco Lodi
+LOCATION4132	Lodi
+PERSON4133	Lega Calcio
+ORGANIZATION4134	Frosinone Calcio
+PERSON4135	Daniel Larsson
+LOCATION4136	Gothenburg
+PERSON4137	Larsson
+LOCATION4138	Superettan
+PERSON4139	Häcken
+LOCATION4140	Häcken
+PERSON4141	Edward Ofere
+PERSON4142	Allsvenskan Larsson
+PERSON4143	Amedej Vetrih
+LOCATION4144	Pergocrema
+PERSON4145	Enrico Rossi
+ORGANIZATION4146	Pro Patria
+LOCATION4147	Alessandria
+PERSON4148	Andrea Servili
+PERSON4149	Faouzi Ghoulam
+LOCATION4150	Saint-Priest-en-Jarez
+LOCATION4151	Saint-Étienne
+PERSON4152	Ghoulam
+LOCATION4153	Batna
+LOCATION4154	Annaba
+PERSON4155	Nabil
+ORGANIZATION4156	IAAF
+ORGANIZATION4157	Coupe de la Ligue
+ORGANIZATION4158	Le Buteur
+PERSON4159	Azzedine Aït Djoudi
+ORGANIZATION4160	Football Federation
+PERSON4161	Jesús Fernández Collado
+PERSON4162	Jesús
+PERSON4163	Diego Aguirre Parra
+PERSON4164	Michelangelo Albertazzi
+PERSON4165	Emilia
+PERSON4166	Albertazzi
+PERSON4167	Dante Berretti
+PERSON4168	Miśkiewicz
+PERSON4169	Romagnoli
+PERSON4170	Oduamadi
+PERSON4171	Strasser
+PERSON4172	A.C. Milan Primavera
+PERSON4173	Armando Izzo
+ORGANIZATION4174	Port Vale
+PERSON4175	Paolo Cannavaro
+PERSON4176	Cannavaro
+PERSON4177	Paolo
+PERSON4178	Juan Manuel Ortiz Palazón
+PERSON4179	Juanma
+ORGANIZATION4180	Rangers
+LOCATION4181	Guardamar del Segura
+PERSON4182	Ortiz
+PERSON4183	Copa del Rey
+PERSON4184	Danilo Cataldi
+PERSON4185	Artur Ioniţă
+PERSON4186	Ioniţă
+LOCATION4187	Moldova
+PERSON4188	Edimar Curitiba Fraga
+ORGANIZATION4189	Skoda Xanthi
+PERSON4190	Edimar
+ORGANIZATION4191	Campeonato Mineiro
+PERSON4192	Tupi
+ORGANIZATION4193	Sporting Braga
+PERSON4194	Sergio Agatino Garufi
+PERSON4195	Massimo Coda
+LOCATION4196	Cavese
+ORGANIZATION4197	Cisco Roma
+PERSON4198	Antonio Caracciolo
+PERSON4199	A.C. Pavia
+PERSON4200	Achraf Lazaar
+PERSON4201	Borja González Tomás
+PERSON4202	Bastón
+PERSON4203	Tiago Mendes
+ORGANIZATION4204	Atlético B
+ORGANIZATION4205	CP Cacereño
+PERSON4206	Nicola Sansone
+PERSON4207	Sansone
+ORGANIZATION4208	SV Neuperlach
+ORGANIZATION4209	Dynamo Dresden
+PERSON4210	Liga
+PERSON4211	Roberto Soriano
+LOCATION4212	Minsk
+LOCATION4213	Belarus
+LOCATION4214	Lormont
+LOCATION4215	Réunionais
+PERSON4216	Trémoulinas
+LOCATION4217	US Lormont
+PERSON4218	Florian Marange
+PERSON4219	Franck Jurietti
+ORGANIZATION4220	Le Mans
+PERSON4221	Luca Martinelli
+PERSON4222	Nicolao Manuel Dumitru Cardoso
+PERSON4223	Dumitru
+LOCATION4224	Nacka
+PERSON4225	Lucas Vieira de Souza
+PERSON4226	Nordin Amrabat
+LOCATION4227	Naarden
+LOCATION4228	Kayserispor
+PERSON4229	Amrabat
+PERSON4230	De Zuidvogels
+LOCATION4231	Huizen
+PERSON4232	Omniworld
+ORGANIZATION4233	FC Omniworld
+LOCATION4234	Venlo
+ORGANIZATION4235	VVV Venlo
+ORGANIZATION4236	SC Heerenveen
+PERSON4237	Kenneth Perez

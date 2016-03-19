@@ -1,0 +1,818 @@
+0	Antoine Griezmann
+1	Juan Manuel Iturbe Arévalos
+2	Marcelo Leite Pereira
+3	Saúl Berjón Pérez
+4	Pescara
+4	Pescara Calcio
+5	Ezequiel Matias Schelotto
+6	Jonathan
+6	Johnny '' Rossini
+7	Federico Casarini
+8	Lorenzo Crisetig
+9	Rafael Tolói
+10	Fabrizio Cacciatore
+11	Pedro Antonio Sánchez Moñino
+11	Pedro
+12	Daniele Mori
+14	Javier
+14	Varas Herrera
+15	Gastón Alexis Silva Perdomo
+15	Gastón Silva
+16	Antonio Meola
+17	Víctor Pérez Alonso
+18	Federico Bonazzoli
+19	Mamadou Tounkara
+20	Borja Viguera Manzanares
+21	Roberto Gagliardini
+22	Mohammed Fatau
+23	Vasilios Karagounis
+24	Rubén Rochina Naixes
+26	Silva Moreira
+27	Mohamed Salim Fares
+28	Lorenzo Ferrari
+29	Pierluigi Cappelluzzo
+30	Philippe Sylvain Senderos
+31	Simone Aresti
+33	Óscar Díaz González
+34	Francisco Ochoa
+35	Alfreð Finnbogason
+36	Josef Alexander Martínez
+37	Antonino Ragusa
+38	Lorenzo Remedi
+39	Javier Ignacio Aquino Carmona
+40	Leonardo Spinazzola
+41	Hörður Björgvin Magnússon
+42	Fabrizio Grillo
+43	Emiliano Daniel Velázquez Maldonado
+44	Leandro Paredes
+45	Daniel 'Dani
+45	Nieto Vela
+46	Grega Sorcan
+47	Pedro Pablo Hernández
+48	Franco Zuculini
+49	Alejandro Pozuelo Melero
+50	Ettore Gliozzi
+51	Samuele Massolo
+52	Raffaele Pucino
+53	Adam Masina
+54	Matteo Malagoli
+55	Masahudu Alhassan
+56	Edoardo Tognazzi
+57	Manuel Gullotta
+58	Óscar Alexandre Whalley Guardado
+59	Lorenzo Filippini
+62	Málaga Club de Fútbol
+63	Associazione Sportiva Roma
+63	ASR
+63	Roma
+64	Luca Belingheri
+65	Giuseppe Palma
+66	Davide Zappacosta
+67	Federico Mattiello
+68	Alfred N'Diaye
+71	Getafe Club de Fútbol
+72	Club Atlético Osasuna
+72	Osasuna
+74	Giacomo Bonaventura
+75	Edenilson Andrade dos Santos
+76	Salvatore Andrea Molina
+77	Emanuele Suagher
+78	Rubén Daniel Bentancourt Morales
+79	Pierluigi Gollini
+80	Jozabed Sánchez Ruiz
+81	Matteo Cipriani
+82	Giacomo Ricci
+83	Federico Cirelli
+84	Luciano Vietto
+85	Petar Golubović
+86	Eddy Silvestre Pascual Israfilov
+86	Eddy
+86	Eddy Pascual
+87	Andrea Mancini
+88	Hélder Manuel Marques Postiga
+89	Ashley Cole
+90	Nabil Jaadi
+91	Real Club Deportivo Mallorca
+93	Jasmin Kurtić
+94	Erik Friberg
+95	José Ángel Gómez Campaña
+96	Liassine Cadamuro-Bentaïba
+97	Bernardo José Espinosa Zúñiga
+97	Bernardo
+98	Nicolás Martín Gorobsov
+99	Simone Scuffet
+100	Navarro Jiménez
+101	João Pedro Geraldino dos Santos Galvão
+101	João Pedro
+102	Samuel Llorca Ripoll
+102	Samuel
+103	Abdoulaye
+104	Álvaro González Soberón
+105	Mauro Javier dos Santos
+105	Mauro
+106	Borja López Menéndez
+107	Nicolás Federico López Alonso
+108	Leonardo Pavoletti
+109	Raúl Alonso Jiménez Rodríguez
+110	Andrea Bovo
+112	Sevilla López
+113	Sven Gustav Jansson
+114	Unione Sportiva Città
+115	Matteo Bachini
+116	Simone Benedetti
+117	Fernando José Torres Sanz
+118	Unione Sportiva Lecce
+118	U.S.
+119	Cagliari Calcio
+121	Alessandro Rosina
+122	Tommaso Berni
+123	Yann M'Vila
+124	Iriney Santos da Silva
+126	Associazione Sportiva Livorno Calcio
+127	Rene Krhin
+128	Empoli Football Club
+129	Associazione Sportiva Bari
+130	Associazione Calcio Cesena
+133	Ahmed Apimah Barusso
+134	Rafael Márquez Álvarez
+135	Società Sportiva Calcio Napoli
+135	Napoli
+136	Marco D'Alessandro
+137	Héctor Yuste Cantón
+138	Alejandro Arribas Garrido
+139	Michael Rabušic
+140	Dídac Vilà Rosselló
+141	Matteo Bianchetti
+142	Iván Rodrigo Piris
+143	Víctor Ruiz Torre
+144	Adryan Oliveira Tavares
+145	Unione Calcio Sampdoria
+146	Ishak Belfodil
+147	Alessio Cragno
+148	Godfred Donsah
+149	Maks Barisic
+150	Luís Carlos Pereira Carneiro
+151	Dragan Lovric
+152	Gustavo Campanharo
+153	Alexandre Coeff
+154	Gonzalo Escalante
+155	Gonzalo Piermateri
+156	Rúben Miguel Nunes Vezo
+157	Thomas Teye Partey
+157	Thomas
+158	Anaitz Arbilla Zabala
+159	Jorge García Morcillo
+160	Ángel Martín Correa
+161	Raúl Rodríguez Navas
+162	Fredy Hinestroza Arias
+163	James David Rodríguez Rubio
+164	Davide Cinaglia
+165	Luca Rizzo
+166	Riccardo Pasi
+167	Nicholas Lentini
+168	Alex Meret
+169	Abraham Minero Fernández
+169	Abraham
+170	Jami Rafati
+171	Zouhar Feddal
+172	Daniele Sommariva
+173	Giuseppe Panico
+175	Luca Giannone
+176	Mirko Eramo
+177	Rolando Mandragora
+179	Giacomo Sciacca
+180	Andrea Palazzi
+181	Davide Costa
+182	Giovanni Tortora
+183	Michele Somma
+184	Mirko Esposito
+185	Luca Pipoli
+186	Lorenzo Capezzani
+187	Adrian Marius Stoian
+188	Alberto Grassi
+189	Rosseti Valerio Lorenzo
+190	Davide Mordini
+191	Andrea Gemignani
+192	Matteo Biggeri
+193	Luzayadio Andy Bangu
+194	Nicolò Gigli
+195	Jacopo Petriccione
+196	Luca Anania
+197	Federico Melchiorri
+198	New Field
+199	Eugenio Lamanna
+199	Como
+200	Agustín Sebastián Cousillas
+201	Daniele Bartolini
+202	Andrea Molinelli
+203	Elia Bruzzi
+204	Atalanta BC
+205	Arnaldo Antonio Sanabria Ayala
+205	Tonny Sanabria
+206	Miguel Alfonso Herrero Javaloyas
+207	Michael Agazzi
+209	Luca Ceppitelli
+210	Nicola Bellomo
+211	Royal Sporting Club
+212	Emanuele Rovini
+213	Tomislav Gomelt
+214	Joel Chukwuma Obi
+214	Joel Obi
+215	Guilherme dos Santos Torres
+215	Guilherme
+216	Valladolid Club de Fútbol
+217	Mateus Ribeiro Dos Santoa
+218	Marco Benassi
+219	Gabriele Morelli
+221	Lorenzo Simonetti
+222	Marco Stoppini
+223	Tommaso Borselli
+224	Caio Rangel da Silva
+225	Marijan Coric
+226	Isaac Cofie
+227	Giuseppe Scalera
+228	Gaetano Castrovilli
+229	Ángel Luis Rodríguez Díaz
+230	Marco Capuano
+231	Michele Camporese
+232	Denis Dmitriyevich Cheryshev
+233	Douglas Pereira dos Santos
+233	Douglas
+234	Borja Gómez Pérez
+235	Konstantinos
+235	Manolas
+236	Jaime Romero Gómez
+237	Cristiano Biraghi
+238	Vincenzo Fiorillo
+239	José Rodríguez Martínez
+240	Rodrigo Javier De Paul
+241	Unione Sportiva Sassuolo Calcio
+242	Fayçal Fajr
+243	Diego Farias da Silva
+243	Diego Farias
+244	Molla Wague
+246	Saphir Sliti Taïder
+247	Nemanja Radoja
+248	Rubén Salvador Pérez del Mármol
+250	Souleymane Coulibaly
+251	Rafał Wolski
+252	Jonathan Alexander de Guzmán
+253	Nemanja Vidić
+254	Racine Coly
+255	André Filipe Tavares Gomes
+256	Matija Širok
+257	Luka Đorđević
+258	Bernardo Víctor Cruz Torres
+259	Ransford Selasi
+260	Stefan Šćepović
+261	Rubén Alejandro Botta Montero
+262	Patrice Latyr Evra
+263	Francisco Manuel Vélez Jiménez
+265	Paweł Bochniewicz
+266	Lucas Pérez Martínez
+268	Stadio Comunale Vittorio Pozzo
+269	Joseph Marie Minala
+270	Shkodran Mustafi
+271	Marco Parolo
+272	Mattia Valoti
+273	Seydou Keita
+274	Maximiliano Gastón López
+275	Estadio de La Romareda
+276	Ilyos Zeytulayev
+277	Joan Isaac Cuenca López
+278	Louis Noé Pamarot
+280	Rubén Ariel Olivera da Rosa
+281	Enis Nadarević
+282	Javier Espinosa González
+286	Stadio Cibali
+290	Tardini
+291	Marassi
+299	Micah Lincoln Richards
+300	Nana Addo Welbeck Maseko
+301	Piotr Zielinski
+302	Stadio San Nicola
+303	Anoeta
+304	Francesco Dettori
+305	Rômulo Souza Orestes Caldeira
+305	Pelotas
+306	Cristian Pasquato
+307	Ismael 'Isma
+307	López Blanco
+308	Claude Babin
+309	Lucas Vázquez Iglesias
+309	Lucas
+310	Marco Davide Faraoni
+311	Luis Alberto Romero Alconchel
+311	Luis Alberto
+312	Vinícius Vasconcelos Araújo
+313	Filip Janković
+313	Филип Јанковић
+314	Alberto Gómez Fernández
+314	Nagore
+315	Gianluca Caprari
+316	David López Silva
+317	Marco van Ginkel
+318	Papa Babacar 'Baba ' Diawara
+319	Tomás Eduardo Rincón Hernández
+320	Víctor Rodríguez Romero
+321	Stefano Chuka Okaka
+322	Julián Cuesta Díaz
+322	Julián
+324	Elche Club de Fútbol
+325	Stefan Mitrović
+326	Antonio Adán Garrido
+327	Mohamed Lamine Sissoko Gillan
+328	Guilherme Madalena Siqueira
+329	Diego Mariño Villar
+330	Giuseppe Biava
+331	Steve Leo Beleck A'Beka
+331	Thomas Libiih
+332	Tiago Abiola Delfim Almeida Ilori
+333	Paolo Parente
+334	Giorgi Chanturia
+335	Matteo Rubin
+336	Marcel Büchel
+337	Danilo D'Ambrosio
+338	José Holebas
+338	Iosif Cholevas
+339	Wellington Alves da Silva
+340	Juan Antonio
+341	Panagiotis Tachtsidis
+342	Henrique Adriano Buss
+342	Henrique
+343	Antonio Rukavina
+343	Антонио Рукавина
+344	Diego Ribas da Cunha
+345	Daniel Sartori Bessa
+346	Yohan Benalouane
+347	David Cortés Caballero
+348	Manuel
+349	Kingsley Coman
+350	Hassan Yebda
+351	Kepa Arrizabalaga Revuelta
+352	Íñigo Ruiz de Galarreta
+353	Alberto Lopo García
+354	Franco Brienza
+355	Iago Falque Silva
+356	Antonio Manuel Luna Rodríguez
+357	Edson René Braafheid
+358	Kris Jogan
+359	Sergi Gómez Solà
+360	Martí Riverola Bataller
+361	Álvaro Borja Morata Martín
+362	Enrique
+362	Lucas Martínez
+364	Éver Maximiliano David Banega
+365	Daniel Campos Toro
+366	Jaime Gavilán Martínez
+366	Gavilán
+367	Kevin Mathieu Vinetot
+368	Frederik Hillesborg Sørensen
+369	Simone Salviato
+370	Emanuele Calaiò
+375	Estadio San Mamés
+377	Giuseppe Sculli
+378	Jonathan López Pérez
+380	Amauri Carvalho de Oliveira
+380	Amauri
+381	Roberto Insigne
+382	Cyril Théréau
+383	Tomas Švedkauskas
+384	Leonardo Carrilho Baptistão
+386	Calderón Stadium
+387	José Cañas Ruiz-Herrera
+388	Andrea Petagna
+389	Karim Laribi
+390	Boukary Dramé
+391	Ledian Memushaj
+392	Maurizio Pugliesi
+393	Matías Nahuel Leiva Esquivel
+396	Nicolás Andrés Burdisso
+397	Daniel 'Dani ' Abalo Paulos
+398	Filip Đorđević
+399	Lucas Alfonso Orban
+401	Roberto Maximiliano Pereyra
+403	Dejan Lekić
+404	Leonardo Capezzi
+405	João Pedro Cavaco Cancelo
+408	Jordi Masip López
+409	Ivaylo Chochev
+410	Aleix Vidal Parreu
+411	Jan Oblak
+412	Matías Vecino Falero
+413	Matteo Brighi
+414	Diego López Rodríguez
+416	Franco Mussis
+417	Gennaro Troianiello
+418	Damjan Đoković
+419	Denis Suárez Fernández
+420	Antonio Balzano
+421	Stadio San Paolo
+422	Michael Kojo Essien
+422	Mickaël Essien
+423	Gianvito Plasmati
+424	Ciro Polito
+425	Johan Andrés Mojica Palacio
+426	Tiberio Guarente
+427	Nico Pulzetti
+428	Pablo Javier Pérez
+429	André Filipe Ribeiro Leão
+430	Toni Kroos
+431	Federico Peluso
+432	Enric Saborit Teixidor
+433	Antonio Donnarumma
+434	Anderson Hernanes de Carvalho Andrade Lima
+434	Hernanes
+435	Gary Alexis Medel Soto
+435	Gary Medel
+436	Aniello Cutolo
+437	Victor Matheus da Silva
+438	Fabio Salvatore Aveni
+439	Lazaros Christodoulopoulos
+440	Alessandro Bastrini
+441	Cristian Darío Álvarez
+442	Márquez Moreno
+443	Kalidou Koulibaly
+444	Davide Brivio
+445	Carles Planas Antolínez
+445	Sant Celoni
+446	Gonzalo Rubén Bergessio
+447	Iván Alexis Pillud
+448	Raphael Martinho Alves de Lima
+448	Raphael Martinho
+449	Guido Marilungo
+450	Javier 'Javi
+450	Lara Grande
+451	Emerson Palmieri dos Santos
+451	Emerson Palmieri
+452	Riccardo Cazzola
+453	Juan Manuel Sanchez Miño
+454	Antonio García Aranda
+455	Radja Nainggolan
+456	Bartosz Salamon
+457	Jaime Jiménez Merlo
+457	Jaime
+458	José Eduardo de Araújo
+458	Zé Eduardo
+459	Daniele Cacia
+460	Júlio César Jacobi
+460	Júlio César
+461	Sergio Canales Madrazo
+462	San Mames Barria
+462	New San Mames
+464	Cristian Bustos Costa
+465	Mapou Yanga-Mbiwa
+467	Sidnei Rechel da Silva Junior
+467	Sidnei
+468	Bologna Football Club
+471	Club Atlético de Madrid
+472	Raúl Fernández-Cavada Mateos
+474	Parma Football Club
+474	Parma Associazione Calcio
+475	Mario Angel Paglialunga
+476	Borja Ekiza Imaz
+477	Iago Aspas Juncal
+478	Dany Achille Nounkeu Tchounkeu
+481	Giancarlo González
+483	Ciprian Tătăruşanu
+484	Società Sportiva Lazio
+486	Valencia Club
+486	València Club de Futbol
+486	Los Che
+487	Real Madrid C.F.
+488	Juventus Football Club S.p.A.
+488	JUVE
+489	Javier Pedro Saviola Fernández
+490	Hellas Verona Football Club
+491	Football Club Internazionale Milano S.p.A.
+492	Gerard Deulofeu Lázaro
+493	Alessandro Micai
+495	Luigi Carillo
+496	Francesco Bardi
+497	Diego Perotti
+499	Associazione Calcio Milan
+500	Gabriele Moncini
+501	Mario Mandžukić
+502	Alan Arario
+503	Guillermo Daniel Rodríguez Pérez
+504	Dario Del Fabro
+505	Carlos Mario Carbonero Mancilla
+506	Achille Coser
+507	Antonio Amaya Carazo
+508	Gabriele Perico
+509	Stefano Lucchini
+510	Hugo Fraile Martínez
+511	Alessio Romagnoli
+512	Bruno Zuculini
+513	Luis Fariña
+514	Gerónimo Rulli
+515	Marc-André ter Stegen
+516	Roger Martí Salvador
+516	Roger
+517	José Ángel Alonso Martín
+517	José Ángel
+518	Lorenzo Saporetti
+519	Jorge Luiz Frello
+519	Jorginho
+520	Álvaro Negredo Sánchez
+521	Pedro Mosquera Parada
+523	Adrián González Morales
+525	Michał Chrapek
+526	Marios Oikonomou
+528	Ivan Ricardo Neves Abreu Cavaleiro
+529	Alfred Duncan
+530	Antonio Rozzi
+531	Carlos Javier Acuña Caballero
+532	Ânderson Miguel da Silva
+533	David Ferreiro Quiroga
+534	Enrique González Casín
+535	Ibrahima Mbaye
+536	Adel Taarabt
+537	Oleksandr Pavlovych Yakovenko
+539	Juan Surraco
+540	Andrea Pisanu
+541	Luigi Sepe
+542	Adama Touré
+544	Davide Astori
+545	Marco Marchionni
+546	Marco Silvestri
+547	Cristiano Piccini
+548	Alessandro Ligi
+549	Víctor Camarasa Ferrando
+550	Roberto Guana
+552	Mariano Julio Izco
+553	Pablo Daniel Osvaldo
+554	Juan Carlos Paredes Reasco
+555	Javier Hernández Balcázar
+556	Haris Medunjanin
+557	Romano Perticone
+558	Mauricio Ricardo Pinilla Ferrera
+559	Souleymane
+559	Bamba
+560	Lucas Evangelista Santana de Oliveira
+562	Salih Uçan
+563	Pedro Henrique de Castro Silva
+564	Alessio Sestu
+565	Domenico Maietta
+566	Ervin Zukanović
+567	Emiliano Adrián Insúa Zapata
+568	Fernando Pacheco Flores
+569	Enzo Pablo Andía Roco
+570	Daniele Vantaggiato
+571	Albano Benjamín Bizzarri
+572	Alessandro Iacobucci
+573	Roberto Canella Suárez
+574	Cristian Daniel Ansaldi
+575	Adrián Daniel Calello
+576	Riccardo Meggiorini
+577	Keisuke Honda
+577	Honda Keisuke
+578	Aritz López Garai
+579	Stefan de Vrij
+580	Maxime Lestienne
+581	Mateus Alberto Contreiras Gonçalves
+581	Manucho
+583	Welliton Soares de Morais
+584	Antonio Mazzotta
+585	Manuel Pamić
+586	Teerasil Dangda
+587	Davide De Mitri
+588	Nicola Leali
+589	Rodrigo Sebastián Aguirre Soto
+589	Rodrigo Aguirre
+590	Milan Badelj
+591	Thomas Mangani
+592	Jesús Gámez Duarte
+592	Málaga
+593	Abdoulwahid Sissoko
+594	Alessandro Carrozza
+595	Giuseppe De Luca
+597	Ali Sowe
+598	Timothée Kolodziejczak
+599	Andrea Consigli
+600	Derek Owusu Boateng
+601	Thievy Guivane Bifouma Koulossa
+602	Albert Riera Ortega
+603	Felipe Salvador Caicedo Corozo
+604	Alejandro Darío Gómez
+605	Gastón Sauro
+606	Hachim Mastour
+607	Ibrahim Sissoko
+613	David Emilio Mainz Navarro
+615	Jorge Sammir Cruz Campos
+615	Sammir
+616	Jhon Córdoba
+617	Filipe Augusto Carvalho Souza
+618	Gabriel Appelt Pires
+618	Gabriel
+619	Bruno da Silva Peres
+619	Bruno Peres
+620	Urby Vitorrio Diego Emanuelson
+621	Gai Yigaal Assulin
+622	Răzvan Dincă Raţ
+623	Vlada Avramov
+624	Nicola Belmonte
+625	Kevin Mercado
+626	Marco Antonio de Mattos Filho
+627	Roberto José Rosales Altuve
+628	Jefferson Andrade Siqueira
+628	Jefferson
+629	Joaquín Oscar Larrivey
+630	Birkir Bjarnason
+631	Miguel Ángel Moyà Rumbo
+632	Granada Club de Fútbol
+633	Miguel Torres Gómez
+634	Thomas Vermaelen
+635	Real Club Celta de Vigo
+636	Real Racing Club de Santander
+637	Carlos Tornero López de Lerma
+638	Ivan Rakitić
+639	José Manuel Jiménez Ortiz
+640	Ivan Martić
+641	Abdoul Karim Yoda
+642	Joshua Brillante
+643	Federico Serraiocco
+644	Rubén Iván Martínez Andrade
+644	Rubén
+645	Mariano Damián Barbosa
+646	Ezequiel Rescaldani
+647	Nicolò Barella
+648	Adilson Tavares Varela
+648	Cabral
+649	Antonio Vutov
+650	Carlo Crialese
+651	Juan Francisco Moreno Fuertes
+652	Melker Hallberg
+653	Antonio Rodríguez Martínez
+654	Francesco Zampano
+655	Modibo Diakité
+655	Hauts-de-Seine
+656	Andrea Belotti
+657	Antonio Romano
+659	Francelino Matuzalém da Silva
+660	Federico Agliardi
+661	Alexandre 'Álex
+661	Moreno Lopera
+662	Mathias Fassou Pogba
+663	Grzegorz Krychowiak
+664	Mattia Muroni
+665	André Campos Moreira
+666	Nicola Lancini
+667	Riccardo Improta
+668	Aleandro Rosi
+669	José Verdú Nicolás
+670	Agostino Camigliano
+671	Gabriele Rocchi
+672	Andrea Razzitti
+674	Leonardo Morosini
+675	Ismail H'Maidat
+676	Mario Gargiulo
+677	Michel Fernandes Bastos
+678	Deian Boldor
+679	Francesco Karkalis
+680	Andrea Scrugli
+681	Santiago Juan Gentiletti
+682	Walter Bressan
+683	Dembel Sall
+684	Emanuele Gatto
+685	Riccardo Barbuti
+686	Przemysław Tytoń
+687	Jeffrén Isaac Suárez Bermúdez
+687	Jeffrén
+688	Eduardo Jesús Vargas Rojas
+689	Antonio Rosati
+691	Gianmarco Gerevini
+692	Luis Alberto Suárez Díaz
+693	Lorenzo Paramatti
+694	Paolo De Ceglie
+695	Tomasch Calore
+696	Jérémy Ménez
+697	Reial Club Deportiu Espanyol de Barcelona
+697	Royal Spanish Sports Club of Barcelona
+698	Robin Quaison
+699	Jonathan Pereira Rodríguez
+700	Keylor Navas
+702	Munir El Haddadi Mohamed
+702	Munir
+703	Vicente Guaita Panadero
+703	Horta Oest
+704	Leandro Greco
+705	Alessio Cerci
+706	Matteo Contini
+707	Jherson Vergara Amú
+708	Antonio Nocerino
+710	Facundo Sebastián Roncaglia
+711	Mediterráneo Stadium
+713	Anderson Luís de Abreu Oliveira
+713	Anderson
+715	Estadio Ciudad de Valencia
+715	Valencia Stadium
+716	Victor Nsofor Obinna
+717	Diogo Ferreira Salomão
+718	Pedro Filipe Teodósio Mendes
+720	Etienne Arthur Boka
+721	Matías Agustín Silvestre
+722	Dušan Basta
+723	Simone Bentivoglio
+724	Michele Canini
+727	Marko Vešović
+727	Mapкo Вешовић
+728	Roberto Vitiello
+729	Joaquín José Marín Ruiz
+730	Vincenzo
+730	Maresca
+731	Navarra
+733	José Ernesto Sosa
+734	Davide Biondini
+735	Oier Olazábal Paredes
+736	Mariano Gonzalo Andújar
+737	Pablo Estifer Armero
+738	Alex Rodrigo Dias da Costa
+741	Paolo Castellini
+742	Constantin Nica
+743	Adil Rami
+744	Edgar Çani
+745	Rolando Bianchi
+746	Samuele Longo
+747	Rafael
+747	Páez Cardona
+748	Lorenzo Venuti
+749	Tomer Hemed
+750	Andrea Costa
+751	Mamadou Samassa
+752	Rodrigo Moreno Machado
+753	Djamel Eddine Mesbah
+754	Luca Ceccarelli
+755	Lorenzo Ariaudo
+756	José Rodolfo Pires Ribeiro
+757	Karim Ansarifard
+758	Jonathas Cristian de Jesus
+758	Jonathas
+759	Richmond Yiadom Boakye
+760	Diego Sebastián Laxalt Suárez
+761	Rafael Alcántara
+761	Rafinha
+762	Giuseppe Rizzo
+763	Miguel Pérez Cuesta
+763	Michu
+764	Doblas Santana
+765	Alexis Zapata
+766	Jérémy Mathieu
+768	Octávio Merlo Manteca
+769	Gabriel Eduardo Corozo Vásquez
+770	Claudio Andrés Bravo Muñoz
+771	Francesco Fedato
+772	José María Basanta
+773	Marko Marin
+774	McDonald Mariga Wanyama
+775	Luca Castellazzi
+778	Jonathan dos Santos Ramírez
+779	Federico Piovaccari
+780	Ricardo Jorge da Luz Horta
+781	Mario Pašalić
+782	Unai López Cabrera
+783	Massimo Donati
+784	Marcelo Alejandro Estigarribia Balmori
+785	Luís Carlos Ramos Martins
+786	João Pedro Pereira Silva
+787	Yoel Rodríguez Oterino
+787	Yoel
+788	Nicola Pozzi
+789	Luca Rigoni
+790	Panagiotis Giorgios Kone
+791	Ibson Barreto da Silva
+792	Juan Carlos Pérez López
+792	Juan Carlos
+793	Emanuele Pesoli
+794	Andrea Tabanelli
+795	Valter Birsa
+796	Clecildo Rafael Martins de Souza Ladislau
+796	Rafael Martins
+797	Luigi Giorgi
+798	Mounir Obbadi
+799	Hrvoje Miličević
+800	Francesco Lodi
+801	Daniel Larsson
+802	Amedej Vetrih
+804	Faouzi Ghoulam
+805	Jesús Fernández Collado
+805	Jesús
+806	Diego Aguirre Parra
+807	Michelangelo Albertazzi
+808	Armando Izzo
+810	Paolo Cannavaro
+811	Juan Manuel Ortiz Palazón
+811	Juanma
+812	Danilo Cataldi
+813	Artur Ioniţă
+815	Sergio Agatino Garufi
+816	Massimo Coda
+817	Antonio Caracciolo
+818	Achraf Lazaar
+819	Borja González Tomás
+819	Bastón
+820	Nicola Sansone
+822	Luca Martinelli
+823	Nicolao Manuel Dumitru Cardoso
+824	Lucas Vieira de Souza
+825	Nordin Amrabat

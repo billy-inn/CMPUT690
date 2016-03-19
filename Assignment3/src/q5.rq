@@ -1,0 +1,18 @@
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX fbk: <http://rdf.freebase.com/key/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX c690: <http://cmput690/>
+
+SELECT ?team (COUNT(?nation) AS ?no_nation)
+WHERE
+{
+	{
+		SELECT DISTINCT ?team ?nation
+		WHERE
+		{
+			?roster fb:sports.sports_team_roster.player ?player .
+			?roster fb:sports.sports_team_roster.team ?team .
+			?player fbk:nation ?nation .
+		}
+	}
+} GROUP BY ?team ORDER BY DESC(?no_nation)

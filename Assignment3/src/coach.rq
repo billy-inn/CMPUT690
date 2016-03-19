@@ -1,0 +1,11 @@
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX fbk: <http://rdf.freebase.com/key/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX c690: <http://cmput690/>
+
+SELECT ?coach ?team
+WHERE
+{
+	?tenure fb:soccer.football_team_management_tenure.manager ?coach .
+	?tenure fb:soccer.football_team_management_tenure.team ?team .
+}

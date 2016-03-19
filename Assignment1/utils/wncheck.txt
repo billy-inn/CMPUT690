@@ -1,0 +1,245 @@
+Paris: city
+Argentina: country
+Paraguay: country
+Porto: city
+Oviedo: city
+Italy: country
+Switzerland: country
+Greece: country
+Carpi: 
+Brazil: country
+Turin: city
+Piedmont: 
+Spanish: 
+Tuscany: 
+France: country
+Seville: city
+Andalusia: 
+Mexico: country
+Ecuador: country
+Uruguay: country
+Naples: city
+Greek: 
+Geneva: city
+Valencia: city
+Spain: country
+Europe: 
+Madrid: city
+Edinburgh: city
+Caracas: city
+Messina: city
+Sicily: 
+Veneto: 
+Verona: city
+Oaxaca: city
+Lagunas: 
+Reykjavik: city
+Iceland: country
+Norway: country
+Lyon: city
+Rome: city
+Venezuela: country
+Panama: country
+Ghana: country
+Gabon: country
+Genoa: city
+Napoli: city
+Amarillo: city
+Alps: 
+Poland: country
+Romania: country
+Turkey: country
+Macedonia: country
+Denmark: country
+Portuguese: 
+England: country
+Vila: city
+London: city
+Majorca: 
+Palermo: city
+Sweden: country
+Algeria: country
+Toulouse: city
+Cali: city
+Montevideo: city
+Venice: city
+Salvador: country
+U.S.: country
+Apulia: 
+Sardinia: country
+Brescia: city
+Lombardy: 
+Milan: city
+Picardy: 
+Florence: city
+Pisa: city
+European: 
+Bari: city
+Marche: 
+Accra: city
+Cartagena: city
+Barcelona: city
+Catalonia: 
+Brest: city
+Castile: country
+Bologna: city
+Swiss: 
+Umbria: 
+Ukraine: country
+Galicia: 
+Lagos: city
+Nigeria: country
+Athens: city
+Indonesia: country
+Liguria: 
+Emilia-Romagna: 
+Germany: country
+Tunisian: city
+Grenoble: city
+Brighton: city
+Latvia: country
+Canada: country
+Netherlands: country
+Beijing: city
+Rotterdam: city
+Ontario: 
+Philippines: country
+Jamaica: country
+Serbia: 
+Montenegro: country
+Belgrade: city
+Senegal: country
+Hamburg: city
+Bamako: city
+Mali: country
+Zaragoza: city
+Uzbek: country
+US: country
+Portsmouth: city
+Yugoslavia: country
+Toledo: city
+Vatican: city
+Friuli: 
+Georgia: state
+Leeds: city
+Birmingham: city
+Cameroon: country
+Czechoslovakia: country
+Scotland: country
+Padua: city
+Curtis: 
+Bratislava: city
+Dakar: city
+Madeira: 
+Portugal: country
+Roma: city
+midfield: 
+Lisbon: city
+Campania: 
+Munich: city
+Wellington: city
+Helsinki: city
+Finland: country
+Deco: 
+Chad: country
+Tunisia: country
+Togo: country
+Ischia: 
+Rosario: city
+Torino: city
+River: 
+North: city
+Malta: country
+Calabria: 
+Belgium: country
+Strasbourg: city
+Kazakhstan: country
+Egypt: country
+Serbian: 
+Croatia: country
+Slovenia: country
+Brindisi: city
+Salerno: 
+Recife: city
+Santiago: city
+Chile: country
+Thessaloniki: city
+Santos: city
+Antwerp: 
+Indonesian: country
+Ravenna: 
+Liverpool: city
+Bangui: city
+Marseille: city
+Vienna: city
+Prague: city
+Austria: country
+Aragon: country
+Derby: 
+Guadalajara: city
+Stuttgart: city
+Zagreb: city
+Colombia: country
+Blackpool: 
+Dublin: city
+Morocco: country
+Kiev: city
+Ukrainian: 
+Jordan: country
+Zambia: country
+Israel: country
+Sarajevo: city
+Bosnian: 
+Bosnia: country
+Padova: city
+Japan: country
+Nagoya: city
+Luanda: city
+UK: country
+Araguaia: 
+Russia: country
+Hungary: country
+Thailand: country
+Bangkok: city
+Guayaquil: city
+Basel: city
+Amsterdam: city
+Azerbaijan: country
+Granada: city
+Praia: city
+Guinea: country
+Reims: city
+Bordeaux: city
+Armenia: country
+Doha: city
+Qatar: country
+Excelsior: 
+Pelotas: 
+Tenerife: 
+Tivoli: 
+Venezia: city
+Monaco: country
+L'Aquila: city
+Nigerian: 
+Abidjan: city
+Luxembourg: city
+Kharkiv: city
+Britain: country
+Bucharest: city
+Lille: city
+Tirana: city
+Albania: country
+Haifa: 
+Nazareth: 
+Iran: country
+Andalusian: 
+Monterrey: city
+Frankfurt: 
+Brazilian: 
+Brasil: country
+Gothenburg: city
+Batna: 
+Annaba: city
+Moldova: country
+Minsk: city
+Belarus: country

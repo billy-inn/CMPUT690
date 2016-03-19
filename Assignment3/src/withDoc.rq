@@ -1,0 +1,10 @@
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX fbk: <http://rdf.freebase.com/key/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX c690: <http://cmput690/>
+
+SELECT ?entity ?doc
+WHERE
+  {
+	  ?entity c690:hasDocument ?doc .
+  }

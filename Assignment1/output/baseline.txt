@@ -1,0 +1,4238 @@
+1	PERSON	Antoine Griezmann	0
+2	ORGANIZATION	Real Sociedad	0
+3	LOCATION	La Liga	0
+4	PERSON	Griezmann	0
+5	ORGANIZATION	UEFA	0
+6	LOCATION	Mâcon	0
+7	ORGANIZATION	UF Mâcon	0
+8	ORGANIZATION	Montpellier	0
+9	LOCATION	Paris Saint-Germain	0
+10	LOCATION	Paris	0
+11	PERSON	Juan Manuel Iturbe Arévalos	1
+12	ORGANIZATION	FC Porto	1
+13	LOCATION	Argentina	1
+14	PERSON	Iturbe	1
+15	LOCATION	Paraguay	1
+16	PERSON	Cerro Porteño	1
+17	PERSON	Libertad	1
+18	ORGANIZATION	Argentine Primera División	1
+19	LOCATION	Cerro Porteño	1
+20	LOCATION	Porto	1
+21	PERSON	Marcelo Leite Pereira	2
+22	ORGANIZATION	Skoda Xanthi F.C	2
+23	PERSON	Saúl Berjón Pérez	3
+24	LOCATION	Oviedo	3
+25	LOCATION	Asturias	3
+26	PERSON	Alcorcón	3
+27	PERSON	Adrián Colunga	3
+28	PERSON	Recreativo de Huelva	3
+29	ORGANIZATION	Real Zaragoza	3
+30	LOCATION	Getafe	3
+31	PERSON	Delfino Pescara	4
+32	ORGANIZATION	Pescara	4
+33	ORGANIZATION	Pescara Calcio	4
+34	LOCATION	Pescara	4
+35	PERSON	Abruzzo	4
+36	PERSON	Giorgio Repetto	4
+37	PERSON	Bruno Nobili	4
+38	PERSON	Giovanni Galeone	4
+39	LOCATION	Biancazzurri	4
+40	PERSON	Júnior	4
+41	PERSON	Ezequiel Matias Schelotto	5
+42	LOCATION	Atalanta B.C	5
+43	LOCATION	Italy	5
+44	PERSON	Ezequiel Schelotto	5
+45	ORGANIZATION	A.C. Cesena	5
+46	ORGANIZATION	FIFA	5
+47	PERSON	Schelotto	5
+48	ORGANIZATION	Cesena	5
+49	ORGANIZATION	Atalanta	5
+50	PERSON	A.C. Cesena	5
+51	PERSON	Jonathan	6
+52	PERSON	Johnny '' Rossini	6
+53	LOCATION	Sampdoria	6
+54	PERSON	Rossini	6
+55	ORGANIZATION	AC Bellinzona	6
+56	LOCATION	Switzerland	6
+57	ORGANIZATION	EU	6
+58	LOCATION	Cittadella	6
+59	ORGANIZATION	Udinese Calcio	6
+60	PERSON	Fernando Tissone	6
+61	LOCATION	Sassuolo	6
+62	ORGANIZATION	Sampdoria	6
+63	PERSON	Gianluigi Bianco	6
+64	ORGANIZATION	Udinese	6
+65	LOCATION	Greece	6
+66	PERSON	Federico Casarini	7
+67	LOCATION	Carpi	7
+68	ORGANIZATION	Bologna	7
+69	LOCATION	Catania	7
+70	PERSON	Casarini	7
+71	PERSON	Lorenzo Crisetig	8
+72	ORGANIZATION	Internazionale	8
+73	PERSON	Crisetig	8
+74	LOCATION	Cividale del Friuli	8
+75	LOCATION	Udine	8
+76	LOCATION	Škrutovega	8
+77	LOCATION	San Leonardo	8
+78	ORGANIZATION	Donatello	8
+79	PERSON	Giovanissimi Nazionali	8
+80	PERSON	Allievi Nazionali	8
+81	PERSON	José Mourinho	8
+82	PERSON	Mourinho	8
+83	PERSON	Rafael Tolói	9
+84	LOCATION	Brazil	9
+85	LOCATION	Glória	9
+86	PERSON	Campeonato Goiano	9
+87	PERSON	Fabrizio Cacciatore	10
+88	ORGANIZATION	A.S.	10
+89	LOCATION	U.C	10
+90	LOCATION	Turin	10
+91	LOCATION	Piedmont	10
+92	PERSON	Cacciatore	10
+93	LOCATION	Pro Vercelli	10
+94	LOCATION	Vercelli	10
+95	LOCATION	Lecce	10
+96	ORGANIZATION	Coppa Italia	10
+97	PERSON	Pedro Antonio Sánchez Moñino	11
+98	PERSON	Pedro	11
+99	LOCATION	Aspe	11
+100	LOCATION	Alicante	11
+101	LOCATION	Spanish	11
+102	ORGANIZATION	Real Murcia	11
+103	PERSON	Daniele Mori	12
+104	ORGANIZATION	Empoli	12
+105	LOCATION	Livorno	12
+106	LOCATION	Tuscany	12
+107	PERSON	Mori	12
+108	PERSON	Andrea Cupi	12
+109	PERSON	Gabriele Angella	12
+110	PERSON	Lorenzo Stovini	12
+111	PERSON	Lorenzo Tonelli	12
+112	PERSON	Angella	12
+113	PERSON	Diego Fabbrini	12
+114	LOCATION	Empoli	12
+115	PERSON	Daniele Ficagna	12
+116	PERSON	Tonelli	12
+117	PERSON	B. Mori	12
+118	ORGANIZATION	Torneo Giovanile	12
+119	LOCATION	Montaigu	12
+120	LOCATION	Vendée	12
+121	LOCATION	France	12
+122	ORGANIZATION	Santo André	13
+123	PERSON	Javier	14
+124	PERSON	Varas Herrera	14
+125	ORGANIZATION	Sevilla FC	14
+126	LOCATION	Seville	14
+127	LOCATION	Andalusia	14
+128	ORGANIZATION	Sevilla	14
+129	PERSON	Segunda División	14
+130	PERSON	David Cobeño	14
+131	PERSON	Rayo Vallecano	14
+132	PERSON	Varas	14
+133	PERSON	Andrés Palop	14
+134	ORGANIZATION	Numancia	14
+135	PERSON	Palop	14
+136	ORGANIZATION	VfB Stuttgart	14
+137	LOCATION	Palop	14
+138	ORGANIZATION	UEFA Europa League	14
+139	PERSON	Marcelino García Toral	14
+140	PERSON	Gastón Alexis Silva Perdomo	15
+141	LOCATION	Salto	15
+142	PERSON	Gastón Silva	15
+143	ORGANIZATION	Defensor Sporting	15
+144	PERSON	Silva	15
+145	ORGANIZATION	Montevideo Wanderers F.C..	15
+146	LOCATION	Mexico	15
+147	LOCATION	Ecuador	15
+148	LOCATION	Uruguay	15
+149	PERSON	Antonio Meola	16
+150	LOCATION	Naples	16
+151	PERSON	Meola	16
+152	LOCATION	Lucca	16
+153	LOCATION	Avellino	16
+154	PERSON	Víctor Pérez Alonso	17
+155	LOCATION	Albacete	17
+156	ORGANIZATION	Castile-La Mancha	17
+157	ORGANIZATION	Real Valladolid	17
+158	PERSON	Federico Bonazzoli	18
+159	PERSON	Mamadou Tounkara	19
+160	ORGANIZATION	Lazio	19
+161	PERSON	Borja Viguera Manzanares	20
+162	LOCATION	Logroño	20
+163	LOCATION	La Rioja	20
+164	ORGANIZATION	Albacete Balompié	20
+165	PERSON	Roberto Gagliardini	21
+166	LOCATION	Spezia	21
+167	LOCATION	Atalanta	21
+168	PERSON	Mohammed Fatau	22
+169	LOCATION	Granada CF	22
+170	PERSON	Vasilios Karagounis	23
+171	LOCATION	Greek	23
+172	ORGANIZATION	Lega Pro	23
+173	LOCATION	Reggina	23
+174	ORGANIZATION	Olympiacos	23
+175	PERSON	Rubén Rochina Naixes	24
+176	ORGANIZATION	Blackburn Rovers	24
+177	LOCATION	Sagunto	24
+178	LOCATION	Valencian Community	24
+179	PERSON	Rochina	24
+180	ORGANIZATION	FC Barcelona	24
+181	ORGANIZATION	Valencia CF	24
+182	ORGANIZATION	Catalans	24
+183	PERSON	Luis Enrique-led	24
+184	ORGANIZATION	Barcelona	24
+185	ORGANIZATION	Premier League	24
+186	ORGANIZATION	Newcastle United	24
+187	ORGANIZATION	Blackburn	24
+188	ORGANIZATION	Everton	24
+189	ORGANIZATION	Rovers	24
+190	ORGANIZATION	Sheffield Wednesday	24
+191	ORGANIZATION	Fulham	24
+192	LOCATION	Castellón de la Plana	25
+193	ORGANIZATION	Valencia	25
+194	PERSON	Montañés	25
+195	PERSON	Villarreal	25
+196	ORGANIZATION	AD Alcorcón	25
+197	PERSON	Silva Moreira	26
+198	PERSON	Mohamed Salim Fares	27
+199	PERSON	Hellas Verona	27
+200	PERSON	Lorenzo Ferrari	28
+201	PERSON	Pierluigi Cappelluzzo	29
+202	PERSON	Philippe Sylvain Senderos	30
+203	LOCATION	Geneva	30
+204	ORGANIZATION	Servette	30
+205	ORGANIZATION	Arsenal	30
+206	PERSON	A.C. Milan	30
+207	PERSON	Julián Senderos	30
+208	PERSON	Zorica Novaković	30
+209	PERSON	Philippe	30
+210	PERSON	Senderos	30
+211	LOCATION	Servette	30
+212	ORGANIZATION	West Bromwich Albion	30
+213	ORGANIZATION	Middlesbrough	30
+214	PERSON	Arsène Wenger	30
+215	ORGANIZATION	Milan	30
+216	PERSON	Paolo Maldini	30
+217	PERSON	Kakha Kaladze	30
+218	PERSON	Simone Aresti	31
+219	PERSON	Savona	31
+220	PERSON	Aresti	31
+221	ORGANIZATION	Estadio Mestalla	32
+222	LOCATION	Valencia	32
+223	LOCATION	Spain	32
+224	ORGANIZATION	Valencia Club de Fútbol	32
+225	LOCATION	Europe	32
+226	ORGANIZATION	Levante UD	32
+227	LOCATION	Primera División	32
+228	LOCATION	Mestalla	32
+229	PERSON	Óscar Díaz González	33
+230	LOCATION	Madrid	33
+231	ORGANIZATION	Girona FC	33
+232	PERSON	Francisco Ochoa	34
+233	PERSON	Alfreð Finnbogason	35
+234	ORGANIZATION	Helsingborgs IF	35
+235	ORGANIZATION	KSC Lokeren	35
+236	LOCATION	Faroe Islands	35
+237	PERSON	Alfreð	35
+238	ORGANIZATION	Celtic F.C.	35
+239	ORGANIZATION	Rangers F.C.	35
+240	ORGANIZATION	Reading F.C.	35
+241	ORGANIZATION	Southampton	35
+242	LOCATION	Swansea City F.C	35
+243	LOCATION	Reykjavík	35
+244	LOCATION	Edinburgh	35
+245	PERSON	Hutchison Vale	35
+246	LOCATION	Hibernian	35
+247	PERSON	Breiðablik	35
+248	LOCATION	Breiðablik	35
+249	ORGANIZATION	Blackpool	35
+250	PERSON	Josef Alexander Martínez	36
+251	LOCATION	Caracas	36
+252	ORGANIZATION	BSC Young Boys	36
+253	PERSON	Martinez	36
+254	ORGANIZATION	Estudiantes de Merida	36
+255	ORGANIZATION	Deportivo Petare	36
+256	ORGANIZATION	El Salvador	36
+257	PERSON	Antonino Ragusa	37
+258	LOCATION	Messina	37
+259	LOCATION	Sicily	37
+260	PERSON	Ragusa	37
+261	LOCATION	Veneto	37
+262	LOCATION	Treviso	37
+263	LOCATION	Rimini	37
+264	ORGANIZATION	Genoa	37
+265	PERSON	Thomas Bonotto	37
+266	PERSON	Marco Bincoletto	37
+267	ORGANIZATION	Salernitana	37
+268	LOCATION	Verona	37
+269	PERSON	Dino Fava	37
+270	PERSON	Fabinho	37
+271	PERSON	Francesco Acerbi	37
+272	PERSON	Lorenzo Remedi	38
+273	PERSON	Remedi	38
+274	PERSON	Javier Ignacio Aquino Carmona	39
+275	LOCATION	San Francisco Ixhuatán	39
+276	LOCATION	Oaxaca	39
+277	ORGANIZATION	Cruz Azul	39
+278	LOCATION	Cruz Azul	39
+279	LOCATION	Copa America	39
+280	PERSON	Cruz Azul	39
+281	LOCATION	Lagunas	39
+282	LOCATION	Cruz Azul Lagunas	39
+283	LOCATION	Mexico City	39
+284	ORGANIZATION	Cruz Azul Reserves	39
+285	ORGANIZATION	Primera División	39
+286	PERSON	Aquino	39
+287	PERSON	Leonardo Spinazzola	40
+288	ORGANIZATION	Vicenza	40
+289	ORGANIZATION	Juventus	40
+290	PERSON	Hörður Björgvin Magnússon	41
+291	LOCATION	Reykjavik	41
+292	PERSON	Hörður	41
+293	PERSON	Hlynur Atli Magnússon	41
+294	LOCATION	Fram Reykjavik	41
+295	LOCATION	Iceland	41
+296	PERSON	Fram	41
+297	LOCATION	Norway	41
+298	ORGANIZATION	Sunderland	41
+299	LOCATION	Lyon	41
+300	ORGANIZATION	AZ Alkmaar	41
+301	PERSON	Fabrizio Grillo	42
+302	LOCATION	Rome	42
+303	PERSON	Varese	42
+304	PERSON	Emiliano Daniel Velázquez Maldonado	43
+305	PERSON	Leandro Paredes	44
+306	PERSON	Daniel 'Dani	45
+307	PERSON	Nieto Vela	45
+308	LOCATION	Palma Nova	45
+309	LOCATION	Calvià	45
+310	LOCATION	Balearic Islands	45
+311	PERSON	Grega Sorcan	46
+312	PERSON	Pedro Pablo Hernández	47
+313	LOCATION	Tucumán	47
+314	ORGANIZATION	Argentinos Juniors	47
+315	ORGANIZATION	D.C. United	47
+316	PERSON	Hernández	47
+317	PERSON	Franco Zuculini	48
+318	PERSON	Zuculini	48
+319	ORGANIZATION	Belgrano de Cordoba	48
+320	ORGANIZATION	Racing Club	48
+321	PERSON	Hoffenheim	48
+322	LOCATION	Zuculini	48
+323	LOCATION	Venezuela	48
+324	PERSON	Diego Maradona	48
+325	ORGANIZATION	Argentina National Team	48
+326	LOCATION	Panama	48
+327	PERSON	Alejandro Pozuelo Melero	49
+328	ORGANIZATION	Real Betis	49
+329	PERSON	Ettore Gliozzi	50
+330	PERSON	Samuele Massolo	51
+331	PERSON	Raffaele Pucino	52
+332	PERSON	Adam Masina	53
+333	PERSON	Matteo Malagoli	54
+334	PERSON	Masahudu Alhassan	55
+335	PERSON	Alhassan	55
+336	ORGANIZATION	Prampram Mighty Royals	55
+337	LOCATION	Ghana	55
+338	LOCATION	Sierra Leone	55
+339	LOCATION	Gabon	55
+340	PERSON	Edoardo Tognazzi	56
+341	PERSON	Manuel Gullotta	57
+342	PERSON	Óscar Alexandre Whalley Guardado	58
+343	PERSON	Lorenzo Filippini	59
+344	LOCATION	Reggio Calabria	60
+345	PERSON	Oreste Granillo	60
+346	ORGANIZATION	Unione Sportiva Reggio Calabria	60
+347	ORGANIZATION	Società Calcistica Reggio	60
+348	ORGANIZATION	Reggio Foot Ball Club	60
+349	ORGANIZATION	Associazione Sportiva Reggina	60
+350	ORGANIZATION	Società Sportiva La Dominante	60
+351	PERSON	Verona	60
+352	LOCATION	Estadio	61
+353	PERSON	Estadio Villamarín	61
+354	PERSON	Spain Carlos	61
+355	PERSON	Prince Felipe de Borbon	61
+356	ORGANIZATION	Betis	61
+357	LOCATION	Baetis	61
+358	LOCATION	Guadalquivir	61
+359	PERSON	Alfonso	61
+360	ORGANIZATION	Sevilla Football Club	61
+361	ORGANIZATION	Málaga Club de Fútbol	62
+362	LOCATION	Málaga	62
+363	PERSON	Atlético Malagueño	62
+364	LOCATION	Segunda División	62
+365	ORGANIZATION	Tercera División	62
+366	ORGANIZATION	Málaga CF	62
+367	ORGANIZATION	Segunda División B	62
+368	LOCATION	Tercera División	62
+369	PERSON	Lorenzo Sanz	62
+370	ORGANIZATION	Real Madrid	62
+371	PERSON	Fernando Sanz	62
+372	PERSON	Abdullah bin Nasser bin Abdullah Al Ahmed Al Thani	62
+373	ORGANIZATION	Associazione Sportiva Roma	63
+374	ORGANIZATION	ASR	63
+375	ORGANIZATION	Roma	63
+376	ORGANIZATION	Liverpool	63
+377	LOCATION	Stadio Olimpico	63
+378	LOCATION	San Siro	63
+379	PERSON	Luca Belingheri	64
+380	PERSON	Belingheri	64
+381	LOCATION	Alzano	64
+382	LOCATION	Siena	64
+383	PERSON	Como Calcio	64
+384	LOCATION	Ascoli	64
+385	PERSON	Ascoli	64
+386	LOCATION	Genoa	64
+387	PERSON	AlbinoLeffe	64
+388	PERSON	AlbinoLeffe Belingheri	64
+389	ORGANIZATION	Torino	64
+390	PERSON	Marco Moro	64
+391	PERSON	Giuseppe Palma	65
+392	LOCATION	Spyris Kaunas	65
+393	LOCATION	Napoli	65
+394	PERSON	Davide Zappacosta	66
+395	PERSON	Zappacosta	66
+396	LOCATION	Isola Liri	66
+397	LOCATION	Berretti	66
+398	LOCATION	Isola del Liri	66
+399	LOCATION	Sora	66
+400	LOCATION	Giovanissimi	66
+401	PERSON	Federico Mattiello	67
+402	ORGANIZATION	Chievo	67
+403	PERSON	Alfred N'Diaye	68
+404	PERSON	Alfred	68
+405	LOCATION	US Vandœuvre	68
+406	LOCATION	Vandœuvre-lès-Nancy	68
+407	PERSON	Nancy	68
+408	PERSON	N'Diaye	68
+409	PERSON	Frédéric Biancalani	68
+410	ORGANIZATION	Lens	68
+411	ORGANIZATION	Lille	68
+412	PERSON	Villarreal Club de Fútbol	69
+413	LOCATION	Castellón	69
+414	ORGANIZATION	Segunda División	69
+415	LOCATION	El Madrigal	69
+416	LOCATION	Amarillo	69
+417	PERSON	Villarreal CF	69
+418	PERSON	Cervantes	69
+419	PERSON	Castellón	69
+420	PERSON	Rayo Vallecano de Madrid	70
+421	PERSON	Rayo	70
+422	LOCATION	Vallecas	70
+423	PERSON	Deportivo Alavés	70
+424	PERSON	Míchel	70
+425	ORGANIZATION	Getafe Club de Fútbol	71
+426	LOCATION	Spanish La Liga	71
+427	PERSON	Alfonso Pérez	71
+428	ORGANIZATION	Royal Emirates Group	71
+429	PERSON	Enrique Condes García	71
+430	PERSON	Aurelio Miranda Olavaria	71
+431	PERSON	Antonio Corridor Lozano	71
+432	PERSON	Manuel Serrano Vergara	71
+433	PERSON	Miguel Cubero Francés	71
+434	PERSON	Club Getafe Deportivo	71
+435	LOCATION	Campo	71
+436	LOCATION	San Isidro	71
+437	PERSON	Club Getafe	71
+438	ORGANIZATION	CP Villarrobledo	71
+439	LOCATION	Segunda	71
+440	PERSON	Almería	71
+441	ORGANIZATION	Club Atlético Osasuna	72
+442	ORGANIZATION	Osasuna	72
+443	LOCATION	Pamplona	72
+444	LOCATION	Navarre	72
+445	ORGANIZATION	Estadio Reyno de Navarra	72
+446	ORGANIZATION	UEFA Champions League	72
+447	PERSON	Alpi	73
+448	ORGANIZATION	Juventus Football Club	73
+449	ORGANIZATION	Torino Football Club	73
+450	LOCATION	Alps	73
+451	ORGANIZATION	Stadio Olimpico	73
+452	LOCATION	Alpi	73
+453	PERSON	Studio Hutter	73
+454	ORGANIZATION	Stadio Comunale	73
+455	PERSON	Stadio Olimpico	73
+456	PERSON	Giacomo Bonaventura	74
+457	LOCATION	San Severino Marche	74
+458	PERSON	Bonaventura	74
+459	PERSON	Pergocrema	74
+460	ORGANIZATION	Padova	74
+461	PERSON	Edenilson Andrade dos Santos	75
+462	ORGANIZATION	Porto Alegre	75
+463	ORGANIZATION	Corinthians	75
+464	PERSON	Edenilson	75
+465	LOCATION	Venancio Aires	75
+466	PERSON	Veranópolis	75
+467	ORGANIZATION	FGF	75
+468	PERSON	Salvatore Andrea Molina	76
+469	ORGANIZATION	Lega Pro Prima Divisione U.S. Foggia	76
+470	PERSON	Molina	76
+471	ORGANIZATION	Foggia	76
+472	ORGANIZATION	Nocerina	76
+473	LOCATION	Poland	76
+474	LOCATION	U.S. Foggia	76
+475	PERSON	Alessandro De Leidi	76
+476	PERSON	Emanuele Suagher	77
+477	ORGANIZATION	Lega Pro Prima Divisione S.S. Tritium	77
+478	PERSON	Suagher	77
+479	PERSON	Ternana	77
+480	PERSON	Daniele Casiraghi	77
+481	PERSON	Marcello Possenti	77
+482	PERSON	Jurgen Pandiani	77
+483	PERSON	Christian Monacizzo	77
+484	LOCATION	Romania	77
+485	LOCATION	Turkey	77
+486	LOCATION	Macedonia	77
+487	LOCATION	Denmark	77
+488	PERSON	Rubén Daniel Bentancourt Morales	78
+489	PERSON	Pierluigi Gollini	79
+490	PERSON	Jozabed Sánchez Ruiz	80
+491	PERSON	Matteo Cipriani	81
+492	PERSON	Giacomo Ricci	82
+493	PERSON	Federico Cirelli	83
+494	PERSON	Luciano Vietto	84
+495	LOCATION	Balnearia	84
+496	ORGANIZATION	Racing Club de Avellaneda	84
+497	PERSON	Claudio Vivas	84
+498	ORGANIZATION	Estudiantes de La Plata	84
+499	PERSON	Racing Club Avellaneda	84
+500	PERSON	Diego Simeone	84
+501	PERSON	Petar Golubović	85
+502	ORGANIZATION	Novara	85
+503	ORGANIZATION	A.S. Roma	85
+504	PERSON	Eddy Silvestre Pascual Israfilov	86
+505	PERSON	Eddy	86
+506	PERSON	Eddy Pascual	86
+507	ORGANIZATION	Granada CF	86
+508	PERSON	Andrea Mancini	87
+509	PERSON	Felice Mancini	87
+510	PERSON	Felice	87
+511	PERSON	Andrea	87
+512	PERSON	Hélder Manuel Marques Postiga	88
+513	LOCATION	Portuguese	88
+514	PERSON	Postiga	88
+515	LOCATION	England	88
+516	ORGANIZATION	Tottenham	88
+517	LOCATION	Vila	88
+518	LOCATION	Conde	88
+519	ORGANIZATION	Varzim SC	88
+520	ORGANIZATION	Porto	88
+521	PERSON	Octávio Machado	88
+522	PERSON	Derlei	88
+523	PERSON	Primeira Liga	88
+524	PERSON	Ashley Cole	89
+525	ORGANIZATION	Chelsea	89
+526	PERSON	Cole	89
+527	LOCATION	Stepney	89
+528	LOCATION	London	89
+529	PERSON	Chelsea	89
+530	PERSON	Nabil Jaadi	90
+531	ORGANIZATION	Real Club Deportivo Mallorca	91
+532	LOCATION	Palma	91
+533	LOCATION	Majorca	91
+534	LOCATION	Mallorca	91
+535	PERSON	Adolfo Vázquez	91
+536	ORGANIZATION	republican	91
+537	PERSON	Junta Directiva del Alfonso XIII	91
+538	LOCATION	Buenos Aires	91
+539	ORGANIZATION	Real Sociedad Alfonso	91
+540	PERSON	Club Deportivo Mallorca	91
+541	PERSON	Es Fortí	91
+542	ORGANIZATION	La Liga	91
+543	PERSON	Nicolò Cherubin	92
+544	PERSON	Jasmin Kurtić	93
+545	LOCATION	Palermo	93
+546	PERSON	Kurtić	93
+547	ORGANIZATION	ND Gorica	93
+548	PERSON	Bela Krajina	93
+549	LOCATION	Gorica	93
+550	ORGANIZATION	Palermo	93
+551	LOCATION	Palermo jersey	93
+552	ORGANIZATION	Fiorentina	93
+553	PERSON	Erik Friberg	94
+554	LOCATION	Lindome	94
+555	PERSON	Friberg	94
+556	ORGANIZATION	KR Reykjavíkur	94
+557	ORGANIZATION	Spartak Moscow	94
+558	ORGANIZATION	Seattle Sounders FC of Major League Soccer	94
+559	ORGANIZATION	Sounders	94
+560	ORGANIZATION	Los Angeles Galaxy	94
+561	ORGANIZATION	Seattle Sounders	94
+562	ORGANIZATION	Malmö FF	94
+563	LOCATION	Sweden	94
+564	PERSON	Mathias Ranégie	94
+565	PERSON	Ivo Pękalski	94
+566	PERSON	José Ángel Gómez Campaña	95
+567	PERSON	Campaña	95
+568	ORGANIZATION	Hannover	95
+569	PERSON	Piotr Trochowski	95
+570	PERSON	Manu	95
+571	PERSON	Liassine Cadamuro-Bentaïba	96
+572	LOCATION	Algeria	96
+573	PERSON	Cadamuro	96
+574	LOCATION	Toulouse	96
+575	PERSON	Bou Ismaïl	96
+576	ORGANIZATION	FC Sochaux-Montbéliard	96
+577	PERSON	Philippe Montanier	96
+578	PERSON	Xabier Prieto	96
+579	PERSON	Vahid Halilhodžić	96
+580	ORGANIZATION	CA Osasuna	96
+581	PERSON	Bernardo José Espinosa Zúñiga	97
+582	LOCATION	Cali	97
+583	PERSON	Bernardo	97
+584	ORGANIZATION	Racing de Santander	97
+585	PERSON	Nicolás Martín Gorobsov	98
+586	ORGANIZATION	Politehnica Timişoara	98
+587	PERSON	Gorobsov	98
+588	LOCATION	San Pedro	98
+589	ORGANIZATION	Vicenza Primavera	98
+590	LOCATION	Cesena	98
+591	PERSON	Politehnica Timişoara	98
+592	PERSON	Simone Scuffet	99
+593	PERSON	Navarro Jiménez	100
+594	PERSON	Navarro	100
+595	ORGANIZATION	Deportivo de La Coruña	100
+596	PERSON	João Pedro Geraldino dos Santos Galvão	101
+597	PERSON	João Pedro	101
+598	ORGANIZATION	Peñarol	101
+599	ORGANIZATION	Atlético Mineiro	101
+600	ORGANIZATION	Atlético Paranaense	101
+601	PERSON	Vanderlei Luxemburgo	101
+602	PERSON	Palermo	101
+603	PERSON	Maurizio Zamparini	101
+604	PERSON	Walter Sabatini	101
+605	ORGANIZATION	Sparta Prague	101
+606	PERSON	Josip Iličić	101
+607	PERSON	Samuel Llorca Ripoll	102
+608	PERSON	Samuel	102
+609	LOCATION	Hércules CF	102
+610	PERSON	Elche CF Ilicitano	102
+611	PERSON	David Vidal	102
+612	LOCATION	Elche	102
+613	ORGANIZATION	Sheffield United and Fulham	102
+614	PERSON	Abdoulaye	103
+615	LOCATION	Saint-Louis	103
+616	ORGANIZATION	Académica de Coimbra	103
+617	PERSON	Álvaro González Soberón	104
+618	LOCATION	Santander	104
+619	LOCATION	Cantabria	104
+620	PERSON	Álvaro	104
+621	ORGANIZATION	RCD Mallorca	104
+622	PERSON	Mauro Javier dos Santos	105
+623	PERSON	Mauro	105
+624	ORGANIZATION	UD Almería	105
+625	PERSON	Borja López Menéndez	106
+626	ORGANIZATION	Monaco FC	106
+627	PERSON	Nicolás Federico López Alonso	107
+628	LOCATION	Montevideo	107
+629	PERSON	López	107
+630	ORGANIZATION	Nacional	107
+631	PERSON	Juan Ramón Carrasco	107
+632	ORGANIZATION	Central Español	107
+633	PERSON	Nacional	107
+634	PERSON	Leonardo Pavoletti	108
+635	PERSON	Raúl Alonso Jiménez Rodríguez	109
+636	ORGANIZATION	Club América	109
+637	LOCATION	Primera División de Mexico	109
+638	PERSON	América	109
+639	PERSON	Alfredo Tena	109
+640	ORGANIZATION	Monarcas Morelia	109
+641	ORGANIZATION	Estadio Azteca	109
+642	PERSON	Andrea Bovo	110
+643	ORGANIZATION	Calcio Padova	110
+644	PERSON	Mestre	110
+645	LOCATION	Venice	110
+646	PERSON	Venezia	110
+647	PERSON	Bovo	110
+648	PERSON	A.C. Venezia	110
+649	ORGANIZATION	AC Venezia	110
+650	ORGANIZATION	Bari	110
+651	PERSON	Ivan Rajčić	110
+652	PERSON	Stadio Moretti	111
+653	LOCATION	Stadio Friuli	111
+654	LOCATION	Salvador	112
+655	PERSON	Sevilla López	112
+656	LOCATION	Berja	112
+657	LOCATION	Almería	112
+658	PERSON	Sven Gustav Jansson	113
+659	LOCATION	Arlöv	113
+660	LOCATION	Allsvenskan	113
+661	PERSON	Jansson	113
+662	PERSON	Jasmin Sudić	113
+663	PERSON	Rikard Norlings	113
+664	ORGANIZATION	Unione Sportiva Città	114
+665	ORGANIZATION	Anglo Panormitan Athletic and Football Club	114
+666	PERSON	Matteo Bachini	115
+667	PERSON	Simone Benedetti	116
+668	PERSON	Benedetti	116
+669	ORGANIZATION	Torino F.C	116
+670	PERSON	Silvano Benedetti	116
+671	ORGANIZATION	Torino FC	116
+672	ORGANIZATION	Responsabile Tecnico Scuola Calcio	116
+673	ORGANIZATION	Internazionale Milano	116
+674	PERSON	Alen Stevanović	116
+675	ORGANIZATION	Inter	116
+676	LOCATION	Gubbio	116
+677	PERSON	Fernando José Torres Sanz	117
+678	PERSON	Torres	117
+679	ORGANIZATION	Atlético Madrid	117
+680	ORGANIZATION	Segunda División for Atlético Madrid	117
+681	LOCATION	Anfield	117
+682	PERSON	Robbie Fowler	117
+683	ORGANIZATION	Aston Villa	117
+684	ORGANIZATION	Unione Sportiva Lecce	118
+685	LOCATION	U.S.	118
+686	ORGANIZATION	U.S.	118
+687	LOCATION	Apulia	118
+688	ORGANIZATION	Lecce	118
+689	ORGANIZATION	Sporting Club Lecce	118
+690	PERSON	Francesco Marangi	118
+691	PERSON	Luigi Lopez	118
+692	ORGANIZATION	Cagliari Calcio	119
+693	LOCATION	Cagliari	119
+694	LOCATION	Sardinia	119
+695	PERSON	Gigi Riva	119
+696	ORGANIZATION	Cagliari	119
+697	PERSON	Rossoblu	119
+698	PERSON	Mario Martiradonna	119
+699	PERSON	Pierluigi Cera	119
+700	PERSON	Nené	119
+701	PERSON	Ricciotti Greatti	119
+702	PERSON	Luigi Riva	119
+703	PERSON	Brescia Calcio	120
+704	LOCATION	Brescia	120
+705	LOCATION	Lombardy	120
+706	ORGANIZATION	Notts County	120
+707	PERSON	Ballon	120
+708	PERSON	Roberto Baggio	120
+709	ORGANIZATION	Brescia	120
+710	ORGANIZATION	Paris Saint-Germain	120
+711	ORGANIZATION	Divisione Nazionale	120
+712	PERSON	Alessandro Rosina	121
+713	LOCATION	St. Petersburg	121
+714	PERSON	Belvedere Marittimo	121
+715	PERSON	Rosina	121
+716	LOCATION	Milan	121
+717	ORGANIZATION	Parma	121
+718	ORGANIZATION	Parma Primavera	121
+719	PERSON	Hidetoshi Nakata	121
+720	PERSON	B. Rosina	121
+721	PERSON	Tommaso Berni	122
+722	LOCATION	S.C. Braga	122
+723	PERSON	Berni	122
+724	PERSON	Primavera Team	122
+725	PERSON	B. Berni	122
+726	LOCATION	Ternana	122
+727	PERSON	Angelo Peruzzi	122
+728	PERSON	Marco Ballotta	122
+729	PERSON	Fernando Muslera	122
+730	PERSON	Juan Pablo Carrizo	122
+731	LOCATION	Salernitana	122
+732	PERSON	Salvatore Pinna	122
+733	ORGANIZATION	SC Braga	122
+734	PERSON	Yann M'Vila	123
+735	ORGANIZATION	Rennes	123
+736	ORGANIZATION	Ligue	123
+737	PERSON	Yohan M'Vila	123
+738	PERSON	M'Vila	123
+739	LOCATION	Picardy	123
+740	ORGANIZATION	Amiens SC	123
+741	PERSON	Stade Rennais	123
+742	ORGANIZATION	Nice	123
+743	PERSON	Frédéric Antonetti	123
+744	PERSON	Iriney Santos da Silva	124
+745	LOCATION	Humaitá	124
+746	ORGANIZATION	Amazonas	124
+747	PERSON	Iriney	124
+748	PERSON	Associação Desportiva São Caetano	124
+749	PERSON	Celta de Vigo	124
+750	PERSON	Associazione Calcio Siena	125
+751	LOCATION	Stadio	125
+752	PERSON	Stadio Franchi	125
+753	LOCATION	Florence	125
+754	PERSON	A.C. Siena	125
+755	LOCATION	Isola d’Arbia	125
+756	ORGANIZATION	Società Sportiva Robur	125
+757	ORGANIZATION	Associazione Calcio Siena	125
+758	ORGANIZATION	Associazione Sportiva Livorno Calcio	126
+759	PERSON	Armando Picchi	126
+760	LOCATION	U.S. Livorno	126
+761	LOCATION	Pisa	126
+762	PERSON	Edda Ciano Mussolini	126
+763	PERSON	Benito Mussolini	126
+764	LOCATION	Eccellenza	126
+765	PERSON	Rene Krhin	127
+766	PERSON	Vid Belec	127
+767	ORGANIZATION	NK Maribor	127
+768	ORGANIZATION	European Union	127
+769	PERSON	Jose Mourinho	127
+770	LOCATION	United States	127
+771	PERSON	Wesley Sneijder	127
+772	PERSON	Sulley Muntari	127
+773	ORGANIZATION	Empoli Football Club	128
+774	LOCATION	European	128
+775	LOCATION	Udinese	128
+776	ORGANIZATION	Associazione Sportiva Bari	129
+777	LOCATION	Bari	129
+778	ORGANIZATION	Liberty Bari	129
+779	ORGANIZATION	US Ideale	129
+780	PERSON	David Platt	129
+781	PERSON	Igor Protti	129
+782	PERSON	Antonio Cassano	129
+783	ORGANIZATION	Associazione Calcio Cesena	130
+784	LOCATION	Romagna	130
+785	PERSON	Gianluigi Savoldi	130
+786	LOCATION	Calcio Catania	131
+787	LOCATION	San Raineri	131
+788	PERSON	Messina	131
+789	ORGANIZATION	Royal Yacht Catania	131
+790	PERSON	Gaetano Ventimiglia	131
+791	PERSON	Francesco Sturzo d'Aldobrando	131
+792	PERSON	Ascoli Calcio	132
+793	PERSON	Ascoli Piceno	132
+794	LOCATION	Marche	132
+795	PERSON	A. Ascoli	132
+796	PERSON	Candido Augusto Vecchi	132
+797	ORGANIZATION	Ascoli Vigor	132
+798	LOCATION	U.S. Ascolana	132
+799	ORGANIZATION	A.S. Ascoli	132
+800	PERSON	Cino Del Duca	132
+801	PERSON	Costantino Rozzi	132
+802	PERSON	Carlo Mazzone	132
+803	PERSON	Ahmed Apimah Barusso	133
+804	LOCATION	Nocerina	133
+805	PERSON	Barusso	133
+806	LOCATION	Manfredonia	133
+807	PERSON	Abedi Pele	133
+808	LOCATION	Nania F.C	133
+809	LOCATION	Accra	133
+810	PERSON	Manfredonia	133
+811	PERSON	Alfredo Cardinale	133
+812	LOCATION	Crotone	133
+813	PERSON	Rafael Márquez Álvarez	134
+814	LOCATION	Zamora	134
+815	LOCATION	Michoacán	134
+816	ORGANIZATION	New York Red Bulls	134
+817	ORGANIZATION	Monaco	134
+818	PERSON	Hugo Sánchez	134
+819	PERSON	Márquez	134
+820	ORGANIZATION	Deportivo Toluca	134
+821	PERSON	Pablo Contreras	134
+822	ORGANIZATION	Società Sportiva Calcio Napoli	135
+823	ORGANIZATION	Napoli	135
+824	LOCATION	Southern Italy	135
+825	ORGANIZATION	Associazione Calcio Napoli	135
+826	PERSON	Aurelio De Laurentiis	135
+827	ORGANIZATION	Napoli Soccer	135
+828	ORGANIZATION	Naples Foot-Ball & Cricket Club	135
+829	PERSON	William Poths	135
+830	PERSON	Hector M. Bayon	135
+831	PERSON	Conforti	135
+832	PERSON	Catterina	135
+833	PERSON	Amedeo Salsi	135
+834	PERSON	Marco D'Alessandro	136
+835	ORGANIZATION	Verona	136
+836	PERSON	D'Alessandro	136
+837	LOCATION	Grosseto	136
+838	PERSON	Héctor Yuste Cantón	137
+839	LOCATION	Cartagena	137
+840	PERSON	Real Murcia	137
+841	PERSON	Héctor	137
+842	ORGANIZATION	FC Cartagena	137
+843	LOCATION	Las Palas	137
+844	LOCATION	Murcia	137
+845	PERSON	Alejandro Arribas Garrido	138
+846	PERSON	Arribas	138
+847	PERSON	Rayo Majadahonda	138
+848	ORGANIZATION	CDA Navalcarnero	138
+849	PERSON	Michael Rabušic	139
+850	ORGANIZATION	Gambrinus	139
+851	ORGANIZATION	FC Slovan Liberec	139
+852	ORGANIZATION	FC Náměšť	139
+853	PERSON	Rabušic	139
+854	PERSON	Vysočina Jihlava	139
+855	LOCATION	Vysočina	139
+856	ORGANIZATION	FC Brno	139
+857	PERSON	Brno	139
+858	ORGANIZATION	Zbrojovka Brno	139
+859	PERSON	Josef Šural	139
+860	PERSON	Dídac Vilà Rosselló	140
+861	ORGANIZATION	A.C. Milan	140
+862	LOCATION	Mataró	140
+863	LOCATION	Barcelona	140
+864	LOCATION	Catalonia	140
+865	PERSON	Vilà	140
+866	ORGANIZATION	RCD Espanyol	140
+867	PERSON	Mauricio Pochettino	140
+868	ORGANIZATION	Athletic Bilbao	140
+869	ORGANIZATION	Pericos	140
+870	ORGANIZATION	Espanyol	140
+871	PERSON	David García	140
+872	PERSON	Matteo Bianchetti	141
+873	PERSON	Iván Rodrigo Piris	142
+874	LOCATION	São Paulo	142
+875	PERSON	Piris	142
+876	PERSON	Cerro Porteno	142
+877	ORGANIZATION	Manchester United	142
+878	ORGANIZATION	Boca Juniors of Argentina	142
+879	ORGANIZATION	Tottenham Hotspur	142
+880	ORGANIZATION	Benfica	142
+881	ORGANIZATION	Bologna FC	142
+882	ORGANIZATION	São Paulo FC	142
+883	PERSON	Víctor Ruiz Torre	143
+884	PERSON	Ruiz	143
+885	PERSON	Jesús Dátolo	143
+886	PERSON	Adryan Oliveira Tavares	144
+887	LOCATION	Rio de Janeiro	144
+888	ORGANIZATION	Flamengo	144
+889	LOCATION	Copa São Paulo	144
+890	ORGANIZATION	Futebol Júnior	144
+891	LOCATION	Londrina	144
+892	LOCATION	Estádio	144
+893	ORGANIZATION	Unione Calcio Sampdoria	145
+894	PERSON	Sampierdarenese	145
+895	PERSON	Andrea Doria	145
+896	ORGANIZATION	Stadio Luigi Ferraris	145
+897	ORGANIZATION	Genoa Cricket and Football Club	145
+898	PERSON	Ishak Belfodil	146
+899	LOCATION	Mostaganem	146
+900	PERSON	Belfodil	146
+901	ORGANIZATION	OSC Élancourt	146
+902	ORGANIZATION	Trappes FC	146
+903	ORGANIZATION	Clairefontaine	146
+904	ORGANIZATION	AC Boulogne Billencourt	146
+905	PERSON	Hatem Ben Arfa	146
+906	LOCATION	Issiar Dia	146
+907	ORGANIZATION	Clermont Foot	146
+908	LOCATION	Clermont	146
+909	PERSON	Alessio Cragno	147
+910	PERSON	Godfred Donsah	148
+911	PERSON	Maks Barisic	149
+912	PERSON	Luís Carlos Pereira Carneiro	150
+913	LOCATION	Lamelas	150
+914	ORGANIZATION	Castro Daire Municipality	150
+915	PERSON	G.D. Estoril Praia	150
+916	PERSON	Licá	150
+917	PERSON	Académica de Coimbra	150
+918	PERSON	G.D. Tourizense	150
+919	PERSON	Marítimo	150
+920	PERSON	Dragan Lovric	151
+921	PERSON	Gustavo Campanharo	152
+922	PERSON	Alexandre Coeff	153
+923	LOCATION	Brest	153
+924	ORGANIZATION	RC Lens	153
+925	PERSON	Coeff	153
+926	PERSON	Gonzalo Escalante	154
+927	PERSON	Gonzalo Piermateri	155
+928	PERSON	Rúben Miguel Nunes Vezo	156
+929	PERSON	Thomas Teye Partey	157
+930	PERSON	Thomas	157
+931	PERSON	Anaitz Arbilla Zabala	158
+932	PERSON	Arbilla	158
+933	LOCATION	Baskonia	158
+934	ORGANIZATION	UD Salamanca	158
+935	LOCATION	Castile	158
+936	PERSON	León	158
+937	PERSON	Jorge García Morcillo	159
+938	ORGANIZATION	Valencian Community	159
+939	PERSON	Alcoyano	159
+940	PERSON	Ángel Martín Correa	160
+941	PERSON	Raúl Rodríguez Navas	161
+942	PERSON	Fredy Hinestroza Arias	162
+943	ORGANIZATION	Getafe CF	162
+944	PERSON	James David Rodríguez Rubio	163
+945	LOCATION	Cúcuta	163
+946	PERSON	Carlos Valderrama	163
+947	PERSON	Carlos	163
+948	PERSON	Cristiano Ronaldo	163
+949	PERSON	Rodriguez	163
+950	ORGANIZATION	Envigado FC	163
+951	PERSON	Club Atlético Banfield	163
+952	PERSON	Banfield	163
+953	PERSON	Davide Cinaglia	164
+954	PERSON	Ascoli Picchio	164
+955	PERSON	Luca Rizzo	165
+956	PERSON	Riccardo Pasi	166
+957	LOCATION	Bologna	166
+958	PERSON	Pasi	166
+959	LOCATION	Bologna F.C	166
+960	PERSON	Alessandro Elia	166
+961	PERSON	Elia	166
+962	ORGANIZATION	Parma F.C	166
+963	PERSON	Luca Antonelli	166
+964	PERSON	Nicholas Lentini	167
+965	PERSON	Alex Meret	168
+966	PERSON	Abraham Minero Fernández	169
+967	LOCATION	Granollers	169
+968	PERSON	Abraham	169
+969	PERSON	Jami Rafati	170
+970	ORGANIZATION	AS Livorno Calcio	170
+971	PERSON	Zouhar Feddal	171
+972	PERSON	Daniele Sommariva	172
+973	PERSON	Giuseppe Panico	173
+974	ORGANIZATION	Sporting Limited Association	174
+975	PERSON	José Luis Gallegos Arnosa	174
+976	PERSON	Ramón Sánchez Pizjuán	174
+977	LOCATION	Nervión	174
+978	ORGANIZATION	Generalisimo Cups	174
+979	PERSON	Luca Giannone	175
+980	LOCATION	Casalnuovo	175
+981	LOCATION	Pro Patria	175
+982	PERSON	Mirko Eramo	176
+983	ORGANIZATION	Acquaviva delle Fonti	176
+984	PERSON	Rolando Mandragora	177
+985	PERSON	Estadio Santiago Bernabéu	178
+986	ORGANIZATION	Real Madrid Club de Fútbol	178
+987	PERSON	El Bernabéu	178
+988	PERSON	Santiago Bernabéu Yeste	178
+989	LOCATION	Bernabéu	178
+990	LOCATION	Santiago Bernabéu	178
+991	LOCATION	Paseo de la Castellana	178
+992	LOCATION	Chamartín	178
+993	PERSON	Concha Espina	178
+994	PERSON	Padre Damián	178
+995	PERSON	Rafael Salgado	178
+996	ORGANIZATION	Banco Mercantil	178
+997	LOCATION	Estadio Chamartín	178
+998	PERSON	Manuel Muñoz Monasterio	178
+999	PERSON	Luis Alemany Soler	178
+1000	PERSON	Giacomo Sciacca	179
+1001	PERSON	Andrea Palazzi	180
+1002	ORGANIZATION	Inter Milan	180
+1003	PERSON	Zdravko Kuzmanović	180
+1004	PERSON	Saint-Étienne	180
+1005	PERSON	Davide Costa	181
+1006	PERSON	Giovanni Tortora	182
+1007	PERSON	Michele Somma	183
+1008	PERSON	Mirko Esposito	184
+1009	PERSON	Luca Pipoli	185
+1010	PERSON	Lorenzo Capezzani	186
+1011	PERSON	Adrian Marius Stoian	187
+1012	LOCATION	Craiova	187
+1013	ORGANIZATION	A.S. Bari	187
+1014	ORGANIZATION	Juventus F.C	187
+1015	PERSON	Mirko Vučinić	187
+1016	PERSON	Alessandro Crescenzi	187
+1017	PERSON	Simone Sini	187
+1018	PERSON	Alberto Grassi	188
+1019	PERSON	Rosseti Valerio Lorenzo	189
+1020	PERSON	Davide Mordini	190
+1021	PERSON	Andrea Gemignani	191
+1022	PERSON	Matteo Biggeri	192
+1023	PERSON	Luzayadio Andy Bangu	193
+1024	PERSON	Nicolò Gigli	194
+1025	PERSON	Jacopo Petriccione	195
+1026	PERSON	Luca Anania	196
+1027	ORGANIZATION	Delfino Pescara	196
+1028	PERSON	Anania	196
+1029	ORGANIZATION	Lecco	196
+1030	PERSON	Marco D'Adda	196
+1031	PERSON	Pro Sesto	196
+1032	PERSON	D'Adda	196
+1033	LOCATION	Sesto San Giovanni	196
+1034	PERSON	Alonso Piola	196
+1035	PERSON	Domenico Cecere	196
+1036	PERSON	Vincenzo Sicignano	196
+1037	PERSON	Sicignano	196
+1038	PERSON	Federico Melchiorri	197
+1039	LOCATION	Treia	197
+1040	PERSON	Melchiorri	197
+1041	ORGANIZATION	Empoli F.C	197
+1042	PERSON	Cristian Molinaro	197
+1043	PERSON	Sambenedettese	197
+1044	LOCATION	New Field	198
+1045	ORGANIZATION	Futbol Club Barcelona	198
+1046	PERSON	Les Corts	198
+1047	ORGANIZATION	Estadi del FC Barcelona	198
+1048	PERSON	László Kubala	198
+1049	PERSON	Felipe Acedo Colunga	198
+1050	ORGANIZATION	Archbishop of Barcelona	198
+1051	PERSON	Gregorio Modrego	198
+1052	PERSON	Eugenio Lamanna	199
+1053	ORGANIZATION	Como	199
+1054	PERSON	Agustín Sebastián Cousillas	200
+1055	PERSON	Daniele Bartolini	201
+1056	PERSON	Andrea Molinelli	202
+1057	PERSON	Elia Bruzzi	203
+1058	PERSON	Atalanta Bergamasca Calcio	204
+1059	LOCATION	Atalanta Bergamo	204
+1060	ORGANIZATION	Atalanta BC	204
+1061	LOCATION	Bergamo	204
+1062	ORGANIZATION	Atleti Azzurri	204
+1063	PERSON	Regina	204
+1064	PERSON	Doni	204
+1065	ORGANIZATION	Cardiff City	204
+1066	LOCATION	Swiss	204
+1067	ORGANIZATION	FC Bergamo	204
+1068	PERSON	Arnaldo Antonio Sanabria Ayala	205
+1069	PERSON	Tonny Sanabria	205
+1070	PERSON	Miguel Alfonso Herrero Javaloyas	206
+1071	LOCATION	Burjassot	206
+1072	PERSON	Rubén Baraja	206
+1073	PERSON	Edu	206
+1074	PERSON	Manuel Fernandes	206
+1075	PERSON	Unai Emery	206
+1076	PERSON	Club Portugalete	206
+1077	PERSON	Emery	206
+1078	PERSON	Michael Agazzi	207
+1079	LOCATION	Ponte San Pietro	207
+1080	PERSON	Agazzi	207
+1081	PERSON	Generoso Rossi	207
+1082	PERSON	Cagliari Calcio	207
+1083	ORGANIZATION	Triestina	207
+1084	PERSON	Triestina	207
+1085	PERSON	Alex Calderoni	207
+1086	PERSON	Federico Marchetti	207
+1087	PERSON	Ivan Pelizzoli	207
+1088	LOCATION	Agazzi	207
+1089	PERSON	Marchetti	207
+1090	LOCATION	San Giuliano Terme	208
+1091	ORGANIZATION	Piacenza	208
+1092	PERSON	Fabbrini	208
+1093	PERSON	Ricardo Chará	208
+1094	PERSON	Flavio Lazzari	208
+1095	PERSON	Giampiero Pinzi	208
+1096	PERSON	Luca Ceppitelli	209
+1097	LOCATION	Castiglione del Lago	209
+1098	ORGANIZATION	Perugia	209
+1099	LOCATION	Umbria	209
+1100	PERSON	Ceppitelli	209
+1101	ORGANIZATION	A.S. Andria BAT	209
+1102	LOCATION	Barletta-Andria-Trani	209
+1103	PERSON	Giampaolo Giuliacci	209
+1104	PERSON	Andria	209
+1105	ORGANIZATION	Lega Pro Prima Divisione	209
+1106	LOCATION	Ceppitelli	209
+1107	PERSON	Nicola Bellomo	210
+1108	PERSON	Bellomo	210
+1109	LOCATION	Modena	210
+1110	PERSON	Daniele De Vezze	210
+1111	PERSON	Alessandro Marotta	210
+1112	LOCATION	Barletta	210
+1113	PERSON	Alessio Lanotte	210
+1114	LOCATION	Ukraine	210
+1115	ORGANIZATION	Royal Sporting Club	211
+1116	LOCATION	Coruña	211
+1117	LOCATION	Galicia	211
+1118	PERSON	Depor	211
+1119	PERSON	Jose María Abalo	211
+1120	PERSON	Emanuele Rovini	212
+1121	PERSON	Tomislav Gomelt	213
+1122	PERSON	Joel Chukwuma Obi	214
+1123	LOCATION	Lagos	214
+1124	PERSON	Joel Obi	214
+1125	PERSON	A. Obi	214
+1126	ORGANIZATION	Werder Bremen	214
+1127	PERSON	Dejan Stanković	214
+1128	PERSON	Obi	214
+1129	PERSON	Philippe Coutinho	214
+1130	PERSON	Samuel Eto'o	214
+1131	ORGANIZATION	Milan Derby	214
+1132	PERSON	Coutinho	214
+1133	PERSON	Nwankwo Obiora	214
+1134	LOCATION	Nigeria	214
+1135	PERSON	Guilherme dos Santos Torres	215
+1136	PERSON	Guilherme	215
+1137	ORGANIZATION	Valladolid Club de Fútbol	216
+1138	LOCATION	Valladolid	216
+1139	LOCATION	León	216
+1140	PERSON	Pucela	216
+1141	ORGANIZATION	Estadio Nuevo José Zorrilla	216
+1142	LOCATION	All-Time La Liga	216
+1143	ORGANIZATION	Real Unión Deportiva de Valladolid	216
+1144	ORGANIZATION	Club Deportivo Español	216
+1145	ORGANIZATION	Valladolid	216
+1146	ORGANIZATION	Terrassa FC	216
+1147	PERSON	José Luis Saso	216
+1148	PERSON	Mateus Ribeiro Dos Santoa	217
+1149	PERSON	Marco Benassi	218
+1150	PERSON	Gabriele Morelli	219
+1151	PERSON	Levante Unión Deportiva	220
+1152	LOCATION	Estadi Ciutat de València	220
+1153	ORGANIZATION	Levante Fútbol Club	220
+1154	LOCATION	La Malvarrosa	220
+1155	ORGANIZATION	Cabanyal FC	220
+1156	LOCATION	La Platjeta	220
+1157	LOCATION	Algirós	220
+1158	ORGANIZATION	Levante FC	220
+1159	ORGANIZATION	Gimnástico Fútbol Club	220
+1160	ORGANIZATION	Juventud Obrera	220
+1161	ORGANIZATION	Universitario Fútbol Club	220
+1162	PERSON	Lorenzo Simonetti	221
+1163	PERSON	Marco Stoppini	222
+1164	PERSON	Tommaso Borselli	223
+1165	PERSON	Caio Rangel da Silva	224
+1166	PERSON	Marijan Coric	225
+1167	PERSON	Isaac Cofie	226
+1168	PERSON	Alberto Zapater	226
+1169	PERSON	Giuseppe Scalera	227
+1170	PERSON	Gaetano Castrovilli	228
+1171	PERSON	Ángel Luis Rodríguez Díaz	229
+1172	LOCATION	Santa Cruz de Tenerife	229
+1173	PERSON	Ángel	229
+1174	ORGANIZATION	Tenerife	229
+1175	ORGANIZATION	Real Madrid Castilla	229
+1176	LOCATION	Canary Islands	229
+1177	PERSON	Marco Capuano	230
+1178	PERSON	Capuano	230
+1179	PERSON	Zdeněk Zeman	230
+1180	PERSON	Michele Camporese	231
+1181	PERSON	Camporese	231
+1182	PERSON	Alessandro Gamberini	231
+1183	PERSON	Cesare Natali	231
+1184	PERSON	Per Krøldrup	231
+1185	PERSON	La Viola	231
+1186	PERSON	Denis Dmitriyevich Cheryshev	232
+1187	ORGANIZATION	Villarreal CF	232
+1188	PERSON	Douglas Pereira dos Santos	233
+1189	PERSON	Douglas	233
+1190	PERSON	Borja Gómez Pérez	234
+1191	ORGANIZATION	FC Karpaty Lviv	234
+1192	PERSON	Gómez	234
+1193	PERSON	AD Alcorcón	234
+1194	PERSON	Pérez	234
+1195	ORGANIZATION	Ukrainian Premier League	234
+1196	PERSON	Konstantinos	235
+1197	PERSON	Manolas	235
+1198	ORGANIZATION	AEK Athens	235
+1199	PERSON	Kostas Manolas	235
+1200	ORGANIZATION	AEK	235
+1201	PERSON	Stelios Manolas	235
+1202	LOCATION	Naxos	235
+1203	LOCATION	Athens	235
+1204	PERSON	Kostas	235
+1205	LOCATION	Thrasyvoulos F.C	235
+1206	PERSON	Dusan Bajevic	235
+1207	ORGANIZATION	AO Kavala	235
+1208	PERSON	Jaime Romero Gómez	236
+1209	LOCATION	Valdeganga	236
+1210	ORGANIZATION	Albacete	236
+1211	PERSON	Romero	236
+1212	PERSON	Albacete Balompié	236
+1213	ORGANIZATION	Campionato Nazionale Primavera	236
+1214	PERSON	Andrea Coda	236
+1215	PERSON	Cristiano Biraghi	237
+1216	ORGANIZATION	Internazionale Born	237
+1217	LOCATION	Cernusco	237
+1218	PERSON	Naviglio	237
+1219	PERSON	Biraghi	237
+1220	ORGANIZATION	Pirelli	237
+1221	LOCATION	Manchester City	237
+1222	ORGANIZATION	Twente	237
+1223	PERSON	Goran Pandev	237
+1224	PERSON	Davide Santon	237
+1225	PERSON	Cristian Chivu	237
+1226	ORGANIZATION	Juve Stabia	237
+1227	LOCATION	Indonesia	237
+1228	PERSON	Vincenzo Fiorillo	238
+1229	PERSON	Fiorillo	238
+1230	PERSON	Gianluigi Buffon	238
+1231	LOCATION	Oregina	238
+1232	ORGANIZATION	Sampdoria Primavera	238
+1233	PERSON	Blucerchiati	238
+1234	PERSON	Mario Cassano	238
+1235	LOCATION	Liguria	238
+1236	PERSON	José Rodríguez Martínez	239
+1237	PERSON	Rodrigo Javier De Paul	240
+1238	ORGANIZATION	Unione Sportiva Sassuolo Calcio	241
+1239	LOCATION	Emilia-Romagna	241
+1240	PERSON	Sansovino	241
+1241	PERSON	Gian Marco Remondina	241
+1242	LOCATION	Monza	241
+1243	PERSON	Remondina	241
+1244	PERSON	Massimiliano Allegri	241
+1245	PERSON	Allegri	241
+1246	PERSON	Fayçal Fajr	242
+1247	ORGANIZATION	Caen in Ligue	242
+1248	PERSON	Fajr	242
+1249	LOCATION	Rouen	242
+1250	PERSON	Le Havre	242
+1251	LOCATION	Oissel	242
+1252	PERSON	Étoile Fréjus Saint-Raphaël	242
+1253	ORGANIZATION	Direction Nationale	242
+1254	ORGANIZATION	National Directorate of Management Control	242
+1255	ORGANIZATION	DNCG	242
+1256	PERSON	Diego Farias da Silva	243
+1257	PERSON	Diego Farias	243
+1258	LOCATION	Sorocaba	243
+1259	PERSON	A.C. ChievoVerona	243
+1260	PERSON	Molla Wague	244
+1261	LOCATION	Verdon	244
+1262	PERSON	Wague	244
+1263	ORGANIZATION	Ajaccio	244
+1264	PERSON	Estadio Ramón Sánchez Pizjuán	245
+1265	ORGANIZATION	Sevilla Fútbol Club	245
+1266	ORGANIZATION	Steaua Bucureşti	245
+1267	LOCATION	Germany	245
+1268	ORGANIZATION	CSKA Moskva	245
+1269	ORGANIZATION	Estadio Nervion	245
+1270	PERSON	Estadio Alberto J. Armando	245
+1271	ORGANIZATION	Boca Juniors	245
+1272	PERSON	Saphir Sliti Taïder	246
+1273	LOCATION	Castres	246
+1274	PERSON	Sliti Taïder	246
+1275	LOCATION	Tunisian	246
+1276	LOCATION	Kabyle	246
+1277	PERSON	Nabil Taïder	246
+1278	PERSON	Taïder	246
+1279	LOCATION	Grenoble	246
+1280	ORGANIZATION	Marseille	246
+1281	PERSON	Dane Frederik Sorensen	246
+1282	PERSON	Nemanja Radoja	247
+1283	PERSON	Rubén Salvador Pérez del Mármol	248
+1284	LOCATION	Écija	248
+1285	LOCATION	Atlético Madrid	248
+1286	PERSON	Borja	248
+1287	PERSON	Filipe Luís	248
+1288	PERSON	Borja Fernández	248
+1289	PERSON	James Richardson Spensley	249
+1290	PERSON	Gianni Brera	249
+1291	LOCATION	Brera	249
+1292	PERSON	Souleymane Coulibaly	250
+1293	PERSON	Coulibaly	250
+1294	ORGANIZATION	Tottenham Hotspur XI	250
+1295	LOCATION	Brighton	250
+1296	ORGANIZATION	Hove Albion	250
+1297	ORGANIZATION	PSV	250
+1298	LOCATION	Stevenage	250
+1299	ORGANIZATION	FAYC	250
+1300	PERSON	Rafał Wolski	251
+1301	LOCATION	Kozienice	251
+1302	ORGANIZATION	Legia Warsaw	251
+1303	PERSON	Wolski	251
+1304	PERSON	Franciszek Smuda	251
+1305	LOCATION	Latvia	251
+1306	PERSON	Jonathan Alexander de Guzmán	252
+1307	PERSON	De Guzman	252
+1308	LOCATION	Canada	252
+1309	LOCATION	Netherlands	252
+1310	LOCATION	Beijing	252
+1311	ORGANIZATION	Feyenoord Academy	252
+1312	LOCATION	Rotterdam	252
+1313	LOCATION	Scarborough	252
+1314	LOCATION	Ontario	252
+1315	PERSON	Bobby	252
+1316	LOCATION	Philippines	252
+1317	PERSON	Pauline	252
+1318	LOCATION	Jamaica	252
+1319	PERSON	Jenelle	252
+1320	PERSON	Julian	252
+1321	PERSON	Julian De Guzman	252
+1322	ORGANIZATION	Toronto FC	252
+1323	PERSON	Nemanja Vidić	253
+1324	LOCATION	Serbia	253
+1325	LOCATION	Red Star Belgrade	253
+1326	PERSON	Vidić	253
+1327	LOCATION	Spartak Moscow	253
+1328	PERSON	Rio Ferdinand	253
+1329	ORGANIZATION	United	253
+1330	ORGANIZATION	FIFA World Club Cup	253
+1331	ORGANIZATION	PFA	253
+1332	PERSON	Racine Coly	254
+1333	PERSON	André Filipe Tavares Gomes	255
+1334	PERSON	Matija Širok	256
+1335	PERSON	Luka Đorđević	257
+1336	LOCATION	Montenegrin	257
+1337	ORGANIZATION	FC Zenit Saint Petersburg	257
+1338	LOCATION	Montenegro	257
+1339	PERSON	Bernardo Víctor Cruz Torres	258
+1340	LOCATION	Córdoba CF	258
+1341	PERSON	Ransford Selasi	259
+1342	PERSON	Stefan Šćepović	260
+1343	LOCATION	Belgrade	260
+1344	ORGANIZATION	FK Partizan	260
+1345	PERSON	Šćepović	260
+1346	ORGANIZATION	OFK Beograd	260
+1347	LOCATION	Sopot	260
+1348	ORGANIZATION	Club Brugge	260
+1349	LOCATION	Kortrijk	260
+1350	PERSON	Stefan	260
+1351	PERSON	Marko Šćepović	260
+1352	ORGANIZATION	Partizan	260
+1353	PERSON	Slađan Šćepović	260
+1354	PERSON	Rubén Alejandro Botta Montero	261
+1355	PERSON	Botta	261
+1356	ORGANIZATION	Tigre	261
+1357	ORGANIZATION	FK Ventspils	261
+1358	LOCATION	Tigre	261
+1359	ORGANIZATION	Estudiantes de la Plata	261
+1360	PERSON	Patrice Latyr Evra	262
+1361	ORGANIZATION	Evra	262
+1362	PERSON	Alex Ferguson	262
+1363	PERSON	Evra	262
+1364	LOCATION	Senegal	262
+1365	ORGANIZATION	CO Les Ulis	262
+1366	PERSON	Francisco Manuel Vélez Jiménez	263
+1367	LOCATION	Tarragona	263
+1368	LOCATION	Catalunya	263
+1369	ORGANIZATION	UD Logroñés	263
+1370	LOCATION	Gimnàstic de Tarragona	263
+1371	PERSON	Vélez	263
+1372	LOCATION	Sarrià	264
+1373	LOCATION	Sarria	264
+1374	PERSON	Matías Colmenares	264
+1375	ORGANIZATION	UE Sants	264
+1376	PERSON	Vicenç Tonijuan	264
+1377	PERSON	Prats	264
+1378	PERSON	Ricardo Zamora	264
+1379	PERSON	Paweł Bochniewicz	265
+1380	PERSON	Lucas Pérez Martínez	266
+1381	ORGANIZATION	FC Chornomorets Odesa	266
+1382	PERSON	Stadio Marc'Antonio Bentegodi	267
+1383	ORGANIZATION	Chievo Verona	267
+1384	ORGANIZATION	FIFA World Cup	267
+1385	ORGANIZATION	Verona Nord	267
+1386	ORGANIZATION	First Solar Inc.	267
+1387	ORGANIZATION	ISCOM SpA	267
+1388	ORGANIZATION	SMA Solar Technology AG	267
+1389	PERSON	Stadio Benito Mussolini	268
+1390	ORGANIZATION	Stadio Comunale Vittorio Pozzo	268
+1391	LOCATION	Santa Rita district	268
+1392	PERSON	Duce	268
+1393	PERSON	Saverio Parisi Rome	268
+1394	PERSON	Fagnoni	268
+1395	PERSON	Bianchini	268
+1396	LOCATION	Ortensi	268
+1397	PERSON	Vannacci	268
+1398	PERSON	Lucherini	268
+1399	PERSON	Del Giudice	268
+1400	PERSON	Joseph Marie Minala	269
+1401	PERSON	Shkodran Mustafi	270
+1402	PERSON	Mustafi	270
+1403	LOCATION	Hamburg	270
+1404	PERSON	BATE Borisov	270
+1405	PERSON	Tony Hibbert	270
+1406	PERSON	Marco Parolo	271
+1407	LOCATION	Gallarate	271
+1408	PERSON	Parolo	271
+1409	ORGANIZATION	Pistoiese	271
+1410	LOCATION	Foligno	271
+1411	LOCATION	Chievo	271
+1412	PERSON	Leonardo Moracci	271
+1413	PERSON	Domenico Girardi	271
+1414	PERSON	Pierpaolo Bisoli	271
+1415	PERSON	Lorenzo Minotti	271
+1416	PERSON	Resto del Carlino	271
+1417	PERSON	Mattia Valoti	272
+1418	PERSON	Valoti	272
+1419	LOCATION	Vicenza	272
+1420	PERSON	Aladino Valoti	272
+1421	LOCATION	Albinoleffe	272
+1422	PERSON	Mattia	272
+1423	PERSON	Cosenza	272
+1424	PERSON	Martina Franca	272
+1425	PERSON	Dalmine Futura	272
+1426	PERSON	Novara	272
+1427	PERSON	Seydou Keita	273
+1428	LOCATION	Bamako	273
+1429	LOCATION	Mali	273
+1430	PERSON	Keita	273
+1431	ORGANIZATION	Olympique de Marseille	273
+1432	ORGANIZATION	Troyes AC	273
+1433	ORGANIZATION	FC Lorient	273
+1434	ORGANIZATION	Coupe de France	273
+1435	ORGANIZATION	SC Bastia	273
+1436	PERSON	Les Sang	273
+1437	PERSON	Maximiliano Gastón López	274
+1438	PERSON	Talleres de Córdoba	274
+1439	PERSON	Lopez	274
+1440	PERSON	Henrik Larsson	274
+1441	ORGANIZATION	RCD	274
+1442	LOCATION	RCD	274
+1443	LOCATION	Estadio de La Romareda	275
+1444	LOCATION	Zaragoza	275
+1445	LOCATION	La Romareda	275
+1446	LOCATION	Jaca	275
+1447	PERSON	Luis Gómez Laguna	275
+1448	PERSON	Ilyos Zeytulayev	276
+1449	LOCATION	Uzbek	276
+1450	PERSON	Lanciano	276
+1451	PERSON	Zeytulayev	276
+1452	PERSON	Zeytulaev	276
+1453	PERSON	Serhiy Kovalenko	276
+1454	PERSON	Viktor Budyanskiy	276
+1455	ORGANIZATION	Juve	276
+1456	PERSON	Kovalenko	276
+1457	LOCATION	Sportakademklub Moscow	276
+1458	LOCATION	US	276
+1459	ORGANIZATION	FIGC	276
+1460	PERSON	Joan Isaac Cuenca López	277
+1461	LOCATION	Reus	277
+1462	PERSON	Cuenca	277
+1463	LOCATION	La Masia	277
+1464	ORGANIZATION	CF Reus Deportiu	277
+1465	PERSON	Damm	277
+1466	ORGANIZATION	CE Sabadell FC	277
+1467	ORGANIZATION	Arlequinats	277
+1468	PERSON	Martí Riverola	277
+1469	PERSON	Josep Guardiola	277
+1470	ORGANIZATION	Hajduk Split	277
+1471	PERSON	Louis Noé Pamarot	278
+1472	PERSON	Granada	278
+1473	PERSON	Pamarot	278
+1474	LOCATION	Portsmouth	278
+1475	ORGANIZATION	Martigues	278
+1476	LOCATION	Birmingham City	278
+1477	LOCATION	St Andrew	278
+1478	ORGANIZATION	Nottingham Forest	278
+1479	PERSON	Sean Davis	278
+1480	PERSON	Pedro Mendes	278
+1481	PERSON	Matthew Taylor	278
+1482	PERSON	David Thompson	278
+1483	LOCATION	Pamarot	278
+1484	ORGANIZATION	Associazione Calcio Torino	279
+1485	ORGANIZATION	Torino Calcio	279
+1486	LOCATION	Via Pietro Micca	279
+1487	PERSON	Alfredo Dick	279
+1488	PERSON	Rubén Ariel Olivera da Rosa	280
+1489	ORGANIZATION	Juventus F.C.	280
+1490	PERSON	Peñarol	280
+1491	PERSON	Enis Nadarević	281
+1492	LOCATION	Bihać	281
+1493	LOCATION	Yugoslavia	281
+1494	PERSON	Nadarević	281
+1495	PERSON	A.S. Varese	281
+1496	PERSON	Javier Espinosa González	282
+1497	LOCATION	Talavera de la Reina	282
+1498	LOCATION	Toledo	282
+1499	ORGANIZATION	FC Barcelona B	282
+1500	PERSON	Stadio Cino	283
+1501	ORGANIZATION	Lillo Del Duca	283
+1502	PERSON	Stadio Mario Rigamonti	284
+1503	ORGANIZATION	Brescia Calcio	284
+1504	PERSON	Mario Rigamonti	284
+1505	PERSON	Stadio Carlo Castellani	285
+1506	PERSON	Olimpiadi	285
+1507	PERSON	Carlo Castellani	285
+1508	PERSON	Montelupo Fiorentino	285
+1509	LOCATION	Mauthausen	285
+1510	ORGANIZATION	Banca di Credito Cooperativo	285
+1511	PERSON	Cambiano	285
+1512	PERSON	Stadio Angelo Massimino	286
+1513	LOCATION	Stadio Cibali	286
+1514	PERSON	Angelo Massimino	286
+1515	PERSON	Stadio Artemio Franchi	287
+1516	ORGANIZATION	ACF Fiorentina	287
+1517	PERSON	Luigi Nervi	287
+1518	PERSON	Nervi Hall	287
+1519	LOCATION	Vatican	287
+1520	PERSON	Artemio Franchi	287
+1521	PERSON	Stadio Renato Dall'Ara	288
+1522	ORGANIZATION	Bologna F.C	288
+1523	PERSON	Stadio Littoriale	288
+1524	PERSON	Davide Gualtieri	288
+1525	LOCATION	San Marino	288
+1526	ORGANIZATION	All Blacks	288
+1527	LOCATION	Friuli	289
+1528	LOCATION	Rizzi	289
+1529	LOCATION	Georgia	289
+1530	LOCATION	South Africa	289
+1531	PERSON	Metallica	289
+1532	PERSON	Stadio Ennio Tardini	290
+1533	LOCATION	Tardini	290
+1534	LOCATION	Parma	290
+1535	PERSON	Ennio Tardini	290
+1536	ORGANIZATION	Parmalat	290
+1537	ORGANIZATION	Stadio Comunale Luigi Ferraris	291
+1538	LOCATION	Marassi	291
+1539	PERSON	Luigi Ferraris	291
+1540	LOCATION	Reggina Calcio	292
+1541	PERSON	Stadio Michele Bianchi	292
+1542	LOCATION	Then-Reggina	292
+1543	PERSON	Giuseppe Vilardi	292
+1544	ORGANIZATION	Curva Nord	292
+1545	PERSON	Stadio Oreste Granillo	292
+1546	PERSON	Michele Bianchi	292
+1547	ORGANIZATION	Italian Football Federation	293
+1548	LOCATION	Montepaschi Arena	293
+1549	ORGANIZATION	Monte dei Paschi di Siena	293
+1550	LOCATION	Isola	293
+1551	ORGANIZATION	Stadio Adriatico	294
+1552	PERSON	Giovanni Cornacchia	294
+1553	LOCATION	Abruzzo	294
+1554	PERSON	Luigi Piccinato	294
+1555	PERSON	Pescara Calcio	294
+1556	PERSON	Stadio Dino Manuzzi	295
+1557	PERSON	Stadio Renzo Barbera	296
+1558	ORGANIZATION	Stadio La Favorita	296
+1559	LOCATION	U.S. Città di Palermo	296
+1560	PERSON	Stadio Littorio	296
+1561	PERSON	Stadio Michele Marrone	296
+1562	LOCATION	Stadio La Favorita	296
+1563	PERSON	Frederick II	296
+1564	PERSON	Stadio Armando Picchi	297
+1565	ORGANIZATION	A.S. Livorno Calcio	297
+1566	LOCATION	U.S. Lecce	298
+1567	ORGANIZATION	Stadio Carlo Pranzo	298
+1568	ORGANIZATION	Taranto	298
+1569	PERSON	Santos	298
+1570	PERSON	Curva Nord	298
+1571	ORGANIZATION	Ultrà Lecce	298
+1572	LOCATION	Curva Sud	298
+1573	PERSON	Micah Lincoln Richards	299
+1574	PERSON	Richards	299
+1575	LOCATION	Leeds	299
+1576	LOCATION	Birmingham	299
+1577	LOCATION	Chapeltown	299
+1578	PERSON	Cranmer	299
+1579	ORGANIZATION	Primary School	299
+1580	ORGANIZATION	Wetherby High School	299
+1581	ORGANIZATION	Leeds United	299
+1582	ORGANIZATION	Leeds Schools FA	299
+1583	ORGANIZATION	Leeds City Boys	299
+1584	ORGANIZATION	Oldham Athletic	299
+1585	PERSON	Oldham	299
+1586	PERSON	Lincoln	299
+1587	PERSON	Nana Addo Welbeck Maseko	300
+1588	ORGANIZATION	Krka	300
+1589	PERSON	Piotr Zielinski	301
+1590	PERSON	Zaglebie Lubin	301
+1591	PERSON	Johan Walem	301
+1592	PERSON	Francesco Guidolin	301
+1593	PERSON	Kwadwo Asamoah	301
+1594	PERSON	Badu	301
+1595	PERSON	Barreto	301
+1596	LOCATION	Stadio San Nicola	302
+1597	PERSON	Renzo Piano	302
+1598	ORGANIZATION	Red Star Belgrade	302
+1599	LOCATION	Soviet Union	302
+1600	LOCATION	Cameroon	302
+1601	LOCATION	Czechoslovakia	302
+1602	LOCATION	Costa Rica	302
+1603	LOCATION	Scotland	302
+1604	LOCATION	Anoeta	303
+1605	LOCATION	Donostia-San Sebastián	303
+1606	LOCATION	Biarritz	303
+1607	ORGANIZATION	Biarritz Olympique	303
+1608	PERSON	Aviron Bayonnais	303
+1609	PERSON	José Luis Astiazarán	303
+1610	PERSON	Gipuzkoarena	303
+1611	LOCATION	Badiola	303
+1612	PERSON	Badiola	303
+1613	PERSON	Francesco Dettori	304
+1614	PERSON	Roberto Inglese	304
+1615	PERSON	Luca Ariatti	304
+1616	PERSON	Rômulo Souza Orestes Caldeira	305
+1617	PERSON	Pelotas	305
+1618	PERSON	Rômulo	305
+1619	ORGANIZATION	Fluminense	305
+1620	LOCATION	Cruzeiro	305
+1621	LOCATION	Cruzerio	305
+1622	PERSON	Cristian Pasquato	306
+1623	LOCATION	Padua	306
+1624	LOCATION	Primavera	306
+1625	ORGANIZATION	Supercoppa Primavera	306
+1626	PERSON	Pasquato	306
+1627	PERSON	Ismael 'Isma	307
+1628	PERSON	López Blanco	307
+1629	ORGANIZATION	Sporting de Gijón	307
+1630	PERSON	Claude Babin	308
+1631	ORGANIZATION	Essonne	308
+1632	PERSON	Lucas Vázquez Iglesias	309
+1633	LOCATION	Curtis	309
+1634	PERSON	Lucas	309
+1635	ORGANIZATION	Sporting de Gijón B	309
+1636	PERSON	Marco Davide Faraoni	310
+1637	LOCATION	Bracciano	310
+1638	PERSON	Faraoni	310
+1639	ORGANIZATION	S.S. Lazio	310
+1640	PERSON	Alibec	310
+1641	PERSON	Carlsen	310
+1642	ORGANIZATION	Torneo di Viareggio	310
+1643	PERSON	Leonardo	310
+1644	PERSON	Fulvio Pea	310
+1645	LOCATION	Faraoni	310
+1646	PERSON	Luis Alberto Romero Alconchel	311
+1647	LOCATION	San José del Valle	311
+1648	LOCATION	Cádiz	311
+1649	PERSON	Luis Alberto	311
+1650	PERSON	Rodri	311
+1651	PERSON	Vinícius Vasconcelos Araújo	312
+1652	ORGANIZATION	Standard Liège	312
+1653	PERSON	Filip Janković	313
+1654	PERSON	Филип Јанковић	313
+1655	LOCATION	Ventspils	313
+1656	ORGANIZATION	Red Star	313
+1657	PERSON	Alberto Gómez Fernández	314
+1658	PERSON	Nagore	314
+1659	PERSON	Gianluca Caprari	315
+1660	PERSON	Caprari	315
+1661	ORGANIZATION	Atletico	315
+1662	ORGANIZATION	Torneo Città di Arco	315
+1663	PERSON	Simone Perrotta	315
+1664	ORGANIZATION	Shakhtar Donetsk	315
+1665	LOCATION	Bratislava	315
+1666	PERSON	Totti	315
+1667	PERSON	David López Silva	316
+1668	PERSON	Marco van Ginkel	317
+1669	ORGANIZATION	Vitesse	317
+1670	PERSON	Papa Babacar 'Baba ' Diawara	318
+1671	LOCATION	Dakar	318
+1672	PERSON	Diawara	318
+1673	ORGANIZATION	Senegal Premier League	318
+1674	ORGANIZATION	ASC Jeanne d'Arc	318
+1675	LOCATION	Madeira	318
+1676	LOCATION	Portugal	318
+1677	LOCATION	Amadora	318
+1678	ORGANIZATION	Sporting Clube de Portugal	318
+1679	ORGANIZATION	Olympiacos F.C	318
+1680	LOCATION	Midlothian	318
+1681	ORGANIZATION	Scottish Premier League	318
+1682	ORGANIZATION	Celtic	318
+1683	PERSON	Tomás Eduardo Rincón Hernández	319
+1684	LOCATION	San Cristobal	319
+1685	LOCATION	Táchira	319
+1686	PERSON	Rincón	319
+1687	LOCATION	UA Maracaibo	319
+1688	ORGANIZATION	Zamora FC	319
+1689	PERSON	Deportivo Táchira	319
+1690	ORGANIZATION	SV Wehen Wiesbaden	319
+1691	LOCATION	Sudamericana	319
+1692	ORGANIZATION	Adidas	319
+1693	PERSON	Víctor Rodríguez Romero	320
+1694	PERSON	Stefano Chuka Okaka	321
+1695	LOCATION	Roma	321
+1696	PERSON	Okaka	321
+1697	PERSON	Aris	321
+1698	LOCATION	midfield	321
+1699	ORGANIZATION	Modena	321
+1700	PERSON	Julián Cuesta Díaz	322
+1701	PERSON	Julián	322
+1702	PERSON	Unión Deportiva Almería	323
+1703	ORGANIZATION	Almería Club de Fútbol	323
+1704	ORGANIZATION	Estadio de los Juegos Mediterráneos	323
+1705	PERSON	Almería Club de Fútbol	323
+1706	PERSON	Álvaro Negredo	323
+1707	PERSON	Gonzalo Arconada	323
+1708	ORGANIZATION	Elche Club de Fútbol	324
+1709	ORGANIZATION	Estadio Manuel Martínez Valero	324
+1710	PERSON	Stefan Mitrović	325
+1711	ORGANIZATION	SC Freiburg	325
+1712	PERSON	Antonio Adán Garrido	326
+1713	PERSON	Adán	326
+1714	ORGANIZATION	Juvenil	326
+1715	PERSON	Jordi Codina	326
+1716	PERSON	Codina	326
+1717	PERSON	Iker Casillas	326
+1718	PERSON	Jerzy Dudek	326
+1719	PERSON	Dudek	326
+1720	ORGANIZATION	AJ Auxerre	326
+1721	PERSON	Mohamed Lamine Sissoko Gillan	327
+1722	ORGANIZATION	French Ligue	327
+1723	PERSON	Sissoko	327
+1724	PERSON	Rafael Benítez	327
+1725	PERSON	AJ Auxerre	327
+1726	PERSON	Guilherme Madalena Siqueira	328
+1727	PERSON	Siqueira	328
+1728	LOCATION	Ipatinga	328
+1729	PERSON	César	328
+1730	PERSON	Ancona	328
+1731	PERSON	Ancona Siqueira	328
+1732	PERSON	Diego Mariño Villar	329
+1733	LOCATION	Vigo	329
+1734	PERSON	Giuseppe Biava	330
+1735	PERSON	Biava	330
+1736	PERSON	Albinese	330
+1737	PERSON	Pietro Accardi	330
+1738	PERSON	Steve Leo Beleck A'Beka	331
+1739	LOCATION	Yaoundé	331
+1740	PERSON	Thomas Libiih	331
+1741	PERSON	Panthrakikos	331
+1742	PERSON	Beleck	331
+1743	LOCATION	Panathinaikos	331
+1744	PERSON	Steve	331
+1745	ORGANIZATION	Greek Superleague	331
+1746	PERSON	Tiago Abiola Delfim Almeida Ilori	332
+1747	PERSON	Ilori	332
+1748	ORGANIZATION	Sporting Clube	332
+1749	ORGANIZATION	Imortal Desportivo Clube	332
+1750	LOCATION	Lisbon	332
+1751	ORGANIZATION	Lions	332
+1752	PERSON	Leiria	332
+1753	PERSON	Paolo Parente	333
+1754	PERSON	Giorgi Chanturia	334
+1755	PERSON	Chanturia	334
+1756	ORGANIZATION	ADO Den Haag	334
+1757	ORGANIZATION	Arnhem	334
+1758	PERSON	Matteo Rubin	335
+1759	ORGANIZATION	Torino F.C.. Matteo	335
+1760	PERSON	Matteo	335
+1761	PERSON	Marco Bernacci	335
+1762	PERSON	Marco Pisano	335
+1763	PERSON	Massimo Gobbi	335
+1764	PERSON	Francesco Modesto	335
+1765	PERSON	Rubin	335
+1766	PERSON	Marcel Büchel	336
+1767	PERSON	Büchel	336
+1768	ORGANIZATION	St.	336
+1769	ORGANIZATION	Red Bull Salzburg	336
+1770	ORGANIZATION	UEFA Europe League	336
+1771	ORGANIZATION	Manchester City	336
+1772	PERSON	Danilo D'Ambrosio	337
+1773	LOCATION	Campania	337
+1774	PERSON	Danilo	337
+1775	PERSON	Dario	337
+1776	ORGANIZATION	Fiorentina Primavera	337
+1777	ORGANIZATION	Potenza	337
+1778	PERSON	Juve Stabia	337
+1779	PERSON	D'Ambrosio	337
+1780	PERSON	José Holebas	338
+1781	PERSON	Iosif Cholevas	338
+1782	LOCATION	Aschaffenburg	338
+1783	PERSON	Holebas	338
+1784	LOCATION	Trikala	338
+1785	LOCATION	Munich	338
+1786	ORGANIZATION	1860 Munich Ewald Lienen	338
+1787	PERSON	Ewald Lienen	338
+1788	PERSON	Cholevas	338
+1789	ORGANIZATION	Besa	338
+1790	ORGANIZATION	Europa League	338
+1791	PERSON	Lienen	338
+1792	PERSON	Ernesto Valverde	338
+1793	PERSON	Wellington Alves da Silva	339
+1794	PERSON	Wellington Silva	339
+1795	ORGANIZATION	Manchester United Reserves	339
+1796	LOCATION	Wellington	339
+1797	LOCATION	Dagenham	339
+1798	ORGANIZATION	Redbridge	339
+1799	ORGANIZATION	FA	339
+1800	ORGANIZATION	Levante	339
+1801	PERSON	Juan Antonio	340
+1802	LOCATION	Trelew	340
+1803	LOCATION	Chubut	340
+1804	PERSON	Panagiotis Tachtsidis	341
+1805	PERSON	Tachtsidis	341
+1806	PERSON	Thrasyvoulos	341
+1807	ORGANIZATION	Genoa C.F.C.	341
+1808	PERSON	Henrique Adriano Buss	342
+1809	PERSON	Henrique	342
+1810	ORGANIZATION	Palmeiras	342
+1811	ORGANIZATION	Ajax	342
+1812	LOCATION	Palmeiras	342
+1813	ORGANIZATION	Bayer Leverkusen	342
+1814	ORGANIZATION	Leverkusen	342
+1815	PERSON	Juan	342
+1816	PERSON	Antonio Rukavina	343
+1817	PERSON	Антонио Рукавина	343
+1818	PERSON	Rukavina	343
+1819	PERSON	FK Bežanija	343
+1820	ORGANIZATION	Borussia Dortmund	343
+1821	ORGANIZATION	Dortmund	343
+1822	PERSON	Sven Bender	343
+1823	LOCATION	Helsinki	343
+1824	LOCATION	Finland	343
+1825	PERSON	Diego Ribas da Cunha	344
+1826	LOCATION	Wolfsburg	344
+1827	PERSON	Diego	344
+1828	ORGANIZATION	Comercial FC	344
+1829	LOCATION	Ribeirao Preto	344
+1830	PERSON	São Carlos	344
+1831	LOCATION	Rio-São Paulo Championship	344
+1832	LOCATION	Robinho	344
+1833	PERSON	Elano	344
+1834	PERSON	Alex	344
+1835	PERSON	Deco	344
+1836	LOCATION	Deco	344
+1837	PERSON	Daniel Sartori Bessa	345
+1838	PERSON	Yohan Benalouane	346
+1839	LOCATION	Bagnols-sur-Cèze	346
+1840	PERSON	Benalouane	346
+1841	LOCATION	Chad	346
+1842	LOCATION	Tunisia	346
+1843	LOCATION	Togo	346
+1844	PERSON	David Cortés Caballero	347
+1845	LOCATION	Llerena	347
+1846	LOCATION	Badajoz	347
+1847	PERSON	Cortés	347
+1848	ORGANIZATION	CF Extremadura	347
+1849	LOCATION	Poli	347
+1850	ORGANIZATION	Contra	347
+1851	PERSON	Miguel Torres	347
+1852	PERSON	Manuel	348
+1853	LOCATION	Jaén	348
+1854	ORGANIZATION	Atlético de Madrid	348
+1855	PERSON	Braulio	348
+1856	PERSON	Daniel Güiza	348
+1857	PERSON	Juan Albín	348
+1858	PERSON	Roberto Soldado	348
+1859	PERSON	Kingsley Coman	349
+1860	PERSON	Hassan Yebda	350
+1861	PERSON	Yebda	350
+1862	LOCATION	Saint-Maurice	350
+1863	PERSON	Stade Lavallois	350
+1864	PERSON	Kepa Arrizabalaga Revuelta	351
+1865	PERSON	Íñigo Ruiz de Galarreta	352
+1866	PERSON	Alberto Lopo García	353
+1867	LOCATION	Espanyol	353
+1868	PERSON	Lopo	353
+1869	ORGANIZATION	Zaragoza	353
+1870	PERSON	Juande Ramos	353
+1871	PERSON	Javier Clemente	353
+1872	PERSON	Luis Fernández	353
+1873	PERSON	Miguel Ángel Lotina	353
+1874	PERSON	Franco Brienza	354
+1875	LOCATION	Cantù	354
+1876	LOCATION	Ischia	354
+1877	PERSON	Attilio Nicodemo	354
+1878	PERSON	Giuseppe Di Masi	354
+1879	PERSON	Brienza	354
+1880	PERSON	Nicodemo	354
+1881	PERSON	Luca Ferri	354
+1882	PERSON	Franco Sensi	354
+1883	PERSON	Di Masi	354
+1884	PERSON	Davide Bombardini	354
+1885	PERSON	Sensi	354
+1886	PERSON	Zamparini	354
+1887	PERSON	Iago Falque Silva	355
+1888	PERSON	Antonio Manuel Luna Rodríguez	356
+1889	LOCATION	Son Servera	356
+1890	PERSON	Edson René Braafheid	357
+1891	PERSON	Braafheid	357
+1892	ORGANIZATION	Utrecht	357
+1893	ORGANIZATION	FC Twente	357
+1894	ORGANIZATION	Bayern Munich	357
+1895	PERSON	Holland	357
+1896	ORGANIZATION	Bayern	357
+1897	PERSON	Hoffenheim Braafheid	357
+1898	ORGANIZATION	FC Utrecht	357
+1899	PERSON	Kris Jogan	358
+1900	PERSON	Sergi Gómez Solà	359
+1901	PERSON	Andreu Fontàs	359
+1902	PERSON	Barça	359
+1903	PERSON	Martí Riverola Bataller	360
+1904	PERSON	Riverola	360
+1905	ORGANIZATION	RCD Espanyol B	360
+1906	ORGANIZATION	Eredivisie	360
+1907	PERSON	Albert Ferrer	360
+1908	PERSON	Isaac	360
+1909	PERSON	Sergi Roberto	360
+1910	PERSON	Álvaro Borja Morata Martín	361
+1911	PERSON	Morata	361
+1912	LOCATION	Getafe CF	361
+1913	ORGANIZATION	Real Madrid C	361
+1914	PERSON	Castilla	361
+1915	ORGANIZATION	Coruxo FC	361
+1916	PERSON	María	361
+1917	PERSON	Enrique	362
+1918	PERSON	Lucas Martínez	362
+1919	PERSON	de Lucas	362
+1920	ORGANIZATION	Chelsea FC	362
+1921	ORGANIZATION	Viking FK	362
+1922	ORGANIZATION	Deportivo Alavés	362
+1923	ORGANIZATION	Estadio José Rico Pérez	363
+1924	PERSON	Hércules	363
+1925	PERSON	Tercera División	363
+1926	ORGANIZATION	Alicante CF	363
+1927	PERSON	Éver Maximiliano David Banega	364
+1928	LOCATION	Rosario	364
+1929	LOCATION	Santa Fe Province	364
+1930	PERSON	Banega	364
+1931	PERSON	Fernando Gago	364
+1932	ORGANIZATION	Club Atlético Banfield	364
+1933	LOCATION	Atlético de Madrid	364
+1934	ORGANIZATION	PSV Eindhoven	364
+1935	PERSON	Daniel Campos Toro	365
+1936	ORGANIZATION	Spanish La Liga	365
+1937	PERSON	Jaime Gavilán Martínez	366
+1938	PERSON	Gavilán	366
+1939	PERSON	Vicente	366
+1940	PERSON	Ronald Koeman	366
+1941	PERSON	Kevin Mathieu Vinetot	367
+1942	LOCATION	Villiers-le-Bel	367
+1943	PERSON	Vinetot	367
+1944	LOCATION	Guingamp	367
+1945	PERSON	Giulianova	367
+1946	PERSON	Francesco Migliore	367
+1947	PERSON	Fabio Gubinelli	367
+1948	PERSON	Leonardo Terigi	367
+1949	PERSON	Frederik Hillesborg Sørensen	368
+1950	PERSON	Sørensen	368
+1951	ORGANIZATION	Roskilde KFUM	368
+1952	ORGANIZATION	FC Roskilde	368
+1953	ORGANIZATION	Lyngby	368
+1954	PERSON	Leandro Rinaudo	368
+1955	PERSON	Zdeněk Grygera	368
+1956	PERSON	Giorgio Chiellini	368
+1957	PERSON	Nicola Legrottaglie	368
+1958	PERSON	Leonardo Bonucci	368
+1959	PERSON	Marco Motta	368
+1960	PERSON	Simone Salviato	369
+1961	LOCATION	Mantova	369
+1962	PERSON	Salviato	369
+1963	PERSON	Emanuele Calaiò	370
+1964	ORGANIZATION	Siena	370
+1965	PERSON	Calaiò	370
+1966	LOCATION	Torino	370
+1967	PERSON	Alessandro Cibocchi	370
+1968	PERSON	Cibocchi	370
+1969	ORGANIZATION	Estadio Municipal de Balaídos	371
+1970	PERSON	Celta Vigo	371
+1971	LOCATION	Balaídos	371
+1972	LOCATION	Avenida Balaídos	371
+1973	PERSON	Coia	371
+1974	PERSON	Avenida Balaídos	371
+1975	PERSON	Rua Val Minor	371
+1976	PERSON	Avenida Alcalde Portanet	371
+1977	PERSON	Rua dos Olimpicos Galegos	371
+1978	PERSON	Tribuna	371
+1979	PERSON	Gol	371
+1980	PERSON	Marcador	371
+1981	LOCATION	Celta	371
+1982	ORGANIZATION	Tribuna	371
+1983	LOCATION	Preferencia	371
+1984	LOCATION	River	371
+1985	LOCATION	Lagares	371
+1986	ORGANIZATION	Estadio Municipal de Riazor	372
+1987	LOCATION	Deportivo	372
+1988	PERSON	Deportivo	372
+1989	PERSON	Estadio Benito Villamarín	373
+1990	PERSON	Sevilla Balompié	373
+1991	ORGANIZATION	Real Betis Balompié	373
+1992	LOCATION	Prado de San Sebastian	373
+1993	LOCATION	El Porvenir	373
+1994	LOCATION	Heliopolis	373
+1995	LOCATION	North	373
+1996	LOCATION	Malta	373
+1997	LOCATION	Estadio San Mamés	375
+1998	ORGANIZATION	AKA La Catedral	375
+1999	LOCATION	Bilbao	375
+2000	LOCATION	Basque Country	375
+2001	LOCATION	San Mamés	375
+2002	PERSON	Mammes	375
+2003	LOCATION	San Mamés Barria	375
+2004	PERSON	Estadio La Rosaleda	376
+2005	LOCATION	Málaga CF	376
+2006	ORGANIZATION	Club Deportivo Málaga	376
+2007	PERSON	Malagua	376
+2008	ORGANIZATION	Málaga Football Club	376
+2009	PERSON	Baños del Carmen	376
+2010	ORGANIZATION	AD Ferroviaria	376
+2011	PERSON	Giuseppe Sculli	377
+2012	LOCATION	Locri	377
+2013	LOCATION	Calabria	377
+2014	PERSON	Sculli	377
+2015	PERSON	Paro	377
+2016	PERSON	Gastaldello	377
+2017	PERSON	Lazio	377
+2018	PERSON	Jonathan López Pérez	378
+2019	PERSON	Sociedad Deportiva Eibar	379
+2020	LOCATION	Eibar	379
+2021	PERSON	Gipuzkoa	379
+2022	ORGANIZATION	Estadio Municipal de Ipurua	379
+2023	PERSON	Deportivo Gallo	379
+2024	ORGANIZATION	Unión Deportiva Eibarresa	379
+2025	ORGANIZATION	Eibar Fútbol Club	379
+2026	ORGANIZATION	Sociedad Deportiva Eibar	379
+2027	PERSON	Eibar	379
+2028	PERSON	Segunda B	379
+2029	PERSON	Amauri Carvalho de Oliveira	380
+2030	PERSON	Amauri	380
+2031	LOCATION	Bellinzona	380
+2032	LOCATION	Carapicuíba	380
+2033	LOCATION	Santa Catarina	380
+2034	ORGANIZATION	Santa Catarina State League	380
+2035	PERSON	Santa Catarina Clube	380
+2036	LOCATION	Torneo	380
+2037	PERSON	Roberto Insigne	381
+2038	PERSON	Lorenzo Insigne	381
+2039	PERSON	Cyril Théréau	382
+2040	ORGANIZATION	Anderlecht	382
+2041	PERSON	Théréau	382
+2042	LOCATION	US Orléans	382
+2043	ORGANIZATION	Angers SCO	382
+2044	LOCATION	R. Charleroi S.C.	382
+2045	LOCATION	Belgium	382
+2046	LOCATION	Steaua Bucureşti	382
+2047	PERSON	Standard Liège	382
+2048	PERSON	Victoraş Iacob	382
+2049	ORGANIZATION	Steaua	382
+2050	ORGANIZATION	FC Naţional	382
+2051	ORGANIZATION	Romanian First League	382
+2052	PERSON	Valentin Badea	382
+2053	LOCATION	Ghencea	382
+2054	PERSON	Tomas Švedkauskas	383
+2055	PERSON	Leonardo Carrilho Baptistão	384
+2056	ORGANIZATION	Estadio El Molinón	385
+2057	LOCATION	Gijón	385
+2058	ORGANIZATION	Real Sporting de Gijón	385
+2059	PERSON	El Molinón	385
+2060	ORGANIZATION	Real Sporting and Arenas Club	385
+2061	PERSON	Real Sporting and Arenas Club Getxo	385
+2062	ORGANIZATION	Real Sporting	385
+2063	ORGANIZATION	Sporting	385
+2064	LOCATION	El Molinón	385
+2065	LOCATION	Calderón Stadium	386
+2066	LOCATION	Arganzuela	386
+2067	ORGANIZATION	Vicente Calderón Stadium	386
+2068	PERSON	Atlético	386
+2069	PERSON	Vicente Calderón	386
+2070	ORGANIZATION	Star UEFA	386
+2071	PERSON	Javier Barroso	386
+2072	ORGANIZATION	Estadio Metropolitano de Madrid	386
+2073	PERSON	José Cañas Ruiz-Herrera	387
+2074	LOCATION	Jerez de la Frontera	387
+2075	PERSON	Cañas	387
+2076	PERSON	Juan José	387
+2077	PERSON	Andrea Petagna	388
+2078	ORGANIZATION	Vicenza Calcio	388
+2079	PERSON	Karim Laribi	389
+2080	PERSON	Laribi	389
+2081	LOCATION	Fulham	389
+2082	PERSON	Boukary Dramé	390
+2083	LOCATION	Villepinte	390
+2084	ORGANIZATION	CSL	390
+2085	ORGANIZATION	PSG	390
+2086	ORGANIZATION	Verneuil	390
+2087	LOCATION	Strasbourg	390
+2088	ORGANIZATION	PSG Drame	390
+2089	PERSON	Eric Abidal	390
+2090	PERSON	Drame	390
+2091	PERSON	Dramé	390
+2092	PERSON	Ledian Memushaj	391
+2093	PERSON	Portogruaro	391
+2094	PERSON	Memushaj	391
+2095	LOCATION	Sarzanese	391
+2096	ORGANIZATION	Eccellenza Liguria	391
+2097	ORGANIZATION	Valle d'Aosta	391
+2098	LOCATION	Portogruaro	391
+2099	PERSON	Maurizio Pugliesi	392
+2100	PERSON	Matías Nahuel Leiva Esquivel	393
+2101	PERSON	Albinoleffe	394
+2102	ORGANIZATION	Nou Estadi	395
+2103	PERSON	Rambla Nova	395
+2104	PERSON	Nicolás Andrés Burdisso	396
+2105	ORGANIZATION	Intercontinental Cups	396
+2106	PERSON	Giacinto Facchetti	396
+2107	PERSON	Burdisso	396
+2108	PERSON	Facchetti	396
+2109	PERSON	Daniel 'Dani ' Abalo Paulos	397
+2110	LOCATION	Vilagarcía de Arousa	397
+2111	LOCATION	Pontevedra	397
+2112	PERSON	Filip Đorđević	398
+2113	ORGANIZATION	FC Nantes	398
+2114	PERSON	Filip	398
+2115	LOCATION	Rad Belgrade	398
+2116	ORGANIZATION	Nantes	398
+2117	LOCATION	Kazakhstan	398
+2118	PERSON	Lucas Alfonso Orban	399
+2119	LOCATION	Zürich	400
+2120	PERSON	Alen	400
+2121	LOCATION	Bečmen	400
+2122	PERSON	Stevanović	400
+2123	LOCATION	Radnički Obrenovac	400
+2124	PERSON	Giulio Donati	400
+2125	LOCATION	Abu Dhabi	400
+2126	ORGANIZATION	UAE	400
+2127	LOCATION	Saudi Arabia	400
+2128	ORGANIZATION	Saudi Arabian	400
+2129	PERSON	Al-Hilal	400
+2130	PERSON	Esteban Cambiasso	400
+2131	PERSON	Roberto Maximiliano Pereyra	401
+2132	PERSON	Pereyra	401
+2133	PERSON	Huracán	401
+2134	LOCATION	North Korea	401
+2135	LOCATION	Egypt	401
+2136	ORGANIZATION	Argentina	401
+2137	PERSON	Enej Jelenič	402
+2138	PERSON	Dejan Lekić	403
+2139	LOCATION	Kraljevo	403
+2140	LOCATION	Serbian	403
+2141	PERSON	Lekic	403
+2142	ORGANIZATION	Dinamo Tbilisi	403
+2143	PERSON	Lekić	403
+2144	PERSON	Slavko Perović	403
+2145	PERSON	Cadú	403
+2146	LOCATION	Marakana	403
+2147	PERSON	Leonardo Capezzi	404
+2148	PERSON	João Pedro Cavaco Cancelo	405
+2149	LOCATION	Sinj	406
+2150	LOCATION	Hajduk Split	406
+2151	PERSON	Vukušić	406
+2152	PERSON	Junak Sinj	406
+2153	ORGANIZATION	Hajduk	406
+2154	LOCATION	Croatia	406
+2155	ORGANIZATION	Prva HNL	406
+2156	ORGANIZATION	Dinamo Zagreb	406
+2157	PERSON	Ante	406
+2158	PERSON	Belec	407
+2159	ORGANIZATION	Internazionale Milano Primavera	407
+2160	PERSON	Paolo Tornaghi	407
+2161	PERSON	Enrico Alfonso	407
+2162	PERSON	Emanuele Concetti	407
+2163	PERSON	Jordi Masip López	408
+2164	LOCATION	Sabadell	408
+2165	PERSON	Masip	408
+2166	PERSON	Ivaylo Chochev	409
+2167	PERSON	Aleix Vidal Parreu	410
+2168	LOCATION	Valls	410
+2169	PERSON	Vidal	410
+2170	PERSON	Gimnàstic de Tarragona	410
+2171	PERSON	UD Almería B. Vidal	410
+2172	PERSON	Albert Crusat	410
+2173	ORGANIZATION	Wigan Athletic	410
+2174	PERSON	Jan Oblak	411
+2175	LOCATION	Škofja Loka	411
+2176	PERSON	Oblak	411
+2177	ORGANIZATION	NK Olimpija Ljubljana	411
+2178	LOCATION	Empoli F.C	411
+2179	ORGANIZATION	Olimpija	411
+2180	PERSON	S.C. Beira-Mar	411
+2181	PERSON	S.C. Olhanense	411
+2182	LOCATION	Slovenia	411
+2183	PERSON	Jan Koprivec	411
+2184	PERSON	Matías Vecino Falero	412
+2185	PERSON	Matteo Brighi	413
+2186	PERSON	Brighi	413
+2187	ORGANIZATION	A.C. Parma	413
+2188	PERSON	Marco	413
+2189	ORGANIZATION	Emerson	413
+2190	LOCATION	Brighi	413
+2191	PERSON	Diego López Rodríguez	414
+2192	LOCATION	Paradela	414
+2193	PERSON	Lugo	414
+2194	PERSON	Casillas	414
+2195	PERSON	Racing de Santander	414
+2196	ORGANIZATION	Olympiakos FC	414
+2197	PERSON	Sebastián Viera	414
+2198	LOCATION	Foro Italico	415
+2199	PERSON	Foro Mussolini	415
+2200	ORGANIZATION	Mussolini Forum	415
+2201	PERSON	Angelo Frisa	415
+2202	PERSON	Enrico Del Debbio	415
+2203	PERSON	Franco Mussis	416
+2204	PERSON	Gennaro Troianiello	417
+2205	PERSON	Calangianus	417
+2206	PERSON	Nuorese	417
+2207	LOCATION	Frosinone	417
+2208	PERSON	Alfredo Cariello	417
+2209	PERSON	Massimo Zappino	417
+2210	ORGANIZATION	Foggia of Lega Pro Prima Divisione	417
+2211	PERSON	Nunzio Di Roberto	417
+2212	LOCATION	Foggia	417
+2213	PERSON	Angelo Antonazzo	417
+2214	PERSON	Troianiello	417
+2215	PERSON	Damjan Đoković	418
+2216	PERSON	Đoković	418
+2217	ORGANIZATION	HNK Gorica	418
+2218	PERSON	Denis Suárez Fernández	419
+2219	PERSON	Suárez	419
+2220	ORGANIZATION	Celta Vigo.He	419
+2221	PERSON	David Silva Denis Suárez	419
+2222	PERSON	Edin Dzeko	419
+2223	PERSON	Samir Nasri	419
+2224	ORGANIZATION	Wolverhampton Wanderers	419
+2225	PERSON	John Guidetti	419
+2226	ORGANIZATION	Feyenoord	419
+2227	PERSON	Suarez	419
+2228	PERSON	Antonio Balzano	420
+2229	LOCATION	Bitonto	420
+2230	LOCATION	Stadio San Paolo	421
+2231	LOCATION	Fuorigrotta	421
+2232	LOCATION	San Paolo	421
+2233	PERSON	Maradona	421
+2234	PERSON	Michael Kojo Essien	422
+2235	PERSON	Mickaël Essien	422
+2236	PERSON	Essien	422
+2237	ORGANIZATION	Olympique Lyonnais	422
+2238	LOCATION	Chelsea	422
+2239	PERSON	Gianvito Plasmati	423
+2240	LOCATION	Matera	423
+2241	PERSON	Plasmati	423
+2242	LOCATION	Ferrandina Calcio	423
+2243	PERSON	Matera	423
+2244	PERSON	Virtus Locorotondo	423
+2245	LOCATION	Calcio Chieti	423
+2246	LOCATION	Brindisi	423
+2247	ORGANIZATION	Ragusa	423
+2248	PERSON	Ciro Polito	424
+2249	LOCATION	Salerno	424
+2250	ORGANIZATION	Salernitana Sport	424
+2251	PERSON	Polito	424
+2252	PERSON	Lucchese	424
+2253	PERSON	Lorenzo Squizzi	424
+2254	PERSON	A.C. Mantova	424
+2255	LOCATION	Salernitnana	424
+2256	PERSON	Johan Andrés Mojica Palacio	425
+2257	PERSON	Tiberio Guarente	426
+2258	ORGANIZATION	Toulon Tournament	426
+2259	PERSON	Nico Pulzetti	427
+2260	PERSON	Pulzetti	427
+2261	PERSON	Riccardo Regno	427
+2262	PERSON	Pablo Javier Pérez	428
+2263	PERSON	Newell	428
+2264	PERSON	Godoy Cruz	428
+2265	ORGANIZATION	Estudiantes	428
+2266	ORGANIZATION	Emelec	428
+2267	PERSON	Perez	428
+2268	PERSON	André Filipe Ribeiro Leão	429
+2269	PERSON	Paços de Ferreira	429
+2270	PERSON	Leão	429
+2271	LOCATION	S.C.	429
+2272	PERSON	Ferreira	429
+2273	ORGANIZATION	Swansea City of the Football League Championship	429
+2274	PERSON	Toni Kroos	430
+2275	PERSON	Felix Kroos	430
+2276	PERSON	Kroos	430
+2277	LOCATION	Greifswald	430
+2278	ORGANIZATION	Greifswalder SC	430
+2279	ORGANIZATION	Hansa Rostock	430
+2280	PERSON	Uli Hoeneß	430
+2281	PERSON	Toni	430
+2282	ORGANIZATION	Energie Cottbus	430
+2283	PERSON	Miroslav Klose	430
+2284	PERSON	Federico Peluso	431
+2285	PERSON	Enric Saborit Teixidor	432
+2286	PERSON	Antonio Donnarumma	433
+2287	LOCATION	Stabia	433
+2288	PERSON	Donnarumma	433
+2289	ORGANIZATION	Campionato Nazionale Allievi	433
+2290	ORGANIZATION	Coppa Italia Primavera	433
+2291	ORGANIZATION	Milan Youth Department	433
+2292	PERSON	Filippo Galli	433
+2293	PERSON	Anderson Hernanes de Carvalho Andrade Lima	434
+2294	PERSON	Hernanes	434
+2295	LOCATION	Recife	434
+2296	PERSON	Santo André	434
+2297	ORGANIZATION	São Paulo	434
+2298	PERSON	Brasileirão	434
+2299	ORGANIZATION	The Times	434
+2300	ORGANIZATION	Traffic Group	434
+2301	ORGANIZATION	Deportivo La Coruña	434
+2302	PERSON	Sergio Floccari	434
+2303	PERSON	Gary Alexis Medel Soto	435
+2304	LOCATION	Conchalí	435
+2305	LOCATION	Santiago	435
+2306	PERSON	Gary Medel	435
+2307	PERSON	Gennaro Ivan Gattuso	435
+2308	PERSON	Medel	435
+2309	PERSON	Lucas Barrios	435
+2310	LOCATION	Chile	435
+2311	ORGANIZATION	Universidad Católica	435
+2312	ORGANIZATION	Universidad de Chile	435
+2313	ORGANIZATION	Deportes La Serena	435
+2314	ORGANIZATION	Estadio Nacional	435
+2315	PERSON	Católica	435
+2316	PERSON	Aniello Cutolo	436
+2317	LOCATION	Calcio Padova	436
+2318	PERSON	Victor Matheus da Silva	437
+2319	PERSON	Fabio Salvatore Aveni	438
+2320	PERSON	Lazaros Christodoulopoulos	439
+2321	LOCATION	Thessaloniki	439
+2322	ORGANIZATION	Panathinaikos	439
+2323	PERSON	Christodoulopoulos	439
+2324	ORGANIZATION	PAOK	439
+2325	PERSON	Omonoia Sindos	439
+2326	PERSON	Neapoli	439
+2327	ORGANIZATION	Liverpool F.C	439
+2328	PERSON	Alessandro Bastrini	440
+2329	LOCATION	Domodossola	440
+2330	PERSON	Cristian Darío Álvarez	441
+2331	LOCATION	Santa Fe	441
+2332	PERSON	Álvarez	441
+2333	PERSON	Rosario Central	441
+2334	ORGANIZATION	Cerro Porteño	441
+2335	PERSON	Carlos Kameni	441
+2336	PERSON	Kameni	441
+2337	PERSON	Márquez Moreno	442
+2338	PERSON	Ben Sahar	442
+2339	PERSON	Raúl Baena	442
+2340	PERSON	Kalidou Koulibaly	443
+2341	ORGANIZATION	Metz in Ligue	443
+2342	PERSON	Koulibaly	443
+2343	ORGANIZATION	Metz	443
+2344	PERSON	Gambardella	443
+2345	ORGANIZATION	Sochaux	443
+2346	PERSON	Metz	443
+2347	PERSON	Dominique Bijotat	443
+2348	LOCATION	Vannes	443
+2349	PERSON	Davide Brivio	444
+2350	PERSON	Brivio	444
+2351	PERSON	Simone Padoin	444
+2352	PERSON	Alain Baclet	444
+2353	PERSON	Raffaele Schiavi	444
+2354	PERSON	Carles Planas Antolínez	445
+2355	PERSON	Sant Celoni	445
+2356	PERSON	Planas	445
+2357	PERSON	Gonzalo Rubén Bergessio	446
+2358	LOCATION	Córdoba	446
+2359	LOCATION	Córdoba Province	446
+2360	PERSON	Bergessio	446
+2361	ORGANIZATION	Instituto Atlético Central Córdoba	446
+2362	PERSON	Avellaneda	446
+2363	ORGANIZATION	Estadio	446
+2364	PERSON	Estadio Domingo Perón	446
+2365	ORGANIZATION	Club Atlético River Plate	446
+2366	ORGANIZATION	Sport Lisboa	446
+2367	PERSON	Club Atlético San Lorenzo de Almagro	446
+2368	PERSON	Iván Alexis Pillud	447
+2369	LOCATION	Capitán Bermúdez	447
+2370	PERSON	Pillud	447
+2371	PERSON	Raphael Martinho Alves de Lima	448
+2372	PERSON	Raphael Martinho	448
+2373	PERSON	A. Martinho	448
+2374	ORGANIZATION	Paulista	448
+2375	LOCATION	Monte Alegre	448
+2376	LOCATION	Paulista	448
+2377	ORGANIZATION	Paulista FC	448
+2378	ORGANIZATION	Monte Alegre FC	448
+2379	PERSON	Rafael Serrano	448
+2380	PERSON	Martinho	448
+2381	ORGANIZATION	Campeonato Paulista	448
+2382	PERSON	Calcio Catania	448
+2383	PERSON	Paulista	448
+2384	PERSON	Guido Marilungo	449
+2385	PERSON	Alessandro	449
+2386	LOCATION	Montegranaro	449
+2387	LOCATION	Fermo	449
+2388	PERSON	Marche	449
+2389	PERSON	Silvio Pagliari	449
+2390	PERSON	Campionato Primavera	449
+2391	PERSON	Marilungo	449
+2392	PERSON	Javier 'Javi	450
+2393	PERSON	Lara Grande	450
+2394	LOCATION	Montoro	450
+2395	ORGANIZATION	Lucena CF	450
+2396	PERSON	Emerson Palmieri dos Santos	451
+2397	LOCATION	Santos	451
+2398	PERSON	Emerson Palmieri	451
+2399	ORGANIZATION	Santos FC	451
+2400	ORGANIZATION	XV de Piracicaba	451
+2401	PERSON	Riccardo Cazzola	452
+2402	LOCATION	Sambenedettese	452
+2403	ORGANIZATION	Perugia Calcio	452
+2404	PERSON	Pro Vastese	452
+2405	PERSON	Arezzo Calcio	452
+2406	LOCATION	Olbia Calcio	452
+2407	PERSON	Juan Manuel Sanchez Miño	453
+2408	ORGANIZATION	Boca Juniors of the Argentine Primera División	453
+2409	PERSON	Sanchez Miño	453
+2410	PERSON	Boca Juniors	453
+2411	LOCATION	San Lorenzo	453
+2412	ORGANIZATION	Arsenal de Sarandí	453
+2413	PERSON	Antonio García Aranda	454
+2414	LOCATION	Alcalá de Henares	454
+2415	PERSON	Villarreal CF B	454
+2416	PERSON	Radja Nainggolan	455
+2417	PERSON	Nainggolan	455
+2418	LOCATION	Antwerp	455
+2419	LOCATION	Indonesian	455
+2420	LOCATION	Batak	455
+2421	PERSON	Radja	455
+2422	ORGANIZATION	Piacenza Calcio	455
+2423	ORGANIZATION	Sardinians	455
+2424	PERSON	Bartosz Salamon	456
+2425	PERSON	B. Salamon	456
+2426	LOCATION	Ravenna	456
+2427	PERSON	Salamon	456
+2428	PERSON	Jaime Jiménez Merlo	457
+2429	PERSON	Jaime	457
+2430	LOCATION	Valdepeñas	457
+2431	ORGANIZATION	Ciudad Real	457
+2432	PERSON	José Eduardo de Araújo	458
+2433	PERSON	Zé Eduardo	458
+2434	LOCATION	Uberaba	458
+2435	PERSON	Ze Eduardo	458
+2436	PERSON	Cruzeiro Esporte Clube Zé Eduardo	458
+2437	PERSON	Eduardo	458
+2438	ORGANIZATION	Associação Maga Esporte Clube	458
+2439	PERSON	Maga	458
+2440	ORGANIZATION	Cruzeiro	458
+2441	ORGANIZATION	AFC Ajax	458
+2442	PERSON	Associação Maga Esporte Clube	458
+2443	LOCATION	Viareggio	458
+2444	PERSON	Daniele Cacia	459
+2445	LOCATION	Cacia	459
+2446	ORGANIZATION	U.S. Lecce	459
+2447	PERSON	Júlio César Jacobi	460
+2448	PERSON	Júlio César	460
+2449	LOCATION	Guaramirim	460
+2450	LOCATION	Botafogo	460
+2451	ORGANIZATION	Sport Club Corinthians Paulista	460
+2452	PERSON	Weldon	460
+2453	PERSON	Paulo Costinha	460
+2454	PERSON	Jorge Jesus	460
+2455	PERSON	Quim	460
+2456	PERSON	José Moreira	460
+2457	LOCATION	Liverpool	460
+2458	PERSON	Sergio Canales Madrazo	461
+2459	PERSON	Canales	461
+2460	PERSON	Deportivo de La Coruña	461
+2461	PERSON	Pedro Munitis	461
+2462	PERSON	Dudu Aouate	461
+2463	PERSON	Antonio Tomás	461
+2464	ORGANIZATION	FC Honka	461
+2465	ORGANIZATION	Estadio Ramón Sánchez Pizjuán	461
+2466	LOCATION	San Mames Barria	462
+2467	LOCATION	New San Mames	462
+2468	ORGANIZATION	Bilbao International Trade Fair	462
+2469	PERSON	Patxi López	462
+2470	LOCATION	Biscay	462
+2471	PERSON	José Luis Bilbao	462
+2472	PERSON	Iñaki Azkuna	462
+2473	PERSON	Bilbao Bizkaia Kutxa	462
+2474	PERSON	Mario Fernández	462
+2475	ORGANIZATION	Royal Spanish Football Federation	462
+2476	PERSON	Ángel María Villar	462
+2477	ORGANIZATION	Athletic Club	462
+2478	PERSON	Fernando García Macua	462
+2479	ORGANIZATION	Los Rojiblancos	463
+2480	ORGANIZATION	Sporting Gijonés	463
+2481	PERSON	Anselmo López	463
+2482	PERSON	Alfonso XIII	463
+2483	ORGANIZATION	Real Sporting Club Gijonés	463
+2484	PERSON	Cristian Bustos Costa	464
+2485	PERSON	Mapou Yanga-Mbiwa	465
+2486	LOCATION	Montpellier	465
+2487	PERSON	Yanga-Mbiwa	465
+2488	LOCATION	Bangui	465
+2489	LOCATION	Central African Republic	465
+2490	LOCATION	Port-de-Bouc	465
+2491	LOCATION	Marseille	465
+2492	ORGANIZATION	Bastia	465
+2493	PERSON	Rolland Courbis	465
+2494	PERSON	Simon Makienok Christoffersen	466
+2495	ORGANIZATION	Centre Foward for Danish Superliga	466
+2496	PERSON	Makienok	466
+2497	PERSON	Brøndby	466
+2498	ORGANIZATION	Brøndby IF	466
+2499	ORGANIZATION	FC Nordsjælland	466
+2500	ORGANIZATION	Silkeborg IF	466
+2501	PERSON	Mike Jensen	466
+2502	PERSON	Sidnei Rechel da Silva Junior	467
+2503	PERSON	Sidnei	467
+2504	LOCATION	Rio Grande	467
+2505	ORGANIZATION	Sport Club Internacional	467
+2506	ORGANIZATION	Reds	467
+2507	PERSON	David Luiz	467
+2508	ORGANIZATION	Bologna Football Club	468
+2509	ORGANIZATION	Football League	468
+2510	PERSON	Emilio Arnstein	468
+2511	LOCATION	Vienna	468
+2512	LOCATION	Prague	468
+2513	ORGANIZATION	Black Star	468
+2514	LOCATION	Austria	468
+2515	PERSON	Carlo Sandoni	468
+2516	PERSON	Swissman Louis Rauch	468
+2517	PERSON	Guido Della Valle	468
+2518	PERSON	Enrico Penaglia	468
+2519	PERSON	Sergio Lampronti	468
+2520	PERSON	Leone Vincenzi	468
+2521	ORGANIZATION	Primera División of La Liga	469
+2522	ORGANIZATION	Athletic	469
+2523	ORGANIZATION	Los Leones	469
+2524	ORGANIZATION	The Lions	469
+2525	PERSON	Joseba Etxeberria	469
+2526	PERSON	Javi Martínez	469
+2527	PERSON	Biscay	469
+2528	LOCATION	Guipúzcoa	469
+2529	LOCATION	Aragon	470
+2530	ORGANIZATION	Iberia SC	470
+2531	LOCATION	El Torrero	470
+2532	ORGANIZATION	Club Atlético de Madrid	471
+2533	PERSON	La Liga	471
+2534	ORGANIZATION	Vicente Calderón	471
+2535	ORGANIZATION	Estadio La Peineta	471
+2536	PERSON	Atleti	471
+2537	ORGANIZATION	Nike	471
+2538	ORGANIZATION	Kyocera	471
+2539	PERSON	Los Colchoneros	471
+2540	ORGANIZATION	Los Indios	471
+2541	PERSON	Raúl Fernández-Cavada Mateos	472
+2542	PERSON	Rául	472
+2543	PERSON	Lezama	472
+2544	ORGANIZATION	UB Conquense	472
+2545	PERSON	Raúl	472
+2546	PERSON	Armando	472
+2547	PERSON	Gorka Iraizoz	472
+2548	LOCATION	Barça	473
+2549	PERSON	Joan Gamper	473
+2550	PERSON	Jaume Picas	473
+2551	PERSON	Josep Maria Espinàs	473
+2552	ORGANIZATION	Supercopa de España	473
+2553	PERSON	Eva Duarte	473
+2554	ORGANIZATION	Copa de la Liga	473
+2555	ORGANIZATION	Parma Football Club	474
+2556	ORGANIZATION	Parma Associazione Calcio	474
+2557	ORGANIZATION	Verdi Foot Ball Club	474
+2558	ORGANIZATION	Stadio Ennio Tardini	474
+2559	PERSON	Calisto Tanzi	474
+2560	PERSON	Mario Angel Paglialunga	475
+2561	PERSON	A. Paglialunga	475
+2562	PERSON	Paglialunga	475
+2563	PERSON	Velez Sarsfield	475
+2564	PERSON	Mario	475
+2565	PERSON	Borja Ekiza Imaz	476
+2566	PERSON	Ekiza	476
+2567	PERSON	CD Baskonia	476
+2568	PERSON	Fernando Amorebieta	476
+2569	PERSON	Aitor Ocio	476
+2570	PERSON	Ustaritz	476
+2571	PERSON	Iago Aspas Juncal	477
+2572	LOCATION	Moaña	477
+2573	PERSON	Aspas	477
+2574	PERSON	Leonardo Ulloa	477
+2575	PERSON	Dany Achille Nounkeu Tchounkeu	478
+2576	ORGANIZATION	Galatasaray	478
+2577	PERSON	Nounkeu	478
+2578	LOCATION	Collège Vogt Atletic	478
+2579	PERSON	Yaoundé	478
+2580	ORGANIZATION	FC Metz	478
+2581	ORGANIZATION	CSO Amnéville	478
+2582	LOCATION	Pau	478
+2583	ORGANIZATION	Toulouse FC	478
+2584	LOCATION	Galatasaray	478
+2585	ORGANIZATION	Lions Indomptables	478
+2586	PERSON	Winfried Schäfer	478
+2587	ORGANIZATION	Stadio Filadelfia	479
+2588	PERSON	Giancarlo González	481
+2589	LOCATION	Alajuelense	481
+2590	ORGANIZATION	Vålerenga Fotball	481
+2591	PERSON	Nicolás Hernán Gonzalo Otamendi	482
+2592	LOCATION	Portuguese Liga	482
+2593	PERSON	Otamendi	482
+2594	PERSON	Vélez Sársfield	482
+2595	ORGANIZATION	Rosario Central	482
+2596	PERSON	Hugo Tocalli	482
+2597	PERSON	Tocalli	482
+2598	PERSON	Mariano Uglessich	482
+2599	PERSON	Waldo Ponce	482
+2600	PERSON	Fernando Tobio	482
+2601	PERSON	Marco Torsiglieri	482
+2602	PERSON	Ricardo Gareca	482
+2603	PERSON	Sebastián Domínguez	482
+2604	LOCATION	Vélez	482
+2605	PERSON	Ciprian Tătăruşanu	483
+2606	ORGANIZATION	Società Sportiva Lazio	484
+2607	LOCATION	Derby	484
+2608	ORGANIZATION	Valencia Club	486
+2609	ORGANIZATION	València Club de Futbol	486
+2610	ORGANIZATION	Los Che	486
+2611	ORGANIZATION	Real Madrid C.F.	487
+2612	ORGANIZATION	Juventus Football Club S.p.A.	488
+2613	ORGANIZATION	JUVE	488
+2614	ORGANIZATION	Sport Club Juventus	488
+2615	PERSON	Eugenio Canfari	488
+2616	PERSON	Enrico	488
+2617	PERSON	Agnelli	488
+2618	PERSON	Javier Pedro Saviola Fernández	489
+2619	PERSON	Saviola	489
+2620	PERSON	Buenos Aires-born Saviola	489
+2621	ORGANIZATION	Union	489
+2622	ORGANIZATION	Hellas Verona Football Club	490
+2623	PERSON	Mastini	490
+2624	PERSON	Scaligeri	490
+2625	ORGANIZATION	Della Scala	490
+2626	PERSON	Veronese	490
+2627	PERSON	Chievo Verona	490
+2628	PERSON	Scala	490
+2629	LOCATION	Cangrande della Scala	490
+2630	ORGANIZATION	Stadio Marcantonio Bentegodi	490
+2631	ORGANIZATION	Football Club Internazionale Milano S.p.A.	491
+2632	PERSON	Stadio Giuseppe Meazza	491
+2633	PERSON	Madonnina	491
+2634	PERSON	Gerard Deulofeu Lázaro	492
+2635	LOCATION	Riudarenes	492
+2636	LOCATION	Girona	492
+2637	PERSON	Deulofeu	492
+2638	PERSON	Eduard Oriol	492
+2639	LOCATION	Guadalajara	492
+2640	PERSON	Club América	492
+2641	PERSON	David Villa	492
+2642	PERSON	Alessandro Micai	493
+2643	PERSON	Associazione Calcio Chievo Verona	494
+2644	PERSON	Paluani	494
+2645	PERSON	Paluani Chievo	494
+2646	PERSON	Gialloblu	494
+2647	PERSON	Mussi	494
+2648	LOCATION	Bentegodi	494
+2649	PERSON	Luigi Carillo	495
+2650	PERSON	Francesco Bardi	496
+2651	PERSON	Bardi	496
+2652	PERSON	Raffaele Di Gennaro	496
+2653	PERSON	Simone	496
+2654	PERSON	Luca Siligardi	496
+2655	PERSON	Diego Perotti	497
+2656	LOCATION	Moreno	497
+2657	ORGANIZATION	Sevilla FC in La Liga	497
+2658	PERSON	Perotti	497
+2659	PERSON	Diego Capel	497
+2660	PERSON	Capel	497
+2661	ORGANIZATION	PFC CSKA Moscow	497
+2662	ORGANIZATION	Stadio Artemio Franchi	498
+2663	PERSON	Viola	498
+2664	ORGANIZATION	Associazione Calcio Fiorentina	498
+2665	ORGANIZATION	National Fascist Party	498
+2666	PERSON	Luigi Ridolfi	498
+2667	ORGANIZATION	Associazione Calcio Milan	499
+2668	PERSON	Herbert Kilpin	499
+2669	PERSON	Alfred Edwards	499
+2670	PERSON	Gabriele Moncini	500
+2671	PERSON	Mario Mandžukić	501
+2672	PERSON	Mandžukić	501
+2673	LOCATION	Ditzingen	501
+2674	LOCATION	Stuttgart	501
+2675	LOCATION	Marsonia	501
+2676	LOCATION	Zagreb	501
+2677	PERSON	Miroslav Blažević	501
+2678	PERSON	Eduardo da Silva	501
+2679	ORGANIZATION	Dinamo	501
+2680	PERSON	Alan Arario	502
+2681	PERSON	Guillermo Daniel Rodríguez Pérez	503
+2682	PERSON	Rodríguez	503
+2683	PERSON	Danubio	503
+2684	LOCATION	Lens of France	503
+2685	ORGANIZATION	Independiente	503
+2686	PERSON	Dario Del Fabro	504
+2687	PERSON	Carlos Mario Carbonero Mancilla	505
+2688	LOCATION	Bogotá Colombia	505
+2689	LOCATION	Estudiantes de La Plata	505
+2690	LOCATION	Colombia	505
+2691	PERSON	Achille Coser	506
+2692	PERSON	Novara Calcio	506
+2693	PERSON	Coser	506
+2694	PERSON	Paolo Acerbis	506
+2695	PERSON	Acerbis	506
+2696	PERSON	Paolo Ginestra	506
+2697	LOCATION	Triestina	506
+2698	PERSON	Antonio Narciso	506
+2699	ORGANIZATION	Lega Pro Seconda Divisione	506
+2700	PERSON	Antonio Amaya Carazo	507
+2701	PERSON	Amaya	507
+2702	LOCATION	San Cristóbal	507
+2703	ORGANIZATION	UD	507
+2704	PERSON	Reyes	507
+2705	PERSON	Mohamed Diamé	507
+2706	LOCATION	Blackpool	507
+2707	ORGANIZATION	Wigan	507
+2708	PERSON	Gabriele Perico	508
+2709	PERSON	Perico	508
+2710	PERSON	Prato	508
+2711	LOCATION	Prato	508
+2712	PERSON	Mauro Belotti	508
+2713	PERSON	Alessandro Diamanti	508
+2714	ORGANIZATION	Primavera	508
+2715	PERSON	Joelson	508
+2716	PERSON	Mauro Minelli	508
+2717	PERSON	Simon Laner	508
+2718	PERSON	Andrea Cocco	508
+2719	PERSON	Stefano Lucchini	509
+2720	PERSON	Lucchini	509
+2721	LOCATION	Cremonese	509
+2722	PERSON	Daniele Gastaldello	509
+2723	PERSON	Massimo Volta	509
+2724	PERSON	Volta	509
+2725	PERSON	Hugo Fraile Martínez	510
+2726	PERSON	Alessio Romagnoli	511
+2727	PERSON	Bruno Zuculini	512
+2728	ORGANIZATION	Córdoba CF	512
+2729	PERSON	Luis Fariña	513
+2730	PERSON	Gerónimo Rulli	514
+2731	PERSON	Marc-André ter Stegen	515
+2732	PERSON	Borussia Mönchengladbach	515
+2733	PERSON	Stegen	515
+2734	ORGANIZATION	Borussia Mönchengladbach	515
+2735	PERSON	Mönchengladbach	515
+2736	PERSON	Michael Frontzeck	515
+2737	PERSON	Lucien Favre	515
+2738	PERSON	Logan Bailly	515
+2739	PERSON	Roger Martí Salvador	516
+2740	PERSON	Roger	516
+2741	PERSON	Juanlu	516
+2742	PERSON	Xavi Torres	516
+2743	PERSON	José Ángel Alonso Martín	517
+2744	PERSON	José Ángel	517
+2745	ORGANIZATION	Elche CF	517
+2746	PERSON	Lorenzo Saporetti	518
+2747	PERSON	Jorge Luiz Frello	519
+2748	PERSON	Jorginho	519
+2749	PERSON	Álvaro Negredo Sánchez	520
+2750	PERSON	Negredo	520
+2751	PERSON	Fabio Capello	520
+2752	PERSON	Pedro Mosquera Parada	521
+2753	PERSON	Mosquera	521
+2754	LOCATION	Santa María	521
+2755	PERSON	Xabi Alonso	521
+2756	ORGANIZATION	VFL Osnabrück	521
+2757	PERSON	Luis García	521
+2758	LOCATION	Cornellà	522
+2759	LOCATION	Dublin	522
+2760	ORGANIZATION	Estadi Cornellà-El Prat	522
+2761	PERSON	Daniel Jarque	522
+2762	ORGANIZATION	The Black Eyed Peas	522
+2763	PERSON	Adrián González Morales	523
+2764	PERSON	Adrián	523
+2765	PERSON	Víctor Muñoz	523
+2766	PERSON	Gamberini	524
+2767	PERSON	Alex Pederzoli	524
+2768	PERSON	Giacomo Cipriani	524
+2769	PERSON	Jonatan Binotto	524
+2770	PERSON	Michał Chrapek	525
+2771	LOCATION	Jaworzno	525
+2772	PERSON	Kolejarz Stróże	525
+2773	PERSON	Chrapek	525
+2774	LOCATION	Młoda Ekstraklasa	525
+2775	LOCATION	Wisła Kraków	525
+2776	PERSON	Marios Oikonomou	526
+2777	PERSON	Estadio Teresa Rivero	527
+2778	PERSON	Ivan Ricardo Neves Abreu Cavaleiro	528
+2779	PERSON	Alfred Duncan	529
+2780	PERSON	Antonio Rozzi	530
+2781	PERSON	Rozzi	530
+2782	PERSON	Casal Monastero	530
+2783	PERSON	Lodigiani	530
+2784	LOCATION	Lodigiani	530
+2785	PERSON	Tommaso Rocchi	530
+2786	PERSON	Carlos Javier Acuña Caballero	531
+2787	LOCATION	Encarnación	531
+2788	PERSON	Acuña	531
+2789	PERSON	Cádiz CF	531
+2790	PERSON	Cádiz	531
+2791	LOCATION	UD Salamanca	531
+2792	PERSON	Ânderson Miguel da Silva	532
+2793	PERSON	Nenê	532
+2794	ORGANIZATION	Cruzeiro Esporte Clube	532
+2795	ORGANIZATION	Calcio Catania	532
+2796	PERSON	David Ferreiro Quiroga	533
+2797	PERSON	Enrique González Casín	534
+2798	PERSON	Ibrahima Mbaye	535
+2799	PERSON	Adel Taarabt	536
+2800	ORGANIZATION	Queens Park Rangers	536
+2801	ORGANIZATION	QPR	536
+2802	PERSON	Harry Redknapp	536
+2803	LOCATION	Loftus Road	536
+2804	PERSON	Neil Warnock	536
+2805	LOCATION	Morocco	536
+2806	PERSON	Taarabt	536
+2807	PERSON	Bouches-du-Rhône	536
+2808	PERSON	Oleksandr Pavlovych Yakovenko	537
+2809	LOCATION	Kiev	537
+2810	LOCATION	Ukrainian	537
+2811	ORGANIZATION	Belgian Jupiler Pro League	537
+2812	LOCATION	Leuven	537
+2813	ORGANIZATION	FC Metalist Kharkiv	537
+2814	ORGANIZATION	SK Lierse	537
+2815	PERSON	Alexander Yakovenko	537
+2816	PERSON	Oleksandr Iakovenko	537
+2817	LOCATION	Anderlecht	537
+2818	LOCATION	Westerlo	537
+2819	PERSON	Iakovenko	537
+2820	LOCATION	Oud-Heverlee Leuven	537
+2821	PERSON	Pavlo Yakovenko	537
+2822	PERSON	Yuriy Yakovenko	537
+2823	PERSON	Vrsaljko	538
+2824	PERSON	Luka Modrić	538
+2825	LOCATION	Zadar	538
+2826	ORGANIZATION	HNK Rijeka	538
+2827	PERSON	Juan Surraco	539
+2828	PERSON	Surraco	539
+2829	ORGANIZATION	Uruguayan National Football Team	539
+2830	LOCATION	Jordan	539
+2831	LOCATION	Zambia	539
+2832	LOCATION	United States of America	539
+2833	PERSON	Cavani	539
+2834	PERSON	Andrea Pisanu	540
+2835	PERSON	Pisanu	540
+2836	PERSON	Hellas Verona F.C	540
+2837	PERSON	Marco Fanna	540
+2838	PERSON	Francesco Valiani	540
+2839	PERSON	Valiani	540
+2840	PERSON	Luigi Sepe	541
+2841	PERSON	Torre del Greco	541
+2842	PERSON	Sepe	541
+2843	PERSON	Gianello	541
+2844	PERSON	Gennaro Iezzo	541
+2845	PERSON	Nicolás Navarro	541
+2846	PERSON	Matteo Gianello	541
+2847	ORGANIZATION	Morgan De Sanctis	541
+2848	PERSON	Iezzo	541
+2849	PERSON	Simone Colombi	541
+2850	PERSON	Colombi	541
+2851	PERSON	Adama Touré	542
+2852	PERSON	Motta	543
+2853	LOCATION	Merate	543
+2854	PERSON	Riccardo Montolivo	543
+2855	PERSON	Damiano Zenoni	543
+2856	PERSON	Massimo Gotti	543
+2857	PERSON	Piermario Morosini	543
+2858	PERSON	Fausto Rossini	543
+2859	PERSON	Michele Rinaldi	543
+2860	PERSON	Thomas Manfredini	543
+2861	PERSON	Antonino D'Agostino	543
+2862	PERSON	Udinese Calcio	543
+2863	PERSON	Davide Astori	544
+2864	LOCATION	Pizzighettone	544
+2865	PERSON	Astori	544
+2866	PERSON	Pizzighettone	544
+2867	ORGANIZATION	Cremonese	544
+2868	PERSON	Marco Marchionni	545
+2869	PERSON	Monterotondo	545
+2870	PERSON	Cesare Prandelli	545
+2871	PERSON	Marchionni	545
+2872	PERSON	Marco Silvestri	546
+2873	LOCATION	Castelnovo	546
+2874	PERSON	Monti	546
+2875	ORGANIZATION	Reggio Emilia	546
+2876	PERSON	Silvestri	546
+2877	ORGANIZATION	Emilia	546
+2878	PERSON	Stefano Sorrentino	546
+2879	ORGANIZATION	Reggiana	546
+2880	PERSON	Niccolò Manfredini	546
+2881	PERSON	Niccolò Bellucci	546
+2882	PERSON	Francesco Rocca	546
+2883	PERSON	Antonio Piccolo	546
+2884	PERSON	Cristiano Piccini	547
+2885	PERSON	Manuel Pasqual	547
+2886	PERSON	Alessandro Ligi	548
+2887	PERSON	Víctor Camarasa Ferrando	549
+2888	PERSON	Roberto Guana	550
+2889	PERSON	Roberto	550
+2890	LOCATION	Brescia Calcio	550
+2891	PERSON	Daniele Adani	550
+2892	PERSON	Guana	550
+2893	PERSON	Francesco Parravicini	550
+2894	PERSON	Alberto Fontana	550
+2895	PERSON	Davide Ballardini	550
+2896	PERSON	Andrea Raggi	550
+2897	LOCATION	Quartu Sant'Elena	551
+2898	LOCATION	Stadio Sant'Elia	551
+2899	PERSON	Mariano Julio Izco	552
+2900	PERSON	Izco	552
+2901	ORGANIZATION	Club Atlético San Telmo	552
+2902	PERSON	Club Almagro	552
+2903	PERSON	Almagro	552
+2904	ORGANIZATION	Club Atlético Tigre	552
+2905	PERSON	Pablo Daniel Osvaldo	553
+2906	PERSON	Osvaldo	553
+2907	ORGANIZATION	Club Atlético Huracán	553
+2908	PERSON	Juan Carlos Paredes Reasco	554
+2909	LOCATION	Esmeraldas	554
+2910	LOCATION	Deportivo Quito	554
+2911	PERSON	Paredes	554
+2912	LOCATION	Deportivo Cuenca	554
+2913	ORGANIZATION	Rocafuerte FC of Ecuador	554
+2914	LOCATION	Cuenca	554
+2915	PERSON	Javier Hernández Balcázar	555
+2916	LOCATION	Jalisco	555
+2917	PERSON	Javier Hernández Gutiérrez	555
+2918	PERSON	Haris Medunjanin	556
+2919	ORGANIZATION	Tel Aviv F.C	556
+2920	LOCATION	Israel	556
+2921	PERSON	Medunjanin	556
+2922	LOCATION	Sarajevo	556
+2923	LOCATION	Sparta Rotterdam	556
+2924	LOCATION	Maccabi Tel Aviv F.C	556
+2925	PERSON	FK Mogren	556
+2926	PERSON	Romano Perticone	557
+2927	LOCATION	Melzo	557
+2928	LOCATION	Modena F.C	557
+2929	PERSON	Perticone	557
+2930	PERSON	Marcus Diniz	557
+2931	PERSON	Diniz	557
+2932	PERSON	Mauricio Ricardo Pinilla Ferrera	558
+2933	LOCATION	Universidad de Chile	558
+2934	PERSON	Pinilla	558
+2935	ORGANIZATION	Sporting Clube de Braga	558
+2936	PERSON	Souleymane	559
+2937	PERSON	Bamba	559
+2938	LOCATION	Leicester City	559
+2939	LOCATION	Ivory Coast	559
+2940	ORGANIZATION	Dunfermline Athletic	559
+2941	PERSON	Jim Leishman	559
+2942	PERSON	Lucas Evangelista Santana de Oliveira	560
+2943	LOCATION	Vallo	561
+2944	PERSON	Lucania	561
+2945	PERSON	Emilio	561
+2946	PERSON	Franca	561
+2947	LOCATION	Moio della Civitella	561
+2948	PERSON	Cristian	561
+2949	PERSON	Bartolomeo	561
+2950	PERSON	Angelo	561
+2951	PERSON	Molinaro	561
+2952	PERSON	Salernitana	561
+2953	PERSON	Salih Uçan	562
+2954	LOCATION	Marmaris	562
+2955	PERSON	Salih	562
+2956	ORGANIZATION	Besiktas	562
+2957	ORGANIZATION	Fenerbahce	562
+2958	PERSON	Fenerbahçe	562
+2959	LOCATION	Uçan	562
+2960	PERSON	Pedro Henrique de Castro Silva	563
+2961	LOCATION	Volta Redonda	563
+2962	PERSON	Copa São Paulo Futebol Júnior	563
+2963	PERSON	Alessio Sestu	564
+2964	PERSON	Sestu	564
+2965	ORGANIZATION	A.C. Siena	564
+2966	PERSON	Domenico Maietta	565
+2967	PERSON	Ervin Zukanović	566
+2968	LOCATION	Bosnian	566
+2969	PERSON	Zukanović	566
+2970	ORGANIZATION	FK Željezničar	566
+2971	LOCATION	Bosnia	566
+2972	LOCATION	Herzegovina	566
+2973	PERSON	Dender	566
+2974	PERSON	Emiliano Adrián Insúa Zapata	567
+2975	PERSON	Insúa	567
+2976	PERSON	Pinocho	567
+2977	LOCATION	Buenos Aires-based	567
+2978	LOCATION	La Bombonera	567
+2979	PERSON	Frank Mc Parland	567
+2980	PERSON	Paddy Murphy	567
+2981	LOCATION	Boca	567
+2982	ORGANIZATION	Merseyside	567
+2983	PERSON	Gabriel Paletta	567
+2984	PERSON	Fernando Pacheco Flores	568
+2985	ORGANIZATION	Extremadura	568
+2986	PERSON	Pacheco	568
+2987	PERSON	Antonio Adán	568
+2988	ORGANIZATION	SD Ponferradina	568
+2989	PERSON	Enzo Pablo Andía Roco	569
+2990	PERSON	Primera División	569
+2991	PERSON	Daniele Vantaggiato	570
+2992	LOCATION	Padova	570
+2993	PERSON	Vantaggiato	570
+2994	PERSON	Davide Moscardelli	570
+2995	PERSON	Jeda	570
+2996	PERSON	Francesco Lunardini	570
+2997	PERSON	Davide Matteini	570
+2998	PERSON	Daniele Paponi	570
+2999	PERSON	Blerim Džemaili	570
+3000	PERSON	Albano Benjamín Bizzarri	571
+3001	LOCATION	Villa María	571
+3002	PERSON	Bizzarri	571
+3003	ORGANIZATION	La Liga powerhouse Real Madrid	571
+3004	PERSON	Bodo Illgner	571
+3005	PERSON	Walter Zenga	571
+3006	PERSON	Alessandro Iacobucci	572
+3007	PERSON	Iacobucci	572
+3008	PERSON	Renato Curi Angolana	572
+3009	PERSON	Curi Angolana	572
+3010	PERSON	Alberto Creati	572
+3011	PERSON	Ferdinando Coppola	572
+3012	PERSON	Richard Marcone	572
+3013	PERSON	Simone Farelli	572
+3014	ORGANIZATION	South Tyrol	572
+3015	PERSON	Michał Miśkiewicz	572
+3016	LOCATION	South Tyrol	572
+3017	PERSON	Davide Zomer	572
+3018	PERSON	Massimo Piscedda	572
+3019	PERSON	Antonio Rocca	572
+3020	PERSON	Roberto Canella Suárez	573
+3021	LOCATION	Laviana	573
+3022	PERSON	Canella	573
+3023	PERSON	Cristian Daniel Ansaldi	574
+3024	PERSON	Rubin Kazan	574
+3025	PERSON	Ansaldi	574
+3026	PERSON	Lionel Messi	574
+3027	PERSON	Adrián Daniel Calello	575
+3028	LOCATION	Independiente	575
+3029	PERSON	Calello	575
+3030	PERSON	Gastón Machín	575
+3031	PERSON	Riccardo Meggiorini	576
+3032	PERSON	Meggio	576
+3033	PERSON	Meggiorini	576
+3034	LOCATION	Bovolone	576
+3035	ORGANIZATION	Verona Province	576
+3036	PERSON	Hernán Paolo Dellafiore	576
+3037	LOCATION	Pavia	576
+3038	PERSON	Cittadella	576
+3039	PERSON	Diego Milito	576
+3040	PERSON	Thiago Motta	576
+3041	PERSON	Robert Acquafresca	576
+3042	PERSON	Francesco Bolzoni	576
+3043	PERSON	Ivan Fatic	576
+3044	PERSON	Keisuke Honda	577
+3045	PERSON	Honda Keisuke	577
+3046	ORGANIZATION	CSKA Moscow	577
+3047	LOCATION	Japan	577
+3048	ORGANIZATION	Honda	577
+3049	LOCATION	Settsu	577
+3050	LOCATION	Osaka Prefecture	577
+3051	ORGANIZATION	Settsu FC	577
+3052	ORGANIZATION	Seiryo High School	577
+3053	LOCATION	Ishikawa Prefecture	577
+3054	ORGANIZATION	All Japan High School Soccer Tournament	577
+3055	ORGANIZATION	JFA	577
+3056	ORGANIZATION	Nagoya Grampus	577
+3057	LOCATION	Nagoya	577
+3058	PERSON	Aritz López Garai	578
+3059	LOCATION	Barakaldo	578
+3060	PERSON	López Garai	578
+3061	ORGANIZATION	Bilbao	578
+3062	ORGANIZATION	Gernika Club	578
+3063	PERSON	Stefan de Vrij	579
+3064	LOCATION	Ouderkerk	579
+3065	PERSON	De Vrij	579
+3066	LOCATION	South Holland	579
+3067	PERSON	Jan de Vrij	579
+3068	PERSON	Niels	579
+3069	PERSON	Eric	579
+3070	ORGANIZATION	ARC	579
+3071	PERSON	Maxime Lestienne	580
+3072	LOCATION	Mouscron	580
+3073	PERSON	Mouscron Lestienne	580
+3074	PERSON	Asanda Sishuba	580
+3075	ORGANIZATION	Everton F.C	580
+3076	PERSON	Lestienne	580
+3077	PERSON	Mateus Alberto Contreiras Gonçalves	581
+3078	LOCATION	Luanda	581
+3079	PERSON	Manucho	581
+3080	ORGANIZATION	Petro Atletico	581
+3081	LOCATION	UK	581
+3082	LOCATION	Old Trafford	581
+3083	ORGANIZATION	Hull City	581
+3084	LOCATION	Flamenguinhos	581
+3085	LOCATION	Terra Nova	581
+3086	PERSON	Alberto Gonçalves	581
+3087	LOCATION	Vibo Valentia	582
+3088	PERSON	Floccari	582
+3089	PERSON	Nicotera	582
+3090	LOCATION	Catanzaro	582
+3091	PERSON	Avezzano	582
+3092	PERSON	Promozione	582
+3093	LOCATION	Montebelluna	582
+3094	PERSON	Faenza	582
+3095	LOCATION	Faenza	582
+3096	PERSON	Carlo Regno	582
+3097	PERSON	B. Floccari	582
+3098	PERSON	Welliton Soares de Morais	583
+3099	LOCATION	Conceição	583
+3100	LOCATION	Araguaia	583
+3101	PERSON	Welliton	583
+3102	LOCATION	Russia	583
+3103	PERSON	Aleksandr Mostovoi	583
+3104	ORGANIZATION	Rubin	583
+3105	LOCATION	Spartak	583
+3106	LOCATION	Spartak Nalchik	583
+3107	PERSON	Antonio Mazzotta	584
+3108	PERSON	Mazzotta	584
+3109	LOCATION	Eccellenza Sicily	584
+3110	LOCATION	Kamarat	584
+3111	PERSON	B. Mazzotta	584
+3112	LOCATION	Hungary	584
+3113	PERSON	Manuel Pamić	585
+3114	ORGANIZATION	AC Sparta Prague	585
+3115	PERSON	Pamić	585
+3116	ORGANIZATION	NK Žminj	585
+3117	ORGANIZATION	NK Rijeka	585
+3118	ORGANIZATION	FC Red Bull Salzburg	585
+3119	ORGANIZATION	Sparta	585
+3120	PERSON	Teerasil Dangda	586
+3121	ORGANIZATION	Thai Premier League	586
+3122	ORGANIZATION	Muangthong United	586
+3123	LOCATION	Thailand	586
+3124	LOCATION	Bangkok	586
+3125	PERSON	Teerasil	586
+3126	ORGANIZATION	Assumption Thonburi College	586
+3127	ORGANIZATION	Royal Thai Air Force	586
+3128	ORGANIZATION	RTAF	586
+3129	PERSON	Raj Pracha	586
+3130	PERSON	Davide De Mitri	587
+3131	PERSON	Nicola Leali	588
+3132	ORGANIZATION	Juventus FC	588
+3133	PERSON	Leali	588
+3134	PERSON	Matteo Sereni	588
+3135	LOCATION	Bresica	588
+3136	PERSON	Andrea Caroppo	588
+3137	PERSON	Michele Arcari	588
+3138	PERSON	Sergio Viotti	588
+3139	PERSON	Michal Hrivnak	588
+3140	LOCATION	Clinica Fornaca	588
+3141	ORGANIZATION	Istituto di Medicina	588
+3142	PERSON	Rodrigo Sebastián Aguirre Soto	589
+3143	PERSON	Rodrigo Aguirre	589
+3144	PERSON	Cubero	589
+3145	PERSON	Milan Badelj	590
+3146	LOCATION	NK Zagreb	590
+3147	PERSON	Badelj	590
+3148	PERSON	Thomas Mangani	591
+3149	LOCATION	Carpentras	591
+3150	LOCATION	Vaucluse	591
+3151	PERSON	Jesús Gámez Duarte	592
+3152	LOCATION	Fuengirola	592
+3153	PERSON	Málaga	592
+3154	PERSON	Gámez	592
+3155	PERSON	Gerardo	592
+3156	PERSON	Francesc Arnau	592
+3157	PERSON	Abdoulwahid Sissoko	593
+3158	LOCATION	Troyes	593
+3159	ORGANIZATION	Paris St-Germain	593
+3160	PERSON	Mohamed Sissoko	593
+3161	ORGANIZATION	Stade Brest	593
+3162	PERSON	Alessandro Carrozza	594
+3163	LOCATION	Gallipoli	594
+3164	PERSON	A. Carrozza	594
+3165	LOCATION	Gallipoli Calcio	594
+3166	PERSON	Giuseppe De Luca	595
+3167	PERSON	De Luca	595
+3168	PERSON	Simone Dell'Agnello	595
+3169	PERSON	Ciro Ferrara	595
+3170	LOCATION	Pau López Sabata	596
+3171	PERSON	Ali Sowe	597
+3172	PERSON	Timothée Kolodziejczak	598
+3173	PERSON	Kolodziejczak	598
+3174	LOCATION	Pas-de-Calais	598
+3175	ORGANIZATION	US Saint-Maurice Loos	598
+3176	ORGANIZATION	CS Avion	598
+3177	PERSON	Gaël Kakuta	598
+3178	LOCATION	Liévin	598
+3179	PERSON	Andrea Consigli	599
+3180	PERSON	Consigli	599
+3181	PERSON	Pierluigi Casiraghi	599
+3182	PERSON	Emiliano Viviano	599
+3183	PERSON	Derek Owusu Boateng	600
+3184	ORGANIZATION	Dnipro Dnipropetrovsk	600
+3185	PERSON	Boateng	600
+3186	LOCATION	Greater Accra	600
+3187	ORGANIZATION	Liberty Professionals	600
+3188	ORGANIZATION	Greek Super League	600
+3189	ORGANIZATION	OFI Crete	600
+3190	ORGANIZATION	AIK	600
+3191	LOCATION	Beitar Jerusalem	600
+3192	PERSON	Beitar Jerusalem	600
+3193	PERSON	Thievy Guivane Bifouma Koulossa	601
+3194	LOCATION	Saint-Denis	601
+3195	PERSON	Thievy	601
+3196	PERSON	Joan Verdú	601
+3197	LOCATION	Copa Catalunya	601
+3198	PERSON	Albert Riera Ortega	602
+3199	ORGANIZATION	Galatasaray SK	602
+3200	PERSON	Riera	602
+3201	LOCATION	Manacor	602
+3202	ORGANIZATION	FC Girondins de Bordeaux	602
+3203	PERSON	Felipe Salvador Caicedo Corozo	603
+3204	LOCATION	Guayaquil	603
+3205	ORGANIZATION	Lokomotiv Moscow	603
+3206	PERSON	Caicedo	603
+3207	ORGANIZATION	Swiss Super League	603
+3208	ORGANIZATION	FC Basel	603
+3209	LOCATION	Rocafuerte	603
+3210	LOCATION	Basel	603
+3211	PERSON	Adriano	603
+3212	PERSON	Alejandro Darío Gómez	604
+3213	PERSON	A. Gómez	604
+3214	PERSON	San Lorenzo de Almagro	604
+3215	PERSON	Gastón Sauro	605
+3216	PERSON	Hachim Mastour	606
+3217	PERSON	Ibrahim Sissoko	607
+3218	ORGANIZATION	VfL Wolfsburg	607
+3219	LOCATION	Portuguese Primeira Liga	607
+3220	PERSON	Campos de Sport de El Sardinero	608
+3221	LOCATION	Estadio El Sardinero	608
+3222	PERSON	Estadio José Rico Pérez	609
+3223	PERSON	Estadio José Zorrilla	610
+3224	PERSON	José Zorrilla	610
+3225	PERSON	Jorge Alonso	610
+3226	PERSON	Estadio Zorilla	610
+3227	ORGANIZATION	Valladolid Arena	610
+3228	ORGANIZATION	Estadio El Madrigal	611
+3229	ORGANIZATION	Villarreal CF of La Liga	611
+3230	PERSON	Campo del Villarreal	611
+3231	ORGANIZATION	Feudo Amarillo	611
+3232	LOCATION	Plaza Labrador	611
+3233	LOCATION	Mediterranean Sea	611
+3234	ORGANIZATION	ONO Estadi	612
+3235	ORGANIZATION	Valero	612
+3236	LOCATION	Palma de Mallorca Airport	612
+3237	PERSON	David Emilio Mainz Navarro	613
+3238	LOCATION	Huesca	613
+3239	ORGANIZATION	Estadio Manuel Martinez Valero	614
+3240	LOCATION	Liga Adelante	614
+3241	PERSON	Manuel Martinez Valero	614
+3242	PERSON	Juan Boix Matarredona	614
+3243	ORGANIZATION	Mexican National Team	614
+3244	PERSON	Finarolli	614
+3245	PERSON	Orellana	614
+3246	PERSON	Gomez Voglino	614
+3247	PERSON	Jorge Sammir Cruz Campos	615
+3248	PERSON	Sammir	615
+3249	LOCATION	Rijeka	615
+3250	PERSON	Slaven Belupo	615
+3251	PERSON	Jhon Córdoba	616
+3252	PERSON	Didier Drogba	616
+3253	PERSON	Filipe Augusto Carvalho Souza	617
+3254	PERSON	Gabriel Appelt Pires	618
+3255	PERSON	Gabriel	618
+3256	PERSON	Bruno da Silva Peres	619
+3257	PERSON	Bruno Peres	619
+3258	PERSON	Urby Vitorrio Diego Emanuelson	620
+3259	LOCATION	Amsterdam	620
+3260	PERSON	Martin Jol	620
+3261	PERSON	Johan Cruijff-schaal	620
+3262	ORGANIZATION	KNVB	620
+3263	PERSON	Gai Yigaal Assulin	621
+3264	PERSON	Assulin	621
+3265	LOCATION	Nahariya	621
+3266	LOCATION	Hapoel Haifa	621
+3267	PERSON	Shlomo Scharf	621
+3268	ORGANIZATION	Barcelona B	621
+3269	PERSON	Sant Andreu	621
+3270	PERSON	Răzvan Dincă Raţ	622
+3271	ORGANIZATION	Shakhtar	622
+3272	PERSON	Raţ	622
+3273	LOCATION	Piatra-Olt	622
+3274	ORGANIZATION	Rapid Piatra-Olt	622
+3275	PERSON	Vlada Avramov	623
+3276	LOCATION	Novi Sad	623
+3277	PERSON	Avramov	623
+3278	ORGANIZATION	First League of FR Yugoslavia	623
+3279	LOCATION	Azerbaijan	623
+3280	PERSON	Vladimir Stojković	623
+3281	PERSON	Nicola Belmonte	624
+3282	PERSON	Belmonte	624
+3283	PERSON	Andrea Ranocchia	624
+3284	PERSON	Marco Rossi	624
+3285	PERSON	Andrea Masiello	624
+3286	PERSON	Kamil Glik	624
+3287	PERSON	Glik	624
+3288	PERSON	Siena	624
+3289	PERSON	Pedro Kamata	624
+3290	PERSON	Filippo Carobbio	624
+3291	PERSON	Kevin Mercado	625
+3292	PERSON	Marco Antonio de Mattos Filho	626
+3293	PERSON	Marquinho	626
+3294	LOCATION	Gaúcho	626
+3295	PERSON	Vasco da Gama	626
+3296	LOCATION	Campeonato Paulista	626
+3297	LOCATION	Brasileirão	626
+3298	ORGANIZATION	Figueirense	626
+3299	ORGANIZATION	Coritiba	626
+3300	PERSON	Roberto José Rosales Altuve	627
+3301	PERSON	Rosales	627
+3302	ORGANIZATION	Caracas FC	627
+3303	PERSON	Jefferson Andrade Siqueira	628
+3304	PERSON	Jefferson	628
+3305	LOCATION	Guarulhos	628
+3306	LOCATION	Juniores	628
+3307	LOCATION	Paraná Clube	628
+3308	PERSON	Joaquín Oscar Larrivey	629
+3309	PERSON	Bati	629
+3310	PERSON	Gabriel Batistuta	629
+3311	PERSON	Larrivey	629
+3312	ORGANIZATION	Club Atlético Colón	629
+3313	PERSON	Joaquin Larrivey	629
+3314	PERSON	Alessandro Matri	629
+3315	PERSON	Birkir Bjarnason	630
+3316	LOCATION	Akureyri	630
+3317	PERSON	Birkir	630
+3318	ORGANIZATION	Sandved Elementary	630
+3319	PERSON	Sigbjørn	630
+3320	LOCATION	Figgjo	630
+3321	PERSON	Hamarkameratene	630
+3322	PERSON	Miguel Ángel Moyà Rumbo	631
+3323	LOCATION	Binissalem	631
+3324	PERSON	Moyà	631
+3325	PERSON	Toni Prats	631
+3326	PERSON	César Sánchez	631
+3327	PERSON	Daniel Parejo	631
+3328	ORGANIZATION	Granada Club de Fútbol	632
+3329	LOCATION	Granada	632
+3330	ORGANIZATION	Estadio Nuevo Los Cármenes	632
+3331	PERSON	Recreativo de Granada	632
+3332	PERSON	Julio López Fernández	632
+3333	PERSON	Deportivo Jaén	632
+3334	PERSON	Antonio Bombillar	632
+3335	ORGANIZATION	Tercera Regional	632
+3336	PERSON	Miguel Torres Gómez	633
+3337	PERSON	Écija Balompié	633
+3338	PERSON	Fabio Cannavaro	633
+3339	PERSON	Cicinho	633
+3340	PERSON	Míchel Salgado	633
+3341	PERSON	Sergio Ramos	633
+3342	PERSON	Thomas Vermaelen	634
+3343	PERSON	Robin van Persie	634
+3344	ORGANIZATION	Germinal Ekeren	634
+3345	PERSON	Germinal Beerschot	634
+3346	PERSON	Vermaelen	634
+3347	ORGANIZATION	Volendam	634
+3348	ORGANIZATION	RKC Waalwijk	634
+3349	ORGANIZATION	RKC	634
+3350	ORGANIZATION	Real Club Celta de Vigo	635
+3351	ORGANIZATION	Real Vigo Sporting	635
+3352	ORGANIZATION	Real Fortuna Foot-ball Club	635
+3353	ORGANIZATION	Aberdeen	635
+3354	PERSON	Vigo	635
+3355	ORGANIZATION	Real Racing Club de Santander	636
+3356	ORGANIZATION	Santander Racing Club	636
+3357	PERSON	Luis Redonet	636
+3358	ORGANIZATION	Northern Federation	636
+3359	ORGANIZATION	Santander Foot-ball Club	636
+3360	ORGANIZATION	Real Santander	636
+3361	PERSON	Carlos Tornero López de Lerma	637
+3362	LOCATION	San Vicente de Alcántara	637
+3363	PERSON	Ivan Rakitić	638
+3364	LOCATION	Möhlin	638
+3365	ORGANIZATION	Schalke	638
+3366	PERSON	Rakitić	638
+3367	PERSON	Luka	638
+3368	LOCATION	Sikirevci	638
+3369	LOCATION	Žepče	638
+3370	PERSON	José Manuel Jiménez Ortiz	639
+3371	ORGANIZATION	Getafe CF in La Liga	639
+3372	LOCATION	Tarifa	639
+3373	PERSON	Mané	639
+3374	PERSON	Balompédica Linense	639
+3375	PERSON	Díter Zafra	639
+3376	LOCATION	Ciudad de Murcia	639
+3377	PERSON	Guillem Balagué	639
+3378	PERSON	Ivan Martić	640
+3379	ORGANIZATION	FC St.	640
+3380	PERSON	Abdoul Karim Yoda	641
+3381	ORGANIZATION	FC Sion	641
+3382	PERSON	Joshua Brillante	642
+3383	LOCATION	Bundaberg	642
+3384	ORGANIZATION	Newcastle Jets	642
+3385	ORGANIZATION	National Youth League	642
+3386	PERSON	Brillante	642
+3387	ORGANIZATION	Gold Coast	642
+3388	PERSON	Federico Serraiocco	643
+3389	PERSON	Rubén Iván Martínez Andrade	644
+3390	PERSON	Rubén	644
+3391	LOCATION	Coristanco	644
+3392	PERSON	Víctor Valdés	644
+3393	PERSON	Albert Jorquera	644
+3394	PERSON	Xavi Hernández	644
+3395	PERSON	Valdés	644
+3396	ORGANIZATION	Racing de Ferrol	644
+3397	PERSON	Mariano Damián Barbosa	645
+3398	LOCATION	Lanús	645
+3399	ORGANIZATION	UD Las Palmas	645
+3400	PERSON	Barbosa	645
+3401	PERSON	Viera	645
+3402	PERSON	Diego López	645
+3403	PERSON	Ezequiel Rescaldani	646
+3404	LOCATION	Vélez Sársfield	646
+3405	PERSON	Rescaldani	646
+3406	PERSON	Sarmiento	646
+3407	LOCATION	Instituto	646
+3408	LOCATION	Olimpo	646
+3409	PERSON	Nicolò Barella	647
+3410	PERSON	Adilson Tavares Varela	648
+3411	LOCATION	Praia	648
+3412	PERSON	Cabral	648
+3413	ORGANIZATION	Sevilla Atlético	648
+3414	PERSON	Christian Gross	648
+3415	PERSON	Thorsten Fink	648
+3416	PERSON	Bogdan Lobonţ	648
+3417	PERSON	Antonio Vutov	649
+3418	LOCATION	Mezdra	649
+3419	ORGANIZATION	Levski Sofia	649
+3420	PERSON	Vutov	649
+3421	PERSON	Lokomotiv Mezdra	649
+3422	ORGANIZATION	Levski Sofia Academy	649
+3423	PERSON	Levski	649
+3424	ORGANIZATION	Lokomotiv Sofia	649
+3425	PERSON	Carlo Crialese	650
+3426	PERSON	Juan Francisco Moreno Fuertes	651
+3427	PERSON	Juanfran	651
+3428	PERSON	Jaime Gavilán	651
+3429	PERSON	Melker Hallberg	652
+3430	ORGANIZATION	Kalmar FF	652
+3431	PERSON	Antonio Rodríguez Martínez	653
+3432	PERSON	Toño	653
+3433	ORGANIZATION	Recreativo de Huelva	653
+3434	LOCATION	Huelva	653
+3435	PERSON	José Antonio Luque	653
+3436	PERSON	Recre	653
+3437	PERSON	Francesco Zampano	654
+3438	PERSON	Modibo Diakité	655
+3439	LOCATION	Bourg-la-Reine	655
+3440	ORGANIZATION	Hauts-de-Seine	655
+3441	PERSON	Diakité	655
+3442	PERSON	Massimo Mutarelli	655
+3443	PERSON	Andrea Belotti	656
+3444	PERSON	Antonio Romano	657
+3445	PERSON	Vallette	658
+3446	ORGANIZATION	Stadio delle Alpi	658
+3447	LOCATION	Stadio Delle Alpi	658
+3448	LOCATION	Notts County	658
+3449	PERSON	Luca Toni	658
+3450	PERSON	Fabio Quagliarella	658
+3451	PERSON	Stephan Lichtsteiner	658
+3452	PERSON	Francelino Matuzalém da Silva	659
+3453	PERSON	Matuzalém	659
+3454	ORGANIZATION	Esporte Clube Vitória	659
+3455	LOCATION	Vitória	659
+3456	LOCATION	Piacenza	659
+3457	LOCATION	Amauri	659
+3458	ORGANIZATION	Matteo Guardalben	659
+3459	PERSON	Federico Agliardi	660
+3460	PERSON	Agliardi	660
+3461	PERSON	Nicola Santoni	660
+3462	PERSON	Santoni	660
+3463	LOCATION	Agliardi	660
+3464	PERSON	David Di Michele	660
+3465	PERSON	Rosanero	660
+3466	PERSON	Cristian Ledesma	660
+3467	PERSON	Stefano Mauri	660
+3468	PERSON	Christian Manfredini	660
+3469	PERSON	Manfredini	660
+3470	PERSON	Massimo Oddo	660
+3471	PERSON	Di Michele	660
+3472	PERSON	Alexandre 'Álex	661
+3473	PERSON	Moreno Lopera	661
+3474	PERSON	Mathias Fassou Pogba	662
+3475	LOCATION	Guinea	662
+3476	LOCATION	Crawley Town	662
+3477	PERSON	Paul Pogba	662
+3478	PERSON	Grzegorz Krychowiak	663
+3479	LOCATION	Gryfice	663
+3480	ORGANIZATION	Stade de Reims	663
+3481	PERSON	Krychowiak	663
+3482	LOCATION	Reims	663
+3483	LOCATION	Bordeaux	663
+3484	PERSON	Mattia Muroni	664
+3485	PERSON	André Campos Moreira	665
+3486	ORGANIZATION	Moreirense F.C.	665
+3487	PERSON	Nicola Lancini	666
+3488	PERSON	Riccardo Improta	667
+3489	PERSON	Umberto	667
+3490	PERSON	Giancarlo Improta	667
+3491	PERSON	Aleandro Rosi	668
+3492	PERSON	Rosi	668
+3493	PERSON	José Verdú Nicolás	669
+3494	LOCATION	Santomera	669
+3495	ORGANIZATION	Panathinaikos FC	669
+3496	PERSON	Toché	669
+3497	LOCATION	Numancia	669
+3498	LOCATION	Soria	669
+3499	PERSON	Agostino Camigliano	670
+3500	PERSON	Gabriele Rocchi	671
+3501	PERSON	Andrea Razzitti	672
+3502	PERSON	Peter Dubovský	673
+3503	LOCATION	Armenia	673
+3504	PERSON	Óscar	673
+3505	PERSON	Morales	673
+3506	PERSON	Granada CF	673
+3507	LOCATION	Zaidín	673
+3508	LOCATION	Circunvalación	673
+3509	PERSON	Camino de Ronda	673
+3510	ORGANIZATION	Palacio Municipal de Deportes de Granada	673
+3511	LOCATION	Los Cármenes	673
+3512	LOCATION	Nuevo Los Cármenes	673
+3513	PERSON	Leonardo Morosini	674
+3514	PERSON	Ismail H'Maidat	675
+3515	PERSON	Mario Gargiulo	676
+3516	PERSON	Michel Fernandes Bastos	677
+3517	PERSON	Bastos	677
+3518	LOCATION	Doha	677
+3519	LOCATION	Qatar	677
+3520	ORGANIZATION	Pelotas	677
+3521	LOCATION	Excelsior	677
+3522	PERSON	Grêmio	677
+3523	LOCATION	Pelotas	677
+3524	ORGANIZATION	Esporte Clube Pelotas	677
+3525	ORGANIZATION	Feyenoord Rotterdam	677
+3526	ORGANIZATION	Jong Feyenoord	677
+3527	LOCATION	Excelsior Rotterdam	677
+3528	ORGANIZATION	Lille OSC	677
+3529	PERSON	Deian Boldor	678
+3530	PERSON	Francesco Karkalis	679
+3531	PERSON	Andrea Scrugli	680
+3532	PERSON	Santiago Juan Gentiletti	681
+3533	ORGANIZATION	Stade Brestois	681
+3534	PERSON	Gentiletti	681
+3535	LOCATION	Gimnasia de La Plata	681
+3536	PERSON	Claudio Borghi	681
+3537	PERSON	Walter Bressan	682
+3538	PERSON	Dembel Sall	683
+3539	PERSON	Emanuele Gatto	684
+3540	PERSON	Riccardo Barbuti	685
+3541	PERSON	Przemysław Tytoń	686
+3542	LOCATION	Zamość	686
+3543	PERSON	Tytoń	686
+3544	PERSON	Górnik Łęczna	686
+3545	ORGANIZATION	PZPN	686
+3546	ORGANIZATION	Roda JC	686
+3547	ORGANIZATION	Heracles Almelo	686
+3548	PERSON	Bram Castro	686
+3549	PERSON	Maarten Stekelenburg	686
+3550	ORGANIZATION	KRC Genk	686
+3551	PERSON	Jeffrén Isaac Suárez Bermúdez	687
+3552	PERSON	Jeffrén	687
+3553	LOCATION	Ciudad Bolívar	687
+3554	LOCATION	Tenerife	687
+3555	ORGANIZATION	CD Tenerife	687
+3556	PERSON	Guillermo Hoyos	687
+3557	ORGANIZATION	CF Badalona	687
+3558	PERSON	Javier Saviola	687
+3559	PERSON	Eduardo Jesús Vargas Rojas	688
+3560	PERSON	Vargas	688
+3561	LOCATION	Renca	688
+3562	LOCATION	Puerto Montt	688
+3563	PERSON	Osvaldo Hurtado	688
+3564	PERSON	Jorge Aravena	688
+3565	LOCATION	Cobreloa	688
+3566	PERSON	Universidad Arturo Prat	688
+3567	LOCATION	San Marcos de Arica	688
+3568	ORGANIZATION	Club Universidad de Chile	688
+3569	PERSON	Claudio Ranieri	688
+3570	PERSON	Antonio Rosati	689
+3571	LOCATION	Tivoli	689
+3572	ORGANIZATION	Cisco Calcio Roma	689
+3573	PERSON	Rosati	689
+3574	PERSON	Francesco Benussi	689
+3575	PERSON	Benussi	690
+3576	LOCATION	Venezia	690
+3577	PERSON	Lumezzane	690
+3578	PERSON	Giovanni Indiveri	690
+3579	PERSON	Salvatore Soviero	690
+3580	LOCATION	Arezzo	690
+3581	PERSON	Soviero	690
+3582	PERSON	Nicola Pavarini	690
+3583	PERSON	Alex Manninger	690
+3584	PERSON	Gianmarco Gerevini	691
+3585	PERSON	Luis Alberto Suárez Díaz	692
+3586	ORGANIZATION	Groningen	692
+3587	PERSON	Johan Cruyff	692
+3588	PERSON	Marco van Basten	692
+3589	PERSON	Dennis Bergkamp	692
+3590	PERSON	Lorenzo Paramatti	693
+3591	PERSON	Paolo De Ceglie	694
+3592	LOCATION	Aosta	694
+3593	PERSON	De Ceglie	694
+3594	PERSON	Pavel Nedvěd	694
+3595	ORGANIZATION	Campionato Primavera	694
+3596	LOCATION	Calciopoli	694
+3597	PERSON	Claudio Marchisio	694
+3598	PERSON	Sebastian Giovinco	694
+3599	PERSON	Tomasch Calore	695
+3600	PERSON	Jérémy Ménez	696
+3601	PERSON	Ménez	696
+3602	LOCATION	Monaco	696
+3603	PERSON	Ricardo Gomes	696
+3604	ORGANIZATION	Reial Club Deportiu Espanyol de Barcelona	697
+3605	ORGANIZATION	Royal Spanish Sports Club of Barcelona	697
+3606	LOCATION	Estadi Cornellà-El Prat	697
+3607	ORGANIZATION	Estadi Olímpic Lluís Companys	697
+3608	LOCATION	Estadi de Sarrià	697
+3609	PERSON	Ángel Rodríguez	697
+3610	ORGANIZATION	University of Barcelona	697
+3611	ORGANIZATION	Club Español	697
+3612	PERSON	Robin Quaison	698
+3613	PERSON	Jonathan Pereira Rodríguez	699
+3614	PERSON	Pereira	699
+3615	PERSON	Keylor Navas	700
+3616	LOCATION	San Isidro de El General	700
+3617	ORGANIZATION	Saprissa	700
+3618	ORGANIZATION	CONCACAF	700
+3619	PERSON	Navas	700
+3620	PERSON	Carmelita	700
+3621	ORGANIZATION	São Paulo Futebol Clube	700
+3622	PERSON	Albacete Balompie	700
+3623	PERSON	Lazzari	701
+3624	PERSON	Riccardo Nardini	701
+3625	PERSON	Nardini	701
+3626	PERSON	Salvatore Foti	701
+3627	PERSON	Munir El Haddadi Mohamed	702
+3628	PERSON	Munir	702
+3629	ORGANIZATION	UEFA Youth League	702
+3630	PERSON	Vicente Guaita Panadero	703
+3631	LOCATION	Torrente	703
+3632	PERSON	Horta Oest	703
+3633	PERSON	Guaita	703
+3634	PERSON	Santiago Cañizares	703
+3635	PERSON	Timo Hildebrand	703
+3636	PERSON	Renan	703
+3637	PERSON	Sánchez	703
+3638	PERSON	Miguel Ángel Moyà	703
+3639	PERSON	Zamora	703
+3640	PERSON	Leandro Greco	704
+3641	PERSON	Greco	704
+3642	PERSON	Alessio Cerci	705
+3643	PERSON	Henry	705
+3644	PERSON	Daniele Corvia	705
+3645	PERSON	Giulio Falcone	705
+3646	PERSON	Pisa Calcio	705
+3647	PERSON	Giampiero Ventura	705
+3648	PERSON	Matteo Contini	706
+3649	ORGANIZATION	AC Milan	706
+3650	LOCATION	L'Aquila	706
+3651	PERSON	Contini	706
+3652	PERSON	Jherson Vergara Amú	707
+3653	LOCATION	South America	707
+3654	PERSON	Antonio Nocerino	708
+3655	PERSON	Gennaro Gattuso	708
+3656	PERSON	Catanzaro	708
+3657	ORGANIZATION	Stadio Città del Tricolore	709
+3658	LOCATION	Reggio Emilia	709
+3659	PERSON	Stadio Giglio	709
+3660	PERSON	Stadio Mirabello	709
+3661	ORGANIZATION	A.C. Reggiana	709
+3662	ORGANIZATION	Magners League	709
+3663	PERSON	Aironi	709
+3664	PERSON	Facundo Sebastián Roncaglia	710
+3665	LOCATION	Chajarí	710
+3666	PERSON	Roncaglia	710
+3667	PERSON	Juan Forlín	710
+3668	LOCATION	Estudiantes	710
+3669	LOCATION	Mediterráneo Stadium	711
+3670	PERSON	Ipurua	712
+3671	ORGANIZATION	SD Eibar	712
+3672	LOCATION	Elgoibar	712
+3673	PERSON	Anderson Luís de Abreu Oliveira	713
+3674	PERSON	Anderson	713
+3675	PERSON	Náutico	713
+3676	PERSON	Estadi Ciutat de València	715
+3677	LOCATION	Estadio Ciudad de Valencia	715
+3678	LOCATION	Valencia Stadium	715
+3679	PERSON	Victor Nsofor Obinna	716
+3680	LOCATION	Jos	716
+3681	LOCATION	Nigerian	716
+3682	ORGANIZATION	FC Lokomotiv Moscow	716
+3683	PERSON	Obinna	716
+3684	ORGANIZATION	Plateau United	716
+3685	ORGANIZATION	Kwara United	716
+3686	PERSON	Marcelo Houseman	716
+3687	ORGANIZATION	Internacional	716
+3688	LOCATION	Enyimba	716
+3689	ORGANIZATION	CAF Champions League	716
+3690	PERSON	Diogo Ferreira Salomão	717
+3691	LOCATION	Lisbon District	717
+3692	PERSON	Salomão	717
+3693	LOCATION	Casa Pia AC	717
+3694	ORGANIZATION	Real Sport Clube	717
+3695	ORGANIZATION	PFC Levski Sofia	717
+3696	PERSON	Pedro Filipe Teodósio Mendes	718
+3697	LOCATION	Neuchâtel	718
+3698	PERSON	Mendes	718
+3699	ORGANIZATION	Servette FC	718
+3700	PERSON	Álvaro Arbeloa	718
+3701	PERSON	Gianpaolo Bellini	719
+3702	ORGANIZATION	Corte di Giustizia Federale	719
+3703	PERSON	Etienne Arthur Boka	720
+3704	LOCATION	Abidjan	720
+3705	ORGANIZATION	ASEC Abidjan	720
+3706	PERSON	Kolo Touré	720
+3707	PERSON	Emmanuel Eboué	720
+3708	PERSON	Aruna Dindane	720
+3709	PERSON	Roberto Carlos	720
+3710	PERSON	Boka	720
+3711	PERSON	Matías Agustín Silvestre	721
+3712	PERSON	Silvestre	721
+3713	PERSON	Silvio Baldini	721
+3714	PERSON	Baldini	721
+3715	PERSON	Dušan Basta	722
+3716	PERSON	Basta	722
+3717	ORGANIZATION	PKB	722
+3718	LOCATION	Padinska Skela	722
+3719	LOCATION	Sutjeska	722
+3720	LOCATION	Nikšić	722
+3721	LOCATION	Jedinstvo Paraćin	722
+3722	PERSON	Aleksandar Luković	722
+3723	PERSON	Simone Bentivoglio	723
+3724	LOCATION	Pinerolo	723
+3725	PERSON	Tommaso Chiecchi	723
+3726	PERSON	Bentivoglio	723
+3727	LOCATION	Luxembourg	723
+3728	PERSON	Michele Canini	724
+3729	PERSON	Viviano	725
+3730	PERSON	Stefano Pedrelli	725
+3731	PERSON	Marco Donadel	726
+3732	LOCATION	Conegliano	726
+3733	PERSON	Donadel	726
+3734	LOCATION	Donadel	726
+3735	PERSON	Marko Vešović	727
+3736	PERSON	Mapкo Вешовић	727
+3737	LOCATION	Titograd	727
+3738	LOCATION	Podgorica	727
+3739	LOCATION	Lučani	727
+3740	ORGANIZATION	FK Mladost Lučani	727
+3741	ORGANIZATION	Montenegrin First League	727
+3742	PERSON	Vešović	727
+3743	ORGANIZATION	FC Koper	727
+3744	PERSON	Roberto Vitiello	728
+3745	PERSON	A. Vitiello	728
+3746	PERSON	Joaquín José Marín Ruiz	729
+3747	PERSON	Vincenzo	730
+3748	PERSON	Maresca	730
+3749	LOCATION	Pontecagnano Faiano	730
+3750	ORGANIZATION	Albion	730
+3751	PERSON	Fabrizio Miccoli	730
+3752	PERSON	Estadio El Sadar	731
+3753	PERSON	Reyno	731
+3754	LOCATION	Navarra	731
+3755	LOCATION	Osasuna	731
+3756	LOCATION	El Sadar	731
+3757	LOCATION	San Juan	731
+3758	ORGANIZATION	Vitoria	731
+3759	PERSON	Osaba	731
+3760	PERSON	Bon Jovi	731
+3761	PERSON	Giuseppe Meazza	732
+3762	PERSON	Piero Pirelli	732
+3763	PERSON	José Ernesto Sosa	733
+3764	LOCATION	Kharkiv	733
+3765	PERSON	Sosa	733
+3766	PERSON	Carlos Bilardo	733
+3767	PERSON	Marcelo Carrusca	733
+3768	PERSON	Estudiantes	733
+3769	PERSON	Gimnasia	733
+3770	PERSON	Davide Biondini	734
+3771	LOCATION	Longiano	734
+3772	PERSON	Reggina Calcio	734
+3773	PERSON	Biondini	734
+3774	PERSON	Oier Olazábal Paredes	735
+3775	LOCATION	Irun	735
+3776	LOCATION	Gipuzkoa	735
+3777	PERSON	Olazábal	735
+3778	PERSON	Oier	735
+3779	PERSON	Mariano Gonzalo Andújar	736
+3780	PERSON	Andújar	736
+3781	PERSON	Club Atlético Huracán	736
+3782	PERSON	Andujar	736
+3783	PERSON	Matteo Guardalben	736
+3784	PERSON	Pablo Estifer Armero	737
+3785	LOCATION	América de Cali	737
+3786	LOCATION	Armero	737
+3787	ORGANIZATION	América de Cali	737
+3788	PERSON	Poços de Caldas	737
+3789	PERSON	Alex Rodrigo Dias da Costa	738
+3790	LOCATION	Niterói	738
+3791	ORGANIZATION	Vasco da Gama	738
+3792	PERSON	Friuli-Venezia Giulia	739
+3793	ORGANIZATION	Udinese Channel	739
+3794	LOCATION	Friuli-Venezia Giulia	739
+3795	ORGANIZATION	Società Udinese	739
+3796	PERSON	Ginnastica	739
+3797	PERSON	Scherma	739
+3798	ORGANIZATION	Udinese Society of Gymnastics	739
+3799	ORGANIZATION	Torneo FNGI	739
+3800	PERSON	Ferrara	739
+3801	PERSON	Luigi Dal Dan	739
+3802	ORGANIZATION	A.C. Udinese	739
+3803	ORGANIZATION	Juventus Palmanova	739
+3804	LOCATION	San Sebastián	740
+3805	ORGANIZATION	Donostia Football Club	740
+3806	ORGANIZATION	Royal Society of Football	740
+3807	LOCATION	San Sebastian	740
+3808	LOCATION	Britain	740
+3809	ORGANIZATION	San Sebastian Recreation Club	740
+3810	ORGANIZATION	San Sebastian Football Club	740
+3811	PERSON	Paolo Castellini	741
+3812	PERSON	Castellini	741
+3813	LOCATION	U.S. Cremonese	741
+3814	PERSON	Toro	741
+3815	ORGANIZATION	Parma FC	741
+3816	PERSON	Constantin Nica	742
+3817	LOCATION	Bucharest	742
+3818	ORGANIZATION	Dinamo Bucureşti	742
+3819	PERSON	Nica	742
+3820	PERSON	Adil Rami	743
+3821	PERSON	Rami	743
+3822	LOCATION	Lille	743
+3823	PERSON	Edgar Çani	744
+3824	LOCATION	Tirana	744
+3825	LOCATION	Polonia Warsaw	744
+3826	LOCATION	Albania	744
+3827	LOCATION	Città della Pieve	744
+3828	LOCATION	Perugia	744
+3829	PERSON	Çani	744
+3830	PERSON	Luca Di Matteo	744
+3831	PERSON	Rolando Bianchi	745
+3832	LOCATION	Lovere	745
+3833	PERSON	Bianchi	745
+3834	PERSON	Samuele Longo	746
+3835	LOCATION	Valdobbiadene	746
+3836	PERSON	Longo	746
+3837	PERSON	Baba Thiam	746
+3838	PERSON	Denis Alibec	746
+3839	PERSON	Mattia Destro	746
+3840	PERSON	Thiam	746
+3841	PERSON	Giuseppe Angarano	746
+3842	PERSON	Luca Stocchi	746
+3843	PERSON	Rafael	747
+3844	PERSON	Páez Cardona	747
+3845	PERSON	Lorenzo Venuti	748
+3846	PERSON	Tomer Hemed	749
+3847	PERSON	Maccabi Haifa	749
+3848	PERSON	Hemed	749
+3849	LOCATION	Bnei Yehuda Tel Aviv	749
+3850	LOCATION	Haifa	749
+3851	ORGANIZATION	Maccabi Herzilya	749
+3852	LOCATION	Maccabi Ahi Nazareth	749
+3853	PERSON	John Gregory	749
+3854	PERSON	Gregory	749
+3855	ORGANIZATION	Daily Mail	749
+3856	LOCATION	Nazareth	749
+3857	PERSON	Andrea Costa	750
+3858	PERSON	Mamadou Samassa	751
+3859	LOCATION	Montfermeil	751
+3860	ORGANIZATION	Valenciennes	751
+3861	PERSON	Seine-Saint-Denis	751
+3862	PERSON	Samassa	751
+3863	ORGANIZATION	Red Star Paris	751
+3864	ORGANIZATION	Le Mans Union Club	751
+3865	PERSON	Le Mans	751
+3866	PERSON	Rodrigo Moreno Machado	752
+3867	PERSON	Rodrigo	752
+3868	ORGANIZATION	Bolton Wanderers of the Premier League	752
+3869	LOCATION	Burnley	752
+3870	ORGANIZATION	Bolton Wanderers	752
+3871	PERSON	Djamel Eddine Mesbah	753
+3872	LOCATION	Zighoud Youcef	753
+3873	PERSON	Mesbah	753
+3874	ORGANIZATION	US Annecy-le-Vieux	753
+3875	ORGANIZATION	FC Aarau	753
+3876	ORGANIZATION	FC Luzern	753
+3877	PERSON	Luca Ceccarelli	754
+3878	LOCATION	Gambettola	754
+3879	PERSON	Forlì-Cesena	754
+3880	PERSON	Ceccarelli	754
+3881	PERSON	Pavia	754
+3882	LOCATION	San Marino Calcio	754
+3883	PERSON	Cesena	754
+3884	PERSON	Martin Petráš	754
+3885	PERSON	A. Ceccarelli	754
+3886	PERSON	Yuto Nagatomo	754
+3887	PERSON	Maurizio Lauro	754
+3888	PERSON	Nagatomo	754
+3889	PERSON	Lorenzo Ariaudo	755
+3890	PERSON	Ariaudo	755
+3891	ORGANIZATION	Artmedia Petržalka	755
+3892	PERSON	José Rodolfo Pires Ribeiro	756
+3893	LOCATION	Carrington	756
+3894	LOCATION	Bahia	756
+3895	PERSON	Karim Ansarifard	757
+3896	ORGANIZATION	Iran Pro League	757
+3897	LOCATION	Iran	757
+3898	PERSON	Ali Daei	757
+3899	PERSON	Daei	757
+3900	PERSON	Ansarifard	757
+3901	PERSON	Javier Hernandez	757
+3902	PERSON	Jack Wilshere	757
+3903	LOCATION	FIFA.com	757
+3904	ORGANIZATION	Saipa	757
+3905	LOCATION	Ardabil	757
+3906	PERSON	Karim	757
+3907	PERSON	Mohsen Khalili	757
+3908	PERSON	Jonathas Cristian de Jesus	758
+3909	PERSON	Jonathas	758
+3910	PERSON	Villa Nova	758
+3911	LOCATION	AZ Alkmaar	758
+3912	PERSON	Spakenburg	758
+3913	LOCATION	Alkmaar	758
+3914	PERSON	Limburgian	758
+3915	PERSON	Richmond Yiadom Boakye	759
+3916	LOCATION	Agogo	759
+3917	PERSON	Boakye	759
+3918	ORGANIZATION	Bechem United	759
+3919	ORGANIZATION	Youth League	759
+3920	PERSON	David Suazo	759
+3921	PERSON	Richmond Boakye-Yiadom	759
+3922	PERSON	Diego Sebastián Laxalt Suárez	760
+3923	PERSON	Rafael Alcántara	761
+3924	PERSON	Rafinha	761
+3925	ORGANIZATION	FC Barcelona B in Segunda División	761
+3926	LOCATION	Sao Paulo	761
+3927	PERSON	Alcántara	761
+3928	PERSON	Jonathan dos Santos	761
+3929	ORGANIZATION	Mazinho	761
+3930	PERSON	Valéria	761
+3931	PERSON	Thiago	761
+3932	PERSON	Giuseppe Rizzo	762
+3933	PERSON	Rizzo	762
+3934	LOCATION	Stadio Bruno Recchioni	762
+3935	PERSON	Miguel Pérez Cuesta	763
+3936	PERSON	Michu	763
+3937	PERSON	Celta	763
+3938	ORGANIZATION	Celta	763
+3939	PERSON	Doblas Santana	764
+3940	LOCATION	Bellavista	764
+3941	PERSON	Doblas	764
+3942	LOCATION	Andalusian	764
+3943	PERSON	Pedro Contreras	764
+3944	PERSON	Alexis Zapata	765
+3945	PERSON	Jérémy Mathieu	766
+3946	LOCATION	Luxeuil-les-Bains	766
+3947	PERSON	Mathieu	766
+3948	LOCATION	Franche-Comté	766
+3949	ORGANIZATION	CS Sedan	766
+3950	LOCATION	Sant'Angelo Lodigiano	767
+3951	PERSON	Matri	767
+3952	PERSON	Michele Piccolo	767
+3953	PERSON	Roberto Bortolotto	767
+3954	PERSON	Ricchiuti	767
+3955	PERSON	Moscardelli	767
+3956	PERSON	Octávio Merlo Manteca	768
+3957	PERSON	Gabriel Eduardo Corozo Vásquez	769
+3958	ORGANIZATION	Granada B	769
+3959	PERSON	Claudio Andrés Bravo Muñoz	770
+3960	LOCATION	Viluco	770
+3961	LOCATION	Maipo Province	770
+3962	PERSON	Bravo	770
+3963	ORGANIZATION	Colo-Colo	770
+3964	PERSON	Condor Chico	770
+3965	PERSON	Roberto Rojas	770
+3966	PERSON	Eduardo Lobos	770
+3967	PERSON	Jaime Pizarro	770
+3968	PERSON	Jonny Walker	770
+3969	PERSON	Lobos	770
+3970	PERSON	Colo-Colo	770
+3971	PERSON	Francesco Fedato	771
+3972	PERSON	Unione Venezia	771
+3973	PERSON	José María Basanta	772
+3974	LOCATION	Tres Sargentos	772
+3975	LOCATION	Monterrey	772
+3976	PERSON	Basanta	772
+3977	PERSON	Olimpo de Bahía Blanca	772
+3978	PERSON	Olimpo	772
+3979	PERSON	Ricardo La Volpe	772
+3980	PERSON	Mariano	772
+3981	PERSON	Gonzalo Pavone	772
+3982	PERSON	Marko Marin	773
+3983	LOCATION	Bosanska Gradiška	773
+3984	LOCATION	Marin	773
+3985	PERSON	Marin	773
+3986	PERSON	Borka	773
+3987	PERSON	Ranko	773
+3988	LOCATION	Frankfurt	773
+3989	PERSON	Marko	773
+3990	PERSON	Dejan Savićević	773
+3991	ORGANIZATION	SG	773
+3992	ORGANIZATION	Hoechst	773
+3993	ORGANIZATION	Eintracht	773
+3994	LOCATION	Eintracht	773
+3995	PERSON	McDonald Mariga Wanyama	774
+3996	PERSON	Mariga	774
+3997	ORGANIZATION	Ulinzi Stars	774
+3998	ORGANIZATION	Tusker FC	774
+3999	ORGANIZATION	Pipeline FC	774
+4000	ORGANIZATION	Kamukunji High School	774
+4001	PERSON	Dennis Oliech	774
+4002	ORGANIZATION	Auxerre	774
+4003	ORGANIZATION	Enköpings SK	774
+4004	LOCATION	Helsingborgs	774
+4005	PERSON	Luca Castellazzi	775
+4006	PERSON	Vincenzo Mazzeo	775
+4007	PERSON	Castellazzi	775
+4008	PERSON	Luigi Turci	775
+4009	PERSON	Francesco Antonioli	775
+4010	PERSON	Antonioli	775
+4011	PERSON	Coppola	776
+4012	PERSON	Giuseppe Taglialatela	776
+4013	PERSON	Luca Mondini	776
+4014	PERSON	Alessio Bandieri	776
+4015	PERSON	Gianluca Pagliuca	776
+4016	ORGANIZATION	Reggina Calcio	776
+4017	PERSON	Valerio Fiori	776
+4018	PERSON	Željko Kalac	776
+4019	PERSON	Fiori	776
+4020	PERSON	Quagliarella	777
+4021	PERSON	Florentia Viola	777
+4022	LOCATION	Chieti	777
+4023	PERSON	Jonathan dos Santos Ramírez	778
+4024	PERSON	Zizinho	778
+4025	LOCATION	Brazilian	778
+4026	PERSON	Giovani dos Santos	778
+4027	PERSON	Luis Enrique	778
+4028	PERSON	Blaugrana	778
+4029	PERSON	dos Santos	778
+4030	PERSON	Federico Piovaccari	779
+4031	PERSON	Caso Genoa	779
+4032	ORGANIZATION	Ravenna of Prima Divisione	779
+4033	PERSON	Francesco Zizzari	779
+4034	PERSON	Luca Gerbino Polo	779
+4035	PERSON	Stefano Scappini	779
+4036	PERSON	Matteo Ardemagni	779
+4037	PERSON	Paolo Rossi	779
+4038	PERSON	Piovaccari	779
+4039	PERSON	Ricardo Jorge da Luz Horta	780
+4040	PERSON	Mario Pašalić	781
+4041	PERSON	Unai López Cabrera	782
+4042	PERSON	Massimo Donati	783
+4043	LOCATION	Sedegliano	783
+4044	PERSON	Donati	783
+4045	PERSON	Cristian Zenoni	783
+4046	PERSON	Neil Lennon	783
+4047	ORGANIZATION	Kilmarnock	783
+4048	PERSON	Marcelo Alejandro Estigarribia Balmori	784
+4049	LOCATION	Fernando de la Mora	784
+4050	PERSON	Deportivo Maldonado	784
+4051	PERSON	Estigarribia	784
+4052	PERSON	Chelo	784
+4053	PERSON	Marcelo	784
+4054	PERSON	Fernando de la Mora	784
+4055	LOCATION	Asunción	784
+4056	PERSON	Catholic	784
+4057	LOCATION	Sport Colombia	784
+4058	PERSON	Luís Carlos Ramos Martins	785
+4059	LOCATION	Lamego	785
+4060	LOCATION	Viseu District	785
+4061	PERSON	Martins	785
+4062	PERSON	Miguel Vítor	785
+4063	PERSON	Ilídio Vale	785
+4064	PERSON	João Pedro Pereira Silva	786
+4065	ORGANIZATION	Santo Tirso Municipality	786
+4066	ORGANIZATION	Toffees	786
+4067	LOCATION	Leiria	786
+4068	LOCATION	Benfica	786
+4069	PERSON	Vitória de Setúbal	786
+4070	PERSON	Yoel Rodríguez Oterino	787
+4071	PERSON	Yoel	787
+4072	PERSON	Juan Ramón López Caro	787
+4073	PERSON	Nicola Pozzi	788
+4074	LOCATION	Santarcangelo di Romagna	788
+4075	PERSON	Luca Antonini	788
+4076	PERSON	Lino Marzoratti	788
+4077	PERSON	Ignazio Abate	788
+4078	ORGANIZATION	Pozzi	788
+4079	PERSON	Antonini	788
+4080	PERSON	Abate	788
+4081	PERSON	Pozzi	788
+4082	PERSON	Luca Rigoni	789
+4083	PERSON	Nicola Rigoni	789
+4084	LOCATION	Schio	789
+4085	PERSON	Rigoni	789
+4086	PERSON	Vincenzo Italiano	789
+4087	PERSON	Panagiotis Giorgios Kone	790
+4088	PERSON	Kone	790
+4089	LOCATION	Rivaldo	790
+4090	LOCATION	Iraklis	790
+4091	PERSON	Ibson Barreto da Silva	791
+4092	PERSON	Ibson	791
+4093	LOCATION	Flamengo	791
+4094	PERSON	Laís Souza	791
+4095	PERSON	Abel Braga	791
+4096	LOCATION	Zinho	791
+4097	PERSON	Felipe	791
+4098	PERSON	Jean	791
+4099	ORGANIZATION	Rio de Janeiro State League	791
+4100	LOCATION	Brasil	791
+4101	LOCATION	Ibson	791
+4102	PERSON	Flamengo	791
+4103	PERSON	Juan Carlos Pérez López	792
+4104	PERSON	Juan Carlos	792
+4105	PERSON	El Galgo de Boadilla	792
+4106	LOCATION	Boadilla	792
+4107	PERSON	Gimnástica de Torrelavega	792
+4108	PERSON	Emanuele Pesoli	793
+4109	LOCATION	Anagni	793
+4110	PERSON	Andrea Tabanelli	794
+4111	PERSON	Valter Birsa	795
+4112	LOCATION	Šempeter pri Gorici	795
+4113	LOCATION	Nova Gorica	795
+4114	PERSON	Birsa	795
+4115	ORGANIZATION	NK Bilje	795
+4116	LOCATION	Bilje	795
+4117	ORGANIZATION	NK Primorje	795
+4118	ORGANIZATION	Ligue de Football Professionnel	795
+4119	PERSON	Clecildo Rafael Martins de Souza Ladislau	796
+4120	PERSON	Rafael Martins	796
+4121	ORGANIZATION	ABC Futebol Clube	796
+4122	PERSON	Luigi Giorgi	797
+4123	PERSON	Giorgi	797
+4124	PERSON	Mounir Obbadi	798
+4125	LOCATION	Pontoise	798
+4126	LOCATION	Yvelines	798
+4127	PERSON	Obbadi	798
+4128	ORGANIZATION	SCO	798
+4129	ORGANIZATION	National to Ligue	798
+4130	PERSON	Hrvoje Miličević	799
+4131	LOCATION	Mostar	799
+4132	PERSON	Francesco Lodi	800
+4133	LOCATION	Lodi	800
+4134	PERSON	Lega Calcio	800
+4135	ORGANIZATION	Frosinone Calcio	800
+4136	PERSON	Daniel Larsson	801
+4137	LOCATION	Gothenburg	801
+4138	PERSON	Larsson	801
+4139	LOCATION	Superettan	801
+4140	PERSON	Häcken	801
+4141	LOCATION	Häcken	801
+4142	PERSON	Edward Ofere	801
+4143	PERSON	Allsvenskan Larsson	801
+4144	PERSON	Amedej Vetrih	802
+4145	LOCATION	Pergocrema	803
+4146	PERSON	Enrico Rossi	803
+4147	ORGANIZATION	Pro Patria	803
+4148	LOCATION	Alessandria	803
+4149	PERSON	Andrea Servili	803
+4150	PERSON	Faouzi Ghoulam	804
+4151	LOCATION	Saint-Priest-en-Jarez	804
+4152	LOCATION	Saint-Étienne	804
+4153	PERSON	Ghoulam	804
+4154	LOCATION	Batna	804
+4155	LOCATION	Annaba	804
+4156	PERSON	Nabil	804
+4157	ORGANIZATION	IAAF	804
+4158	ORGANIZATION	Coupe de la Ligue	804
+4159	ORGANIZATION	Le Buteur	804
+4160	PERSON	Azzedine Aït Djoudi	804
+4161	ORGANIZATION	Football Federation	804
+4162	PERSON	Jesús Fernández Collado	805
+4163	PERSON	Jesús	805
+4164	PERSON	Diego Aguirre Parra	806
+4165	PERSON	Michelangelo Albertazzi	807
+4166	PERSON	Emilia	807
+4167	PERSON	Albertazzi	807
+4168	PERSON	Dante Berretti	807
+4169	PERSON	Miśkiewicz	807
+4170	PERSON	Romagnoli	807
+4171	PERSON	Oduamadi	807
+4172	PERSON	Strasser	807
+4173	PERSON	A.C. Milan Primavera	807
+4174	PERSON	Armando Izzo	808
+4175	ORGANIZATION	Port Vale	809
+4176	PERSON	Paolo Cannavaro	810
+4177	PERSON	Cannavaro	810
+4178	PERSON	Paolo	810
+4179	PERSON	Juan Manuel Ortiz Palazón	811
+4180	PERSON	Juanma	811
+4181	ORGANIZATION	Rangers	811
+4182	LOCATION	Guardamar del Segura	811
+4183	PERSON	Ortiz	811
+4184	PERSON	Copa del Rey	811
+4185	PERSON	Danilo Cataldi	812
+4186	PERSON	Artur Ioniţă	813
+4187	PERSON	Ioniţă	813
+4188	LOCATION	Moldova	813
+4189	PERSON	Edimar Curitiba Fraga	814
+4190	ORGANIZATION	Skoda Xanthi	814
+4191	PERSON	Edimar	814
+4192	ORGANIZATION	Campeonato Mineiro	814
+4193	PERSON	Tupi	814
+4194	ORGANIZATION	Sporting Braga	814
+4195	PERSON	Sergio Agatino Garufi	815
+4196	PERSON	Massimo Coda	816
+4197	LOCATION	Cavese	816
+4198	ORGANIZATION	Cisco Roma	816
+4199	PERSON	Antonio Caracciolo	817
+4200	PERSON	A.C. Pavia	817
+4201	PERSON	Achraf Lazaar	818
+4202	PERSON	Borja González Tomás	819
+4203	PERSON	Bastón	819
+4204	PERSON	Tiago Mendes	819
+4205	ORGANIZATION	Atlético B	819
+4206	ORGANIZATION	CP Cacereño	819
+4207	PERSON	Nicola Sansone	820
+4208	PERSON	Sansone	820
+4209	ORGANIZATION	SV Neuperlach	820
+4210	ORGANIZATION	Dynamo Dresden	820
+4211	PERSON	Liga	820
+4212	PERSON	Roberto Soriano	820
+4213	LOCATION	Minsk	820
+4214	LOCATION	Belarus	820
+4215	LOCATION	Lormont	821
+4216	LOCATION	Réunionais	821
+4217	PERSON	Trémoulinas	821
+4218	LOCATION	US Lormont	821
+4219	PERSON	Florian Marange	821
+4220	PERSON	Franck Jurietti	821
+4221	ORGANIZATION	Le Mans	821
+4222	PERSON	Luca Martinelli	822
+4223	PERSON	Nicolao Manuel Dumitru Cardoso	823
+4224	PERSON	Dumitru	823
+4225	LOCATION	Nacka	823
+4226	PERSON	Lucas Vieira de Souza	824
+4227	PERSON	Nordin Amrabat	825
+4228	LOCATION	Naarden	825
+4229	LOCATION	Kayserispor	825
+4230	PERSON	Amrabat	825
+4231	PERSON	De Zuidvogels	825
+4232	LOCATION	Huizen	825
+4233	PERSON	Omniworld	825
+4234	ORGANIZATION	FC Omniworld	825
+4235	LOCATION	Venlo	825
+4236	ORGANIZATION	VVV Venlo	825
+4237	ORGANIZATION	SC Heerenveen	825
+4238	PERSON	Kenneth Perez	825

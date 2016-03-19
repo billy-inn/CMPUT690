@@ -1,0 +1,11 @@
+PREFIX fb: <http://rdf.freebase.com/ns/>
+PREFIX fbk: <http://rdf.freebase.com/key/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX c690: <http://cmput690/>
+
+SELECT ?player ?team
+WHERE
+  {
+	  ?roster fb:sports.sports_team_roster.player ?player ;
+	  fb:sports.sports_team_roster.team ?team .
+  }
